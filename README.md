@@ -6,7 +6,9 @@ This project aims to computationally model a radiation treatment using the LINAC
 
 # Development Environment
 
-The code for this project will primarily be written in Python using Visual Studio Code. The libraries I will be using are NumPy, MatPlotLib, and SymPy. 
+The code for this project will primarily be written in Python using Visual Studio Code. The libraries I will be using are NumPy and MatPlotLib
+
+To run this project on your own machine, clone the repository and then you can run "pip install -r requirements.txt" and it will automatically install all the libraries that I have used. 
 
 # Project Goals
 
@@ -20,6 +22,7 @@ The code for this project will primarily be written in Python using Visual Studi
 # Useful Websites
 
 - [Simple explanation of LINAC machines](https://www.radiologyinfo.org/en/info/linac)
+- [Setting up python virtual environments](https://www.youtube.com/watch?v=KxvKCSwlUv8)
 
 # Future Work
 
