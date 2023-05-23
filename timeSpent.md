@@ -4,9 +4,17 @@ This file is a record of the time I have spent on this project.
 
 Started: 5/22/2023
 
-## Week 1: 5/22-5/28
+# Long term goals:
 
-Goals:
+- 400 total hours
+- 16 weeks before school starts
+- 14 weeks of the semester
+- ~ 14 hours a week 
+- or 20 hours a week until school starts and 6 hours a week when school is in session
+
+# Week 1: 5/22-5/28
+
+Goals: 20 hours
 
 - Come up with some research papers to read and learn more about medical radiation procedures
 - Set up GitHub repository
@@ -14,3 +22,6 @@ Goals:
 - Make a plan for the project
 
 5/22 9:00 pm  Working on setting up GitHub and coming up with time periods for the project
+
+
+(testing color) <span style="color:blue">some *blue* text</span> 
