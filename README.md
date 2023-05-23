@@ -21,11 +21,15 @@ and it will automatically install all the libraries that I have used.
 
 # Research Articles
 
+
 - [Detailed article on RF LINACs](https://cds.cern.ch/record/1982425/files/295-329%20Vretenar.pdf)
 
 # Useful Websites
 
 - [Simple explanation of LINAC machines](https://www.radiologyinfo.org/en/info/linac)
+- [Types of LINACs used for radiation oncology](https://www.oncologysystems.com/resources/linear-accelerator-guides)
+
+
 - [Setting up python virtual environments](https://www.youtube.com/watch?v=KxvKCSwlUv8)
 
 # Future Work
