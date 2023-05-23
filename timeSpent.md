@@ -22,3 +22,4 @@ Goals: 20 hours
 - Make a plan for the project
 
 5/22 9:00 pm 2 hours Working on setting up GitHub and coming up with time periods for the project, setting up virtual environment. 
+5/23 5:50 pm  Looking for 3 research papers about LINAC machines to learn how they work
