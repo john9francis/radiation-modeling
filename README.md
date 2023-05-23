@@ -21,7 +21,7 @@ and it will automatically install all the libraries that I have used.
 
 # Research Articles
 
-- [how linac works](https://cds.cern.ch/record/1982425/files/295-329%20Vretenar.pdf)
+- [Detailed article on RF LINACs](https://cds.cern.ch/record/1982425/files/295-329%20Vretenar.pdf)
 
 # Useful Websites
 
