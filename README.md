@@ -8,7 +8,11 @@ This project aims to computationally model a radiation treatment using the LINAC
 
 The code for this project will primarily be written in Python using Visual Studio Code. The libraries I will be using are NumPy and MatPlotLib
 
-To run this project on your own machine, clone the repository and then you can run ```pip install -r requirements.txt``` and it will automatically install all the libraries that I have used. 
+To run this project on your own machine, clone the repository and then you can run 
+```
+pip install -r requirements.txt
+```
+and it will automatically install all the libraries that I have used. 
 
 # Project Goals
 
