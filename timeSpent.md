@@ -23,4 +23,4 @@ Goals: 20 hours
 
 - 5/22 9:00 pm 2 hrs Working on setting up GitHub and coming up with time periods for the project, setting up virtual environment. 
 - 5/23 5:50 pm 1 hr Research medical equipment websites to see which tools they use and researched how they work
-- 5/24 7:15 pm  Researching how the x-rays get shaped and stuff
+- 5/24 7:15 pm 1 hr Researched how the LINAC works (it's just a high energy x-ray beam) and looked into how proton therapy works
