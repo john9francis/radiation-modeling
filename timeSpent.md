@@ -18,7 +18,7 @@ Goals: 20 hours
 
 - Come up with some research papers to read and learn more about medical radiation procedures
 - ✅Set up GitHub repository
-- Make a Python virtual environment
+- ✅Make a Python virtual environment
 - Make a plan for the project
 
 - 5/22 9:00 pm 2 hrs Working on setting up GitHub and coming up with time periods for the project, setting up virtual environment. 
