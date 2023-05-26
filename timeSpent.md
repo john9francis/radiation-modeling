@@ -25,3 +25,4 @@ Goals: 20 hours
 - 5/23 5:50 pm 1 hr Research medical equipment websites to see which tools they use and researched how they work
 - 5/24 7:15 pm 1.5 hrs Researched how the LINAC works (it's just a high energy x-ray beam) and looked into how proton therapy works. Also got about 4 research papers collected to read
 - 5/25 3:45 pm 2 hrs Things I got done: 1. Learned about units: Grays are units of "dose" which is the damage done by the photon beam. 2. I compiled a bunch of graphs and papers about dose from an x-ray photon beam. 3. I wrote a short paper summarizing my goals for this project. 
+- 5/26 9:30 am  Read one research paper to try to get an idea for how x-ray photons can affect the body, or come up with project plan. 
