@@ -17,7 +17,7 @@ Started: 5/22/2023
 Goals: 20 hours
 
 - Come up with some research papers to read and learn more about medical radiation procedures
-- Set up GitHub repository
+- ✅Set up GitHub repository
 - Make a Python virtual environment
 - Make a plan for the project
 
