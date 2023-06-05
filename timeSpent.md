@@ -38,4 +38,4 @@ Goals: 20 hours
 - [ ] Read a research paper about how an x-ray beam from a LINAC can affect the body
 - [ ] Code something
 
-- 6/5 4:23 pm Found a good research paper about how LINACs affect the body
+- 6/5 4:23 pm Learned that "Dosimetry" is the field of measuring how much dose each part of the body recieves.
