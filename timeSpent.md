@@ -32,3 +32,8 @@ Goals: 20 hours
 - [ ] Code something. Preferrably how strong the beam is based on distance. 
 
 - 5/29 9:25 pm 15 minutes working on a project plan and timeline
+- (Memorial day vacation, didn't do much )
+
+# Week 3: 6/5 - 6/11
+- [ ] Read a research paper about how an x-ray beam from a LINAC can affect the body
+- [ ] Code something
