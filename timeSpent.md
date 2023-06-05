@@ -37,3 +37,5 @@ Goals: 20 hours
 # Week 3: 6/5 - 6/11
 - [ ] Read a research paper about how an x-ray beam from a LINAC can affect the body
 - [ ] Code something
+
+- 6/5 Found a good research paper about how LINACs affect the body
