@@ -38,4 +38,4 @@ Goals: 20 hours
 - [ ] Read a research paper about how an x-ray beam from a LINAC can affect the body
 - [ ] Code something
 
-- 6/5 4:23 pm Learned that "Dosimetry" is the field of measuring how much dose each part of the body recieves. Learned all about activity vs. exposure including the units of Bq, Gy, and Sv. Next step is learning the correlation between activity and distance and then coding something.
+- 6/5 4:23 pm 1 hr Learned that "Dosimetry" is the field of measuring how much dose each part of the body recieves. Learned all about activity vs. exposure including the units of Bq, Gy, and Sv. Next step is learning the correlation between activity and distance and then coding something.
