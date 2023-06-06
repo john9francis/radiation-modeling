@@ -12,23 +12,6 @@ pip install -r requirements.txt
 ```
 and it will automatically install all the libraries that I have used. 
 
-# Project plan: 
-## Phase 1:
-- Create a model of a stationary x-ray LINAC and the radiation activity at different distances, amounts of time, and voltages.
-- Implement a method to convert that activity into exposure
-## Phase 2: 
-- Create a model of a person (for now, just one circular cross-section) with a tumor in the center
-- Modify the linac model to be able to rotate around the person 
-- Record the exposure in each layer of the body
-## Phase 3:
-- Add attenuation to the model. The beam will lose energy as it passes through layers.
-
-## Further work: 
-- Add functionality for the tumor to be anywhere in the cross-section, not just the center.
-- Make the person model a bit more realistic. Mark out the cross section with organs, bones, etc.
-- Implement a method to convert the exposure into effective dose. Record the effective dose in each of the different organs.
-- Repeat everything with proton therapy instead of x-ray therapy
-
 # Research Articles
 
 - [Detailed article on RF LINACs](https://cds.cern.ch/record/1982425/files/295-329%20Vretenar.pdf)
