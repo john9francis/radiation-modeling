@@ -13,17 +13,17 @@ Started: 5/22/2023
 - or 20 hours a week until school starts and 6 hours a week when school is in session
 
 # Project plan: 
-## Phase 1 (6 weeks):
+### Phase 1 (6 weeks):
 - Create a model of a stationary x-ray LINAC and the radiation activity at different distances, amounts of time, and voltages.
 - Implement a method to convert that activity into exposure
-## Phase 2 (6 weeks): 
+### Phase 2 (6 weeks): 
 - Create a model of a person (for now, just one circular cross-section) with a tumor in the center
 - Modify the linac model to be able to rotate around the person 
 - Record the exposure in each layer of the body
-## Phase 3 (6 weeks):
+### Phase 3 (6 weeks):
 - Add attenuation to the model. The beam will lose energy as it passes through layers.
 
-## Further work (the rest of the time): 
+### Further work (the rest of the time): 
 - Add functionality for the tumor to be anywhere in the cross-section, not just the center.
 - Make the person model a bit more realistic. Mark out the cross section with organs, bones, etc.
 - Implement a method to convert the exposure into effective dose. Record the effective dose in each of the different organs.
@@ -56,4 +56,4 @@ Goals: 20 hours
 
 - 6/5 4:23 pm 1 hr Learned that "Dosimetry" is the field of measuring how much dose each part of the body recieves. Learned all about activity vs. exposure including the units of Bq, Gy, and Sv. Next step is learning the correlation between activity and distance and then coding something.
 - ================
-- 6/6 12:30 pm added some sources to my notes from yesterday. Also learned that activity follows the inverse square law for distance. Backed that up with lots of sources. Next step is figuring out how activity is related to volts of the machine, and to time.
+- 6/6 12:30 pm 2 hrs added some sources to my notes from yesterday. Also learned that activity follows the inverse square law for distance. Tried to write a simple program demonstrating the inverse square law, but I need to do more research on it because I'm not completely understanding it. 
