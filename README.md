@@ -1,8 +1,8 @@
 # Overview
 
-One effective way of treating cancer tumors in hospitals is radiation treatments. There are many methods of radiation treatment including using linear accelerator (LINAC) machines. These machines deliver radiation through X-Rays or electrons, shooting them into the body to annihilate the tumor. Collateral damage to other organs is minimized as the machine rotates around the patient, so that all the radiation goes through the tumor but only portions go through the outer layers of skin.
+One effective way of treating cancer tumors in hospitals is radiation treatments. There are many methods of radiation treatment including using linear accelerator (LINAC) machines. These machines deliver radiation through X-Rays, shooting them into the body to annihilate the tumor. Collateral damage to other organs is minimized as the machine rotates around the patient, so that all the radiation goes through the tumor but only portions go through the body's outer layers.
 
-This project aims to computationally model a radiation treatment using the LINAC machine. I will be conducting research to learn exactly how this machine works and delivers the radiation. Then, I will model how much damage will be affecting each layer of the body as the dosage is delivered. Finally, I will compare a couple of different methods of delivering the dosage (X-Rays, electrons, protons, etc.) and conclude which method causes the least amount of damage to surrounding areas of the body. 
+This project aims to computationally model a radiation treatment using the LINAC machine. I will be conducting research to learn exactly how this machine works and delivers the radiation. Then, I will model how much damage will be affecting each layer of the body as the dosage is delivered, as well as how much dose was delivered to the tumor.
 
 # Development Environment
 
@@ -12,15 +12,24 @@ pip install -r requirements.txt
 ```
 and it will automatically install all the libraries that I have used. 
 
-# Project Goals
+# Project plan: 
+## Phase 1:
+- Create a model of a stationary x-ray LINAC and the radiation activity at different distances, amounts of time, and voltages.
+- Implement a method to convert that activity into exposure
+## Phase 2: 
+- Create a model of a person (for now, just one circular cross-section) with a tumor in the center
+- Modify the linac model to be able to rotate around the person 
+- Record the exposure in each layer of the body
+## Phase 3:
+- Add attenuation to the model. The beam will lose energy as it passes through layers.
 
-- Model what a LINAC does in a one dimensional context
-- Model a person and model how the accelerator affects each region of the body, neglecting attenuation of the particle/ray going through the body
-- Compare and contrast different methods of Linear Acceleration (X-ray, electron, proton)
-- Add attenuation to the mix and conclude how much dosage each layer of the body will recieve
+## Further work: 
+- Add functionality for the tumor to be anywhere in the cross-section, not just the center.
+- Make the person model a bit more realistic. Mark out the cross section with organs, bones, etc.
+- Implement a method to convert the exposure into effective dose. Record the effective dose in each of the different organs.
+- Repeat everything with proton therapy instead of x-ray therapy
 
 # Research Articles
-
 
 - [Detailed article on RF LINACs](https://cds.cern.ch/record/1982425/files/295-329%20Vretenar.pdf)
 
@@ -28,7 +37,6 @@ and it will automatically install all the libraries that I have used.
 
 - [Simple explanation of LINAC machines](https://www.radiologyinfo.org/en/info/linac)
 - [Types of LINACs used for radiation oncology](https://www.oncologysystems.com/resources/linear-accelerator-guides)
-
 
 - [Setting up python virtual environments](https://www.youtube.com/watch?v=KxvKCSwlUv8)
 
