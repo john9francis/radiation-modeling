@@ -40,4 +40,4 @@ Goals: 20 hours
 - [ ] Get a model of the activity per distance of a LINAC completed.
 
 - 6/5 4:23 pm 1 hr Learned that "Dosimetry" is the field of measuring how much dose each part of the body recieves. Learned all about activity vs. exposure including the units of Bq, Gy, and Sv. Next step is learning the correlation between activity and distance and then coding something.
-- 6/6 12:30 pm added some sources to my notes. Worked on getting a model of activity per distance. 
+- 6/6 12:30 pm added some sources to my notes from yesterday. Also learned that activity follows the inverse square law for distance. Backed that up with lots of sources. Next step is figuring out how activity is related to volts of the machine, and to time.
