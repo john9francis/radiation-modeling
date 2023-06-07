@@ -9,6 +9,8 @@ Contents:
 [Long term goals](#long-term-goals)
 [Project plan](#project-plan)
 [Week 1](#week-1-522-528)
+[Week 2](#week-2-529-64)
+[Week 3](#week-3-65-611)
 
 # Long term goals:
 
@@ -64,3 +66,4 @@ Goals: 20 hours
 - ================
 - 6/6 12:30 pm 2 hrs added some sources to my notes from yesterday. Also learned that activity follows the inverse square law for distance. Tried to write a simple program demonstrating the inverse square law, but I need to do more research on it because I'm not completely understanding it. 
 - 6/7 9:00 am, 1:00 pm, 1 hr I have the unique opportunity to shadow an administrator at Landaur medical physics. He provides imaging and treatment machines to hospitals. This morning I completed the onboarding training to be considered to shadow him.
+- 6/7 2:00 pm worked on repo organization and learned more about the inverse square law
