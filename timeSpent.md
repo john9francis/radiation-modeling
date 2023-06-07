@@ -5,7 +5,9 @@ This file is a record of the time I have spent on this project.
 Started: 5/22/2023
 
 Contents:
-(#Long-term-goals)
+- [Long term goals](#Long-term-goals:)
+- [Project plan](#Project-plan:)
+- [Week 1](#Week-1:-5/22-5/28)
 
 # Long term goals:
 
