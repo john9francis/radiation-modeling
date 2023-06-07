@@ -7,7 +7,7 @@ Started: 5/22/2023
 Contents:
 - [Long term goals](#long-term-goals)
 - [Project plan](#project-plan)
-- [Week 1](#week-1)
+- [Week 1](#week-1-522-528)
 
 # Long term goals:
 
