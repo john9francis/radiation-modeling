@@ -56,12 +56,12 @@ Goals: 20 hours
 - 5/25 3:45 pm 2 hrs Things I got done: 1. Learned about units: Grays are units of "dose" which is the damage done by the photon beam. 2. I compiled a bunch of graphs and papers about dose from an x-ray photon beam. 3. I wrote a short paper summarizing my goals for this project. 
 - 5/26 9:30 am 1 hr looked through about 5 research papers. I have been seeing the PDD (percentage depth dose) vs. depth graph a lot. Next thing to do is really understand what this graph is saying. 
 
-# Week 2: 5/29 - 6/4
+# Week 2: 5/29-6/4
 
 - 5/29 9:25 pm 15 minutes working on a project plan and timeline
 - (Memorial day vacation, didn't do much )
 
-# Week 3: 6/5 - 6/11
+# Week 3: 6/5-6/11
 - [x] Figure out how to measure the radiation damage to the body. What affects the area, is it time? area? voltage? 
 - [x] Read a research paper about how an x-ray beam from a LINAC can affect the body
 - [ ] Get a model of the activity per distance of a LINAC completed.
