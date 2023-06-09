@@ -8,6 +8,7 @@ Started: 5/22/2023
 
 * [Long term goals](#long-term-goals)
 * [Project plan](#project-plan)
+* [Week 0](#week-0-517)
 * [Week 1](#week-1-522-528)
 * [Week 2](#week-2-529-64)
 * [Week 3](#week-3-65-611)
@@ -36,6 +37,9 @@ Started: 5/22/2023
 - Make the person model a bit more realistic. Mark out the cross section with organs, bones, etc.
 - Implement a method to convert the exposure into effective dose. Record the effective dose in each of the different organs.
 - Repeat everything with proton therapy instead of x-ray therapy
+
+# Week 0: 5/17
+ - 5/17 8:45 am 8 hours shadowing Dr. Mghari, lead medical physicist at cape fear hospital. Learned about dosimetry and linac machines, as well as many different types of radiotherapy. 
 
 # Week 1: 5/22-5/28
 
