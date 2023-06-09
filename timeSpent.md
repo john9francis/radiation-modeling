@@ -59,7 +59,7 @@ Goals: 20 hours
 
 # Week 3: 6/5 - 6/11
 - [x] Figure out how to measure the radiation damage to the body. What affects the area, is it time? area? voltage? 
-- [ ] Read a research paper about how an x-ray beam from a LINAC can affect the body
+- [x] Read a research paper about how an x-ray beam from a LINAC can affect the body
 - [ ] Get a model of the activity per distance of a LINAC completed.
 
 - 6/5 4:23 pm 1 hr Learned that "Dosimetry" is the field of measuring how much dose each part of the body recieves. Learned all about activity vs. exposure including the units of Bq, Gy, and Sv. Next step is learning the correlation between activity and distance and then coding something.
@@ -67,4 +67,4 @@ Goals: 20 hours
 - 6/6 12:30 pm 2 hrs added some sources to my notes from yesterday. Also learned that activity follows the inverse square law for distance. Tried to write a simple program demonstrating the inverse square law, but I need to do more research on it because I'm not completely understanding it. 
 - 6/7 9:00 am, 1:00 pm, 1 hr I have the unique opportunity to shadow an administrator at Landaur medical physics. He provides imaging and treatment machines to hospitals. This morning I completed the onboarding training to be considered to shadow him.
 - 6/7 2:00 pm 1 hr worked on repo organization and learned more about the inverse square law
-- 6/8 11:39 pm  researching LINAC's and how much activity they might have at a distance, I found out some info. First, it seems like they don't really measure activity of these beams, they skip right to measuring exposure aka dose. To end off today I'm going to look into Geant4, it seems like a super powerful C++ library we could use for modeling an x-ray beam
+- 6/8 11:39 pm 2 hours researching LINAC's and how much activity they might have at a distance, I found out some info. First, it seems like they don't really measure activity of these beams, they skip right to measuring exposure aka dose. To end off today I'm going to look into Geant4, it seems like a super powerful C++ library we could use for modeling an x-ray beam. UPDATE: I did tons of research into Geant4... it might be an option although it seems pretty complex.
