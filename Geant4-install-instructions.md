@@ -5,6 +5,12 @@ This is a very simple tutorial on how I installed Geant4 on my Windows 11 laptop
 
 To install Geant4, I started on the [Geant4 installation guide](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/index.html). I chose the option "Build and install Geant4 from source." 
 
+Here are the three steps for installing Geant4 on windows:
+[Step 1: Install prerequisites](#step-1-install-all-the-prerequisites)
+[Step 2: Build and install from source](#step-2-building-and-installing-from-source)
+[Step 3: Postinstall setup](#step-3-postinstall-setup)
+
+
 ## Step 1: Install all the prerequisites:
 
 As explained in the Installation guide, we need to start by installing 3 prerequisites:
@@ -30,6 +36,11 @@ The best tutorial I found to install the correct thing is this [YouTube video](h
 
 ### CMake
 
+CMake is an open-source, cross-platform family of tools designed to build, test and package software. Geant4 is designed to be installed with CMake, so we need to download it. To do so, go to the [CMake download website](https://cmake.org/download/) and go down and click the link to download the Windows x64 Installer. It should be an .msi file.
+
+## Step 2: Building and installing from source
+
+## Step 3: Postinstall setup
 
 
 
