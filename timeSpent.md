@@ -74,5 +74,5 @@ Goals: 20 hours
 - 6/8 11:39 pm 2 hours researching LINAC's and how much activity they might have at a distance, I found out some info. First, it seems like they don't really measure activity of these beams, they skip right to measuring exposure aka dose. To end off today I'm going to look into Geant4, it seems like a super powerful C++ library we could use for modeling an x-ray beam. UPDATE: I did tons of research into Geant4... it might be an option although it seems pretty complex.
 - 6/9 8:40 am 3 hrs. Looking into installing Geant4 and learning more about it. Also deciding which direction i want to take moving forward. 
 - 6/9 2:07 pm 3 hrs installing Geant4 virtual machine. this is a super involved process. I couldn't even get it working yet
-- 6/9 5:30 pm 30 min playing with linux and virtualBox to learn how it works. next step is **Downloading Geant4 using Linux command line in VirtualBox**
+- 6/9 5:30 pm 30 min playing with linux and virtualBox to learn how it works. next step is **Downloading Geant4 using Linux command line in VirtualBox** just kidding, I can do it on windows turns out
 - 6/9 9:30 pm 1.5 hrs Get Geant4 up and running or bust!
