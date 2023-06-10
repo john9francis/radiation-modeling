@@ -9,7 +9,7 @@ To install Geant4, I started on the [Geant4 installation guide](https://geant4-u
 
 As explained in the Installation guide, we need to start by installing 3 prerequisites:
 1. [Geant4 toolkit source code](#geant4-toolkit-source-code) 
-2. [C++ compiler and library](c++-compiler-and-library)
+2. [C++ compiler and library](c-compiler-and-library)
 3. Cmake
 
 ### Geant4 toolkit source code
