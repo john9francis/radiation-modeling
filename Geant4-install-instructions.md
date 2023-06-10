@@ -16,7 +16,7 @@ Here are the three steps for installing Geant4 on windows:
 As explained in the Installation guide, we need to start by installing 3 prerequisites:
 1. [Geant4 toolkit source code](#geant4-toolkit-source-code) 
 2. [C++ compiler and library](#c-compiler-and-library)
-3. Cmake
+3. [Cmake](#cmake)
 
 ### Geant4 toolkit source code
 
