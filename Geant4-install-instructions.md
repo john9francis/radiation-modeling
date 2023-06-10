@@ -40,9 +40,8 @@ CMake is an open-source, cross-platform family of tools designed to build, test 
 
 ## Step 2: Building and installing from source
 
+[Build and install from source instructions](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/installguide.html#buildandinstall)
+
 ## Step 3: Postinstall setup
 
 
-
-
-[Build and install from source instructions](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/installguide.html#buildandinstall)
