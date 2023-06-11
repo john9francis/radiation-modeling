@@ -54,7 +54,7 @@ C:\Users\Your-User-Name\Geant4
 ```
 First, you want to un-zip the file, and you should end up with a folder called, "geant4-v11.1.1" or something similar. This is going to be your "source folder." Now we create a "build folder. I called mine, "geant4-v11.1.1-build". It's convenient if you put both the source and build folders in the same folder "Geant4".
 
-### 2. Use CMake to build from source.
+### 2. Use CMake GUI to build from source.
 
 In his video, Physino walks through how to use CMake's GUI to build Geant4 from the source in his video, but I'll quickly summarize. In the CMake GUI, at the top there's a place to enter "Where is the source code" and right below it has a place for, "Where to build the binaries." Under "Where is the source code," enter the path to your geant4-v11.1.1 folder and under "Where to build the binaries," enter the path to geant4-v11.1.1-build.
 
