@@ -59,8 +59,20 @@ First, you want to un-zip the file, and you should end up with a folder called, 
 There are two ways to build the binaries. First, the command line. This is more complicated, but here's a quick example of how to do it.
 
 ```powershell
-C:Users/Your-User-Name/Geant4 cmake -S geant4-v11.1.1 -B geant4-v11.1.1-build
+C:Users/Your-User-Name/Geant4 cmake -S "geant4-v11.1.1" -B "geant4-v11.1.1-build"
 ```
+
+The easier way (imo) to do this is by opening up the CMake GUI, and entering data there. Physino walks through how to do this in his video, but basically here's how it goes. In the CMake GUI, at the top there's a place to enter "Where is the source code" and right below it has a place for, "Where to build the binaries."
+
+After choosing the correct folders, make sure you check the:
+- [x] GEANT4_INSTALL_DATA
+option.
+
+Finally, go to the bottom of the GUI and click "configure," then "generate," and finally "open project."
+
+At this point, Visual Studio should open. Make sure you have the "ALL_BUILD" option selected, then go to the top bar and clikc on Build, and Build solution.
+
+After like an hour or more, it will finish building. 
 
 
 ## Step 3: Postinstall setup
