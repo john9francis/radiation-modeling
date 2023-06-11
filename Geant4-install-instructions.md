@@ -32,7 +32,10 @@ In the next steps, we're going to create a bunch more files and it's nice to kee
 
 To get the correct C++ environment, use Visual Studio. I used Visual Studio 2022. If you don't have Visual Studio downloaded, click [Here](https://visualstudio.microsoft.com/downloads/).
 
-The best tutorial I found to install the correct thing is this [YouTube video](https://www.youtube.com/watch?v=OMa2xDjdXJw). Basically it just has you open Visual Studio installer and install the "Desktop development with C++" workload. 
+The best tutorial I found to install the correct thing is this [YouTube video](https://www.youtube.com/watch?v=OMa2xDjdXJw). Basically it just has you open Visual Studio installer and install the "Desktop development with C++" workload. You also need to go under the "Individual components" tab and make sure you check the:
+- [x] MSBuild
+
+Component.
 
 ### CMake
 
