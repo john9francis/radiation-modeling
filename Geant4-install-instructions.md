@@ -67,7 +67,11 @@ Finally, go to the bottom of the GUI and click "configure," then "generate," and
 
 At this point, Visual Studio should open. Make sure you have the "ALL_BUILD" option selected, then go to the top bar and click on Build, and Build solution.
 
-After like an hour or more, it will finish building. 
+After like an hour or more, it will finish building... But you're not quite done yet.
+
+### 3. Don't forget to install the last little bit
+
+For some reason, the Geant4 setup files don't install all the header files which are neccesary for the thing to run. So we need to find the "Install" solution, and build that manually.
 
 ## Step 3: Postinstall setup
 
