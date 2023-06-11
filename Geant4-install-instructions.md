@@ -60,6 +60,7 @@ In his video, Physino walks through how to use CMake's GUI to build Geant4 from 
 
 After choosing the correct folders, make sure you check the:
 - [x] GEANT4_INSTALL_DATA
+
 option.
 
 Finally, go to the bottom of the GUI and click "configure," then "generate," and finally "open project."
