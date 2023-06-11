@@ -52,7 +52,7 @@ Go to the directory where you saved the Geant4 source code .zip file,
 ```
 C:\Users\Your-User-Name\Geant4
 ```
-First, you want to un-zip the file, and you should end up with a folder called, `geant4-v11.1.1` (this may vary if you're using a different version of Geant4 like v11.1.0 for example.)
+First, you want to un-zip the file, and you should end up with a folder called, `geant4-v11.1.1` or something similar. 
 
 ## Step 3: Postinstall setup
 
