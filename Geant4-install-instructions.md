@@ -61,10 +61,8 @@ First, you want to un-zip the file, and you should end up with a folder called, 
 
 Physino walks through how to use CMake's GUI to build Geant4 from the source in his video, but I'll quickly summarize. In the CMake GUI, at the top there's a place to enter "Where is the source code" and right below it has a place for, "Where to build the binaries." Under "Where is the source code," enter the path to your geant4-v11.1.1 folder and under "Where to build the binaries," enter the path to the geant4-v11.1.1-build folder.
 
-After choosing the correct folders, make sure you check the:
+After choosing the correct folders, make sure you check the GEANT4_INSTALL_DATA option. It should be in one of the red-highlighted things in the middle of the GUI with a check-box next to it.
 - [x] GEANT4_INSTALL_DATA
-
-option.
 
 Finally, go to the bottom of the GUI and click "configure," then "generate," and finally "open project."
 
