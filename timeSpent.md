@@ -76,4 +76,18 @@ Goals: 20 hours
 - 6/9 2:07 pm 3 hrs installing Geant4 virtual machine. this is a super involved process. I couldn't even get it working yet
 - 6/9 5:30 pm 30 min playing with linux and virtualBox to learn how it works. next step is **Downloading Geant4 using Linux command line in VirtualBox** just kidding, I can do it on windows turns out
 - 6/9 9:30 pm 1.5 hrs Get Geant4 up and running or bust!
-- 6/10 11:00 pm 1.5 hrs Installing Geant4... Got about 60-70 percent done with it.
+- 6/10 11:00 pm 1 hr 40 min Installing Geant4... Got about 60-70 percent done with it. I GOT AN ERROR: "library limit of 65535 objects exceeded when I tried to build the "INSTALL" solution. My hypothesis is that since this is my third time trying to install this, I need to uninstall some of the old ones and then try again. I'll do more research to make sure.
+
+# Week 4: 6/12 - 6/18
+
+**Geant4**
+- [ ] Get Geant4 installed.
+- [ ] Run one test Geant4 project
+- [ ] Run at least one Geant4 example from the website
+
+**Research**
+- [ ] Read more about linacs to get comfortable with how they measure dose.
+
+**Shadowing**
+- [ ] Turn in my onboarding info to cape fear hospital by email
+- [ ] Email David Fentner to let him know I'm ready to shadow and my schedule.
