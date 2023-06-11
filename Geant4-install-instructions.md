@@ -44,7 +44,7 @@ The next step is installing and building Geant4 from the source files. The first
 
 What ended up working for me was closely following Physino's YouTube tutorial, "[How to compile Geant4 on Windows](https://www.youtube.com/watch?v=GykiM1lPON4)." This approach uses the CMake GUI instead of the command line. 
 
-I would reccomend following the YouTube tutorial, but here's a basic overview of how to build and compile Geant4 from the source.
+I would reccomend following the YouTube tutorial. The following is basically a summary of Physino's video:
 
 ### 1. Create the neccesary folders.
 
