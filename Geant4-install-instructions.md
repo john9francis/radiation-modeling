@@ -66,7 +66,9 @@ After choosing the correct folders, make sure you check the GEANT4_INSTALL_DATA 
 
 Finally, go to the bottom of the GUI and click "configure," then "generate," and finally "open project."
 
-At this point, Visual Studio should open. Make sure you have the "ALL_BUILD" option selected, then go to the top bar and click on Build, and Build solution.
+At this point, Visual Studio should open. 
+
+Make sure you have the "ALL_BUILD" option selected in your solution explorer, then go to the top bar and click on Build, and Build solution.
 
 After like an hour or more, it will finish building... But you're not quite done yet.
 
