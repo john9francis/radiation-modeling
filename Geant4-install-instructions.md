@@ -40,7 +40,19 @@ CMake is an open-source, cross-platform family of tools designed to build, test 
 
 ## Step 2: Building and installing from source
 
-[Build and install from source instructions](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/installguide.html#buildandinstall)
+The next step is installing and building Geant4 from the source files. The first thing I tried was using the [Instructions on the Geant4 website](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/installguide.html#buildandinstall). This method does everything from the command line using command prompt or powershell. Personally, I got a lot of bugs and issues with this approach, and ended up giving up on it.
+
+An easier way for me personally was closely following Physino's YouTube tutorial, "[How to compile Geant4 on Windows](https://www.youtube.com/watch?v=GykiM1lPON4)." This approach uses the CMake GUI instead of the command line. 
+
+I would reccomend following the YouTube tutorial, but here's a basic overview of how to build and compile Geant4 from the source.
+
+### 1. Create the neccisary folders.
+
+Go to the directory where you saved the Geant4 source code .zip file, 
+```
+C:\Users\Your-User-Name\Geant4
+```
+First, you want to un-zip the file, and you should end up with a folder called, `geant4-v11.1.1` (this may vary if you're using a different version of Geant4 like v11.1.0 for example.)
 
 ## Step 3: Postinstall setup
 
