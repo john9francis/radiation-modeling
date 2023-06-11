@@ -67,7 +67,6 @@ Goals: 20 hours
 - [ ] Get a model of the activity per distance of a LINAC completed.
 
 - 6/5 4:23 pm 1 hr Learned that "Dosimetry" is the field of measuring how much dose each part of the body recieves. Learned all about activity vs. exposure including the units of Bq, Gy, and Sv. Next step is learning the correlation between activity and distance and then coding something.
-- ================
 - 6/6 12:30 pm 2 hrs added some sources to my notes from yesterday. Also learned that activity follows the inverse square law for distance. Tried to write a simple program demonstrating the inverse square law, but I need to do more research on it because I'm not completely understanding it. 
 - 6/7 9:00 am, 1:00 pm, 1 hr I have the unique opportunity to shadow an administrator at Landaur medical physics. He provides imaging and treatment machines to hospitals. This morning I completed the onboarding training to be considered to shadow him.
 - 6/7 2:00 pm 1 hr worked on repo organization and learned more about the inverse square law
@@ -91,3 +90,5 @@ Goals: 20 hours
 **Shadowing**
 - [ ] Turn in my onboarding info to cape fear hospital by email
 - [ ] Email David Fentner to let him know I'm ready to shadow and my schedule.
+
+- =================================================================================
