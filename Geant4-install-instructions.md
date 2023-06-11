@@ -42,7 +42,7 @@ CMake is an open-source, cross-platform family of tools designed to build, test 
 
 The next step is installing and building Geant4 from the source files. The first thing I tried was using the [Instructions on the Geant4 website](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/installguide.html#buildandinstall). This method does everything from the command line using command prompt or powershell. Personally, I got a lot of bugs and issues with this approach, and ended up giving up on it.
 
-An easier way for me personally was closely following Physino's YouTube tutorial, "[How to compile Geant4 on Windows](https://www.youtube.com/watch?v=GykiM1lPON4)." This approach uses the CMake GUI instead of the command line. 
+What ended up working for me was closely following Physino's YouTube tutorial, "[How to compile Geant4 on Windows](https://www.youtube.com/watch?v=GykiM1lPON4)." This approach uses the CMake GUI instead of the command line. 
 
 I would reccomend following the YouTube tutorial, but here's a basic overview of how to build and compile Geant4 from the source.
 
@@ -56,13 +56,7 @@ First, you want to un-zip the file, and you should end up with a folder called, 
 
 ### 2. Use CMake to build from source.
 
-There are two ways to build the binaries. First, the command line. This is more complicated, but here's a quick example of how to do it.
-
-```powershell
-C:Users/Your-User-Name/Geant4 cmake -S "geant4-v11.1.1" -B "geant4-v11.1.1-build"
-```
-
-The easier way (imo) to do this is by opening up the CMake GUI, and entering data there. Physino walks through how to do this in his video, but basically here's how it goes. In the CMake GUI, at the top there's a place to enter "Where is the source code" and right below it has a place for, "Where to build the binaries."
+In his video, Physino walks through how to use CMake's GUI to build Geant4 from the source in his video, but I'll quickly summarize. In the CMake GUI, at the top there's a place to enter "Where is the source code" and right below it has a place for, "Where to build the binaries."
 
 After choosing the correct folders, make sure you check the:
 - [x] GEANT4_INSTALL_DATA
