@@ -34,6 +34,7 @@ To get the correct C++ environment, use Visual Studio. I used Visual Studio 2022
 
 The best tutorial I found to install the correct thing is this [YouTube video](https://www.youtube.com/watch?v=OMa2xDjdXJw). Basically it just has you open Visual Studio installer and install the "Desktop development with C++" workload. You also need to go under the "Individual components" tab and make sure you check the MSBuild component.
 
+- [x] Desktop Development with C++
 - [x] MSBuild
 
 ### CMake
