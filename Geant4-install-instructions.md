@@ -46,13 +46,13 @@ What ended up working for me was closely following Physino's YouTube tutorial, "
 
 I would reccomend following the YouTube tutorial, but here's a basic overview of how to build and compile Geant4 from the source.
 
-### 1. Create the neccisary folders.
+### 1. Create the neccesary folders.
 
 Go to the directory where you saved the Geant4 source code .zip file, 
 ```
 C:\Users\Your-User-Name\Geant4
 ```
-First, you want to un-zip the file, and you should end up with a folder called, `geant4-v11.1.1` or something similar. This is going to be your "source folder." Now we create a "build folder. I called mine, `geant4-v11.1.1-build`. It's convenient if the source and build folders are both found in the same folder `Geant4`.
+First, you want to un-zip the file, and you should end up with a folder called, "geant4-v11.1.1" or something similar. This is going to be your "source folder." Now we create a "build folder. I called mine, "geant4-v11.1.1-build". It's convenient if you put both the source and build folders in the same folder "Geant4".
 
 ### 2. Use CMake to build from source.
 
