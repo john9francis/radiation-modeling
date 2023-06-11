@@ -76,4 +76,4 @@ Goals: 20 hours
 - 6/9 2:07 pm 3 hrs installing Geant4 virtual machine. this is a super involved process. I couldn't even get it working yet
 - 6/9 5:30 pm 30 min playing with linux and virtualBox to learn how it works. next step is **Downloading Geant4 using Linux command line in VirtualBox** just kidding, I can do it on windows turns out
 - 6/9 9:30 pm 1.5 hrs Get Geant4 up and running or bust!
-- 6/10 11:00 pm 1 hr Installing Geant4 FINALLY!!! This was a challenge.
+- 6/10 11:00 pm 1.5 hrs Installing Geant4... Got about 60-70 percent done with it.
