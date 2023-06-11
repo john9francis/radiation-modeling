@@ -52,7 +52,16 @@ Go to the directory where you saved the Geant4 source code .zip file,
 ```
 C:\Users\Your-User-Name\Geant4
 ```
-First, you want to un-zip the file, and you should end up with a folder called, `geant4-v11.1.1` or something similar. 
+First, you want to un-zip the file, and you should end up with a folder called, `geant4-v11.1.1` or something similar. This is going to be your "source folder." Now we create a "build folder. I called mine, `geant4-v11.1.1-build`. It's convenient if the source and build folders are both found in the same folder `Geant4`.
+
+### 2. Use CMake to build from source.
+
+There are two ways to build the binaries. First, the command line. This is more complicated, but here's a quick example of how to do it.
+
+```powershell
+C:Users/Your-User-Name/Geant4 cmake -S geant4-v11.1.1 -B geant4-v11.1.1-build
+```
+
 
 ## Step 3: Postinstall setup
 
