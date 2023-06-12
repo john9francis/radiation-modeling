@@ -92,3 +92,4 @@ Goals: 20 hours
 - [ ] Email David Fentner to let him know I'm ready to shadow and my schedule.
 
 - =================================================================================
+- 6/12 **Plan:** delete my Geant4 folder and try installing it again. This time install "ALL" and "INSTALL" at the same time.
