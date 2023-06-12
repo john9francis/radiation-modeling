@@ -78,7 +78,7 @@ Goals: 20 hours
 - 6/9 9:30 pm 1.5 hrs Get Geant4 up and running or bust!
 - 6/10 11:00 pm 2 hrs Installing Geant4... Got about 60-70 percent done with it. I GOT AN ERROR: "library limit of 65535 objects exceeded when I tried to build the "INSTALL" solution. My hypothesis is that since this is my third time trying to install this, I need to uninstall some of the old ones and then try again. I'll do more research to make sure.
 
-# Week 4: 6/12 - 6/18
+# Week 4: 6/12-6/18
 
 **Geant4**
 - [ ] Get Geant4 installed.
