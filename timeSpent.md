@@ -93,4 +93,4 @@ Goals: 20 hours
 
 - =================================================================================
 - 6/12 **Plan:** delete my Geant4 folder and try installing it again. This time install "ALL" and "INSTALL" at the same time.
-- 6/12 6:20 pm 
+- 6/12 6:20 pm 30 min Starting with a clean slate to try and download Geant4 again. Installing both "ALL" and "INSTALL" at the same time isn't gonna work with my setup, because I'm using the visual studio GUI, so I'll just wait for "ALL" to finish and then i'll do the "INSTALL." I'm building this in the "RelWithDebInfo" configuration.
