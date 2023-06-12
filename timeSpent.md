@@ -93,3 +93,4 @@ Goals: 20 hours
 
 - =================================================================================
 - 6/12 **Plan:** delete my Geant4 folder and try installing it again. This time install "ALL" and "INSTALL" at the same time.
+- 6/12 6:15 pm 
