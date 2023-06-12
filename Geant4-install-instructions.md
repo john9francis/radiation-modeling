@@ -1,11 +1,9 @@
 # Geant4 Installation for Windows 11 
 6/9/2023
 
-This is a very simple tutorial on how I installed Geant4 on my Windows 11 laptop.
+This is a very simple tutorial on how I installed Geant4 (from the source code) on my Windows 11 laptop.
 
-To install Geant4, I started on the [Geant4 installation guide](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/index.html). I chose the option "Build and install Geant4 from source." 
-
-Here are the three steps for installing Geant4 on windows:
+There are the three steps for installing Geant4 on windows:
 * [Step 1: Install prerequisites](#step-1-install-all-the-prerequisites)
 * [Step 2: Build and install from source](#step-2-building-and-installing-from-source)
 * [Step 3: Postinstall setup](#step-3-postinstall-setup)
