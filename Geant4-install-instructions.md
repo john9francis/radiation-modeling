@@ -80,3 +80,7 @@ After like an hour or more, it will finish building... But you're not quite done
 
 1. Add your bin directory to PATH
 
+## Step 4: Run an example project
+
+[How to compile a Geant4 example](https://www.youtube.com/watch?v=nY-vO6yN65c&t=67s)
+
