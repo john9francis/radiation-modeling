@@ -76,4 +76,5 @@ After like an hour or more, it will finish building... But you're not quite done
 
 ## Step 3: Postinstall setup
 
+[Geant4 postinstall setup instructions](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/postinstall.html)
 
