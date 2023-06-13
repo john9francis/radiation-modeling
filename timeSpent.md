@@ -83,7 +83,7 @@ Goals: 20 hours
 **Geant4**
 - [x] Get Geant4 installed.
 - [ ] Run one test Geant4 project
-- [ ] Run at least one Geant4 example from the website
+- [x] Run at least one Geant4 example from the website
 
 **Research**
 - [ ] Read more about linacs to get comfortable with how they measure dose.
@@ -97,4 +97,4 @@ Goals: 20 hours
 - 6/12 6:20 pm 30 min Started with a clean slate to try and download Geant4 again. Installing both "ALL" and "INSTALL" at the same time isn't gonna work with my setup, because I'm using the visual studio GUI, so I'll just wait for "ALL" to finish and then i'll do the "INSTALL." I'm building this in the "RelWithDebInfo" configuration.
 - 6/12 9:30 pm 45 min Did more research about LINACs. I think I'm going to go with the specific "Varian VitalBeam" linac. Found out that the photon energy configuration is ~6 to 10 MV. ALSO, successfully started the INSTALL build for Geant4.
 - 6/13 9:00 am 1 hr Finishing the Geant4 install. Now I just need to test it and make sure it works.
-- 6/13 10:30 am  Trying to run a Geant4 example.
+- 6/13 10:30 am 45 min Succesfully running a Geant4 example... Only problem is I have no idea what's going on with it. Next step is to learn the Geant4 UI.
