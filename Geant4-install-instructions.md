@@ -126,9 +126,9 @@ For you, everything from "share" and on will be the same, but the path before th
 
 Again, remember to click "OK" in each of the window to save the changes. 
 
-## Step 4: See if Geant4 opens
-
-## Step 5: Run an example project
+## Step 4: See if Geant4 opens by running an example project
 
 [How to compile a Geant4 example](https://www.youtube.com/watch?v=nY-vO6yN65c&t=67s)
+
+Now, we are going to try and run one of the Geant4 examples to make sure Geant4 is installed correctly.
 
