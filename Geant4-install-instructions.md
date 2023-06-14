@@ -3,9 +3,9 @@
 
 [Video](insert-link-here)
 
-This is a very simple tutorial on how I installed Geant4 (from the source code) on my Windows 11 laptop. I recommend watching [my YouTube tutorial](insert-link-here) where I walk through each of these steps on my own windows laptop.
+This is a very simple tutorial on how I installed Geant4 (from the source code) on my Windows 11 laptop. I recommend watching [my YouTube tutorial](insert-link-here) where I walk through each of these steps on my own computer.
 
-There are the three steps for installing Geant4 on windows:
+There are three steps for installing Geant4 on windows:
 * [Step 1: Install prerequisites](#step-1-install-all-the-prerequisites)
 * [Step 2: Build and install from source](#step-2-building-and-installing-from-source)
 * [Step 3: Postinstall setup](#step-3-postinstall-setup)
