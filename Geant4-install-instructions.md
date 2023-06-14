@@ -78,7 +78,24 @@ After like an hour or more, it will finish building... But you're not quite done
 
 [Geant4 postinstall setup instructions](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/postinstall.html)
 
-To complete the installation of the Geant4 program, we need to set up a couple more things. Basically we need to add environmental variables to point to the datasets. 
+To complete the installation of the Geant4 program, we need to set up a 2 more things.
+
+1. Add the bin directory to PATH
+2. Create a new environmental variable for the Geant4 datasets.
+
+### About .batch files...
+
+On the Geant4 website installation instructions, they suggest using their experimental .batch file to add these variables automatically. Also, in the YouTube tutorial, Physino offers his own batch file to do it automatically.
+
+The main problem I found while examining both of these batch files is that they may not work properly, and are not very future-proof. For example, Physino's batch file was out of date and included a folder that the new version of Geant4 doesn't even include. I tried the Geant4 experimental batch file, but it just didn't do anything. Using a batch file is a nice idea, but in this tutorial, I will show how to manually add these variables. 
+
+### Add the bin directory to PATH
+
+If you go into the folder where you have your program files, (where you set your INSTALL_PREFIX) you will find four folders. "bin," "include," "lib," and "share." We need to add this "bin" folder to the system PATH. 
+
+To add this to PATH, click on the windows button and search, "environment variables." Click on the link to, "edit system environment variables." This opens up a "System Properties" window. At the bottom there should be a button labelled, "Environment Variables." Click on this.
+
+The "Environment Variables" window should now be displayed. There should be two sections, the top should be, "User variables," and the bottom should be, "System variables." In the User variables, (hopefully) there is one labelled, "Path." (If you don't have the path variable, 
 
 ## Step 4: Run an example project
 
