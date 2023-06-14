@@ -78,7 +78,7 @@ After like an hour or more, it will finish building... But you're not quite done
 
 [Geant4 postinstall setup instructions](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/postinstall.html)
 
-1. Add your bin directory to PATH
+To complete the installation of the Geant4 program, we need to set up a couple more things. Basically we need to add environmental variables to point to the datasets. 
 
 ## Step 4: Run an example project
 
