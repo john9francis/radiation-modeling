@@ -95,9 +95,40 @@ If you go into the folder where you have your program files, (where you set your
 
 To add this to PATH, click on the windows button and search, "environment variables." Click on the link to, "edit system environment variables." This opens up a "System Properties" window. At the bottom there should be a button labelled, "Environment Variables." Click on this.
 
-The "Environment Variables" window should now be displayed. There should be two sections, the top should be, "User variables," and the bottom should be, "System variables." In the User variables, (hopefully) there is one labelled, "Path." (If you don't have the path variable, 
+The "Environment Variables" window should now be displayed. There should be two sections, the top should be, "User variables," and the bottom should be, "System variables." In the User variables, (hopefully) there is one labelled, "Path." (If you don't have the path variable, click on "New" and create a variable named "Path" or "PATH". PATH is used by many programs, so it's nice to have.)
 
-## Step 4: Run an example project
+Once you have clicked on the "Path" variable, a window called, "Edit environment variable" is displayed. Click "New," and add the path to your bin directory. For example, my bin directory is:
+```
+C:\Users\my-user-name\Geant4\program_files\bin
+```
+But it could also be:
+```
+C:\Program files (x84)\Geant4\bin
+```
+
+Once you add this variable, it is important you click the "OK" button in all windows until everything is closed. Doing this will save the change.
+
+Once you add the bin directory to path, Geant4 will no where to look to find the essential binary files to be able to run.
+
+### Create a "Datasets" environmental variable.
+
+Using the same environmental variables window, we need to create a new one called, "GEANT4_DATA_DIR". 
+
+Go ahead and open the environmental varaibles window again by clicking the windows button and searching for it. Then, under User variables, click "New..." It will ask for the variable name, and the variable value. For name, you want to enter in:
+```
+GEANT4_DATA_DIR
+```
+and for value, you want to enter the directory to the program_files, share, Geant4, data folder. In my case, this was found here:
+```
+C:\Users\my-user-name\Geant4\program_files\share\Geant4\data
+```
+For you, everything from "share" and on will be the same, but the path before that will be wherever you have placed the bin, include, lib, and share folders.
+
+Again, remember to click "OK" in each of the window to save the changes. 
+
+## Step 4: See if Geant4 opens
+
+## Step 5: Run an example project
 
 [How to compile a Geant4 example](https://www.youtube.com/watch?v=nY-vO6yN65c&t=67s)
 
