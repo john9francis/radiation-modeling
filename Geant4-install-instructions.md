@@ -1,4 +1,4 @@
-# Geant4 Installation for Windows 11 
+# Geant4 v11.1.1 Installation for Windows 11 
 6/9/2023
 
 [Video](insert-link-here)
@@ -53,7 +53,7 @@ Go to the directory where you saved the Geant4 source code .zip file.
 ```
 C:\Users\my-user-name\Geant4
 ```
-First, you want to un-zip the file, and you should end up with a folder called, "geant4-v11.1.1" or something similar. This is going to be your "source folder." Now we create a "build folder. I called mine, "geant4-v11.1.1-build". It's convenient if you put both the source and build folders in the same folder "Geant4".
+First, you want to un-zip the file, and you should end up with a folder called, "geant4-v11.1.1" or something similar. This is going to be your "source folder." Now we create a new folder which is going to be our "build folder. I named mine, "geant4-v11.1.1-build". It's convenient if you put both the source and build folders in the same folder "Geant4".
 
 ### 2. Use CMake GUI to build from source.
 
