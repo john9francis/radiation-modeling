@@ -100,4 +100,5 @@ Goals: 20 hours
 - 6/13 10:30 am 45 min Succesfully running a Geant4 example... Only problem is I have no idea what's going on with it. Next step is to learn the Geant4 UI.
 - 6/14 1:00 pm 30 min completely signed up for shadowing at Cape Fear hospital
 - 6/14 2:00 pm 1 hr Working on my "geant4-installation-instructions" document
-- 6/14 3:51 creating a video of how to install Geant4 for future reference or to help other students if they want to continue my project.
+- 6/14 3:51 pm 1 hr Finishing up that document
+- Make YouTube video about how to install Geant4
