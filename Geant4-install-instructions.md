@@ -39,7 +39,7 @@ The best tutorial I found to install the correct C++ workload is this [YouTube v
 
 ### CMake
 
-CMake is an open-source, cross-platform family of tools designed to build, test and package software. Geant4 is designed to be installed with CMake, so we need to download it. To do so, go to the [CMake download website](https://cmake.org/download/) and go down and click the link to download the Windows x64 Installer. It should be an .msi file.
+CMake is an open-source, cross-platform family of tools designed to build, test and package software. Geant4 is designed to be installed with CMake, so we need to download it. To do so, go to the [CMake download website](https://cmake.org/download/), scroll down, and click the link to download the Windows x64 Installer. It should be an .msi file.
 
 ## Step 2: Building and installing from source
 
