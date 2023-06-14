@@ -53,13 +53,13 @@ Go to the directory where you saved the Geant4 source code .zip file.
 ```
 C:\Users\my-user-name\Geant4
 ```
-First, you want to un-zip the file, and you should end up with a folder called, "geant4-v11.1.1" or something similar. This is going to be your "source folder." Now we create a new folder which is going to be our "build folder. I named mine, "geant4-v11.1.1-build". It's convenient if you put both the source and build folders in the same folder "Geant4".
+First, you want to un-zip the file, and you should end up with a folder called, "geant4-v11.1.1" or something similar. This is going to be your "source folder." Now we create a new folder which is going to be our "build folder". I named mine, "geant4-v11.1.1-build".
 
 ### 2. Use CMake GUI to build from source.
 
-Physino walks through how to use CMake's GUI to build Geant4 from the source in his video, but I'll quickly summarize. In the CMake GUI, at the top there's a place to enter "Where is the source code" and right below it has a place for, "Where to build the binaries." Under "Where is the source code," enter the path to your geant4-v11.1.1 folder and under "Where to build the binaries," enter the path to the geant4-v11.1.1-build folder.
+Open the CMake GUI application. At the top of the CMake GUI, there's a place to enter "Where is the source code" and right below it has a place for, "Where to build the binaries." Under "Where is the source code," enter the path to your geant4-v11.1.1 folder and under "Where to build the binaries," enter the path to the geant4-v11.1.1-build folder.
 
-After choosing the correct folders, make sure you check the GEANT4_INSTALL_DATA option. It should be in one of the red-highlighted things in the middle of the GUI with a check-box next to it.
+After choosing the correct folders, make sure you check the GEANT4_INSTALL_DATA option. It should be in one of the red-highlighted rows in the middle of the GUI with a check-box next to it.
 - [x] GEANT4_INSTALL_DATA
 
 ### Setting INSTALL_PREFIX
@@ -74,7 +74,7 @@ C:/Users/my-user-name/Geant4/program_files
  ```
 
 ### Configuration types
-There is an option in the GUI called, "CMAKE_CONFIGURATION_TYPES." This has several options such as Release, RelWithDebInfo, Debug, etc. Make sure you delete everything besides "Release" or "RelWithDebInfo" if you want to have the debug info included
+There is an option in the GUI called, "CMAKE_CONFIGURATION_TYPES." This has several options such as Release, RelWithDebInfo, Debug, etc. Make sure you delete everything besides "Release" or "RelWithDebInfo" if you want to have the debug info included. I personally chose to delete everythin except "RelWithDebInfo."
 
 ### Finishing up the config and generation:
 
@@ -82,7 +82,7 @@ Finally, go to the bottom of the GUI and click "configure," then "generate," and
 
 At this point, Visual Studio should open. 
 
-Make sure you have the "ALL_BUILD" option selected in your solution explorer, then go to the top bar and click on Build, and Build solution.
+Make sure you have the "ALL_BUILD" option selected in your solution explorer, then right click on ALL_BUILD and click on "Build."
 
 After like an hour or more, it will finish building... But you're not quite done yet.
 
@@ -101,7 +101,7 @@ To complete the installation of the Geant4 program, we need to set up 2 more thi
 
 ### You could use a .batch file, but...
 
-On the Geant4 website installation instructions, they suggest using their experimental .batch file to add these variables automatically. Also, in the YouTube tutorial, Physino offers his own batch file to do it automatically.
+On the Geant4 website installation instructions, they suggest using their experimental .batch file to add these variables automatically. Also, in Physino's YouTube tutorial, he offers his own batch file.
 
 The main problem I found while examining both of these batch files is that they may not work properly, and are not very future-proof. For example, Physino's batch file was out of date and included a folder that the new version of Geant4 doesn't even include. I tried the Geant4 experimental batch file, but it just didn't do anything. Using a batch file is a nice idea, but in this tutorial, I will show how to manually add these variables. 
 
@@ -109,24 +109,24 @@ The main problem I found while examining both of these batch files is that they 
 
 If you go into the folder where you have your program files, (where you set your INSTALL_PREFIX, for me it was in the "program_files" folder) you will find four folders: "bin," "include," "lib," and "share." We need to add this "bin" folder to the system PATH. 
 
-To add this to PATH, click on the windows button and search, "environment variables." Click on the link to, "edit system environment variables." This opens up a "System Properties" window. At the bottom there should be a button labelled, "Environment Variables." Click on this.
+To add this to PATH, click on the windows button and search, "environment variables." Click on the "edit system environment variables" link. This opens up a "System Properties" window. At the bottom there should be a button labelled, "Environment Variables." Click on this.
 
 The "Environment Variables" window should now be displayed. There should be two sections, the top should be, "User variables," and the bottom should be, "System variables." In the User variables, there is one labelled, "Path." (If you don't have the path variable, click on "New" and create a variable named "Path" or "PATH". Path is used by many programs, so it's nice to have.)
 
-Once you have clicked on the "Path" variable, a window called, "Edit environment variable" is displayed. Click "New," and add the path to your bin directory.
+Once you have clicked on the "Path" variable, a window called, "Edit environment variable" is displayed. Click "New," and add your bin directory here.
 ```
 C:\Users\my-user-name\Geant4\program_files\bin
 ```
 
-Once you add this variable, it is important you click the "OK" button in all windows until everything is closed. Doing this will save the change.
+Once you add this variable, it is important that you click the "OK" button in all windows until everything is closed. Doing this will save the change.
 
-Once you add the bin directory to path, Geant4 will no where to look to find the essential binary files to be able to run.
+Once you add the bin directory to path, Geant4 will know where to look to find the essential binary files to be able to run.
 
 ### Create a "Datasets" environmental variable.
 
 Using the same environmental variables window, we need to create a new variable called, "GEANT4_DATA_DIR". 
 
-Go ahead and open the environmental varaibles window again by clicking the windows button and searching for it. Then, under User variables, click "New..." It will ask for the variable name, and the variable value. For name, you want to enter in:
+Go ahead and open the environmental varaibles window again by clicking the windows button and searching for it. Then, under User variables, click "New..." It will ask for the variable name, and the variable value. For "Name", enter in:
 ```
 GEANT4_DATA_DIR
 ```
@@ -141,7 +141,7 @@ Again, remember to click "OK" in each of the window to save the changes.
 
 [How to compile a Geant4 example](https://www.youtube.com/watch?v=nY-vO6yN65c&t=67s)
 
-Now, we are going to try and run one of the Geant4 examples to make sure Geant4 is installed correctly. To do this, we are going to run one of the examples that was installed along with Geant4.
+Now, we are going to try and run one of the Geant4 examples to make sure Geant4 is installed correctly.
 
 First, locate the examples folder. This is in the program_files/share folder. Navigate to:
 
@@ -164,12 +164,23 @@ C:/Users/my-user-name/Geant4/program_files/share/Geant4/examples/basic/B1/build
 
 Finally, we are ready to build this example. Click on configure, generate, and open project. This should open Visual Studio.
 
-We will find several solutions to build. Right click on "exampleB1" in the solution explorer and click on, "Set as Startup Project." it will then become bolded. Right click it again and click, "Build."
+We will find several solutions to build. Right click on "exampleB1" in the solution explorer and click on, "Set as Startup Project." it will then become bold. Right click it again and click, "Build."
 
-In the Output, it should tell you that the project was successfully built, and a .exe file has been generated. Mine was generated in the path, 
+In the Output, it should tell you that the project was successfully built, and a .exe file has been generated. it will also tell you where the executable file is. Mine was generated in the path, 
 ```
 C:\Users\my-user-name\Geant4\program_files\share\Geant4\examples\basic\B1\Release
 ```
 In this directory, you will find a file called, exampleB1.exe. Double click it, and you should see it run!
 
 It won't be anything fancy, but if you at least get a window opening, that's a good sign that Geant4 has been successfully downloaded. Congratulations!
+
+## References
+* [Geant4 website](https://geant4.web.cern.ch/)
+* [Geant4 source code download](https://geant4.web.cern.ch/download/11.1.1.html)
+* [Visual Studio download](https://visualstudio.microsoft.com/downloads/)
+* [CMake download](https://cmake.org/download/)
+* [Getting C++ support on Visual Studio YouTube tutorial](https://www.youtube.com/watch?v=OMa2xDjdXJw)
+* [Geant4 Installation instructions](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/installguide.html#on-windows-platforms)
+* [Geant4 Post-install setup](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/postinstall.html#required-environment-settings-on-windows)
+* [How to compile Geant4 on windows Physino YouTube tutorial](https://www.youtube.com/watch?v=GykiM1lPON4)
+* [How to compile a Geant4 example Physino YouTube tutorial](https://www.youtube.com/watch?v=nY-vO6yN65c&t=67s)
