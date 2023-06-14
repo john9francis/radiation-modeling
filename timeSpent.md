@@ -98,3 +98,4 @@ Goals: 20 hours
 - 6/12 9:30 pm 45 min Did more research about LINACs. I think I'm going to go with the specific "Varian VitalBeam" linac. Found out that the photon energy configuration is ~6 to 10 MV. ALSO, successfully started the INSTALL build for Geant4.
 - 6/13 9:00 am 1 hr Finishing the Geant4 install. Now I just need to test it and make sure it works.
 - 6/13 10:30 am 45 min Succesfully running a Geant4 example... Only problem is I have no idea what's going on with it. Next step is to learn the Geant4 UI.
+- 6/14 1:00 pm 30 min completely signed up for shadowing at Cape Fear hospital
