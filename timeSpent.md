@@ -102,4 +102,4 @@ Goals: 20 hours
 - 6/14 2:00 pm 1 hr Working on my "geant4-installation-instructions" document
 - 6/14 3:51 pm 1 hr Finishing up that document
 - 6/14 5:15 pm 3 hrs Made YouTube video about how to install Geant4
-- 6/15 1:50 pm Learning more about how linacs measure dose.
+- 6/15 1:50 pm 1 hr Learning more about how linacs measure dose. Found two articles I can use to check my work. Learned about PDD and dose profile. 
