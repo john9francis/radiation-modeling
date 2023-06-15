@@ -89,7 +89,7 @@ Goals: 20 hours
 - [ ] Read more about linacs to get comfortable with how they measure dose.
 
 **Shadowing**
-- [ ] Turn in my onboarding info to cape fear hospital by email
+- [x] Turn in my onboarding info to cape fear hospital by email
 - [ ] Email David Fentner to let him know I'm ready to shadow and my schedule.
 
 - =================================================================================
@@ -102,3 +102,4 @@ Goals: 20 hours
 - 6/14 2:00 pm 1 hr Working on my "geant4-installation-instructions" document
 - 6/14 3:51 pm 1 hr Finishing up that document
 - 6/14 5:15 pm 3 hrs Made YouTube video about how to install Geant4
+- 6/15 1:50 pm Learning more about how linacs measure dose.
