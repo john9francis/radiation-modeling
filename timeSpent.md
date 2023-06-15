@@ -101,4 +101,4 @@ Goals: 20 hours
 - 6/14 1:00 pm 30 min completely signed up for shadowing at Cape Fear hospital
 - 6/14 2:00 pm 1 hr Working on my "geant4-installation-instructions" document
 - 6/14 3:51 pm 1 hr Finishing up that document
-- 6/14 5:15 pm Make YouTube video about how to install Geant4
+- 6/14 5:15 pm 3 hrs Made YouTube video about how to install Geant4
