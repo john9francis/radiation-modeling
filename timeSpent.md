@@ -13,6 +13,7 @@ Started: 5/22/2023
 * [Week 2](#week-2-529-64)
 * [Week 3](#week-3-65-611)
 * [Week 4](#week-4-612-618)
+* [Week 5](#week-5-619-625)
 
 # Long term goals:
 
@@ -115,6 +116,7 @@ Goals: 20 hours
 - [ ] make a video tutorial to make sure i understand it good
 
 **Shadowing:**
+- [ ] come up with questions to ask mr. fentner
 - [ ] shadow david fentner once 
 
 - =================================================================================
