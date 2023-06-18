@@ -86,13 +86,12 @@ Goals: 20 hours
 - [x] Run at least one Geant4 example from the website
 
 **Research**
-- [ ] Read more about linacs to get comfortable with how they measure dose.
+- [x] Read more about linacs to get comfortable with how they measure dose.
 
 **Shadowing**
 - [x] Turn in my onboarding info to cape fear hospital by email
 - [x] Email David Fentner to let him know I'm ready to shadow and my schedule.
 
-- =================================================================================
 - 6/12 **Plan:** delete my Geant4 folder and try installing it again. This time install "ALL" and "INSTALL" at the same time.
 - 6/12 6:20 pm 30 min Started with a clean slate to try and download Geant4 again. Installing both "ALL" and "INSTALL" at the same time isn't gonna work with my setup, because I'm using the visual studio GUI, so I'll just wait for "ALL" to finish and then i'll do the "INSTALL." I'm building this in the "RelWithDebInfo" configuration.
 - 6/12 9:30 pm 45 min Did more research about LINACs. I think I'm going to go with the specific "Varian VitalBeam" linac. Found out that the photon energy configuration is ~6 to 10 MV. ALSO, successfully started the INSTALL build for Geant4.
@@ -103,3 +102,19 @@ Goals: 20 hours
 - 6/14 3:51 pm 1 hr Finishing up that document
 - 6/14 5:15 pm 3 hrs Made YouTube video about how to install Geant4
 - 6/15 1:50 pm 1 hr Learning more about how linacs measure dose. Found two articles I can use to check my work. Learned about PDD and dose profile. 
+
+# Week 5: 6/19-6/25
+
+**Geant4:**
+- [ ] learn how to use the GUI
+- [ ] run an example project
+- [ ] figure out how to modify the code in an example
+
+**Research**
+- [ ] Nail down how a linac characterizes a beam and measures dose
+- [ ] make a video tutorial to make sure i understand it good
+
+**Shadowing:**
+- [ ] shadow david fentner once 
+
+- =================================================================================
