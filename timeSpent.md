@@ -120,4 +120,4 @@ Goals: 20 hours
 - [ ] shadow david fentner once 
 
 - =================================================================================
-- 6/19 10:10 am coming up with questions to ask mr. fentner, and starting my presentation of how linacs work 
+- 6/19 10:10 am 1 hr coming up with questions to ask mr. fentner, and starting my presentation of how linacs work 
