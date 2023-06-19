@@ -113,7 +113,8 @@ Goals: 20 hours
 
 **Research**
 - [ ] Nail down how a linac characterizes a beam and measures dose
-- [ ] make a video tutorial to make sure i understand it good
+- [ ] make a presentation to make sure i understand it good
+- [ ] make a google sheet to make sure I'm on track on my goals
 
 **Shadowing:**
 - [ ] come up with questions to ask mr. fentner
