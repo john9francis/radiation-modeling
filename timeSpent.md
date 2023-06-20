@@ -117,9 +117,10 @@ Goals: 20 hours
 - [ ] make a google sheet to make sure I'm on track on my goals
 
 **Shadowing:**
-- [ ] come up with questions to ask mr. fentner
-- [ ] shadow david fentner once 
+- [x] come up with questions to ask mr. fentner
+- [x] shadow david fentner once 
 
 - =================================================================================
 - 6/19 10:10 am 1 hr coming up with questions to ask mr. fentner, and starting my presentation of how linacs work
 - 6/19 5:20 pm 2 hrs working on presentation 
+- 6/20 10:00 am 4 hours shadowing mr. fentner, diagnostic medical physicist. 
