@@ -113,7 +113,7 @@ Goals: 20 hours
 
 **Research**
 - [ ] Nail down how a linac characterizes a beam and measures dose
-- [ ] make a presentation to make sure i understand it good
+- [x] make a presentation to make sure i understand it good
 - [x] make a google sheet to make sure I'm on track on my goals
 
 **Shadowing:**
@@ -125,4 +125,4 @@ Goals: 20 hours
 - 6/19 5:20 pm 2 hrs working on presentation 
 - 6/20 10:00 am 4 hours shadowing mr. fentner, diagnostic medical physicist.
 - 6/20 4:00 pm 1.5 hrs Working on a google sheet to plan my project, and writing down what I learned from mr. Fentner.
-- 6/20 10:20 pm working on the linac presentation
+- 6/20 10:20 pm 1 hr working on the linac presentation. Next step is really classifying a linac. Like what dose exactly does a 6MV beam give? Then we recreate it using Geant4. Also, I need to get started on geant4 figuring out how to use it. 
