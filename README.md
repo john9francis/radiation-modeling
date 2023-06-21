@@ -9,11 +9,11 @@ I created this prezi presentation to illustrate how a LINAC machine works:
 
 # Development Environment
 
-The code for this project will primarily be written in Python using Visual Studio Code. The libraries I will be using are found in the requirements.txt file. To run this project on your own machine, clone the repository and then you can run:
-```
-pip install -r requirements.txt
-```
-and it will automatically install all the libraries that I have used. 
+This project will be developed primarily in [Geant4](https://geant4.web.cern.ch/), a high-level C++ Toolkit for the simulation of the passage of particles through matter. In this repository I will have several tutorials and guide on how to use Geant4, because it is very complicated. 
+
+Help with Geant4:
+
+
 
 # Research Articles
 
@@ -28,4 +28,4 @@ and it will automatically install all the libraries that I have used.
 
 # Future Work
 
-- Visually model the data I have gathered
+- 
