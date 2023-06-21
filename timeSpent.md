@@ -127,3 +127,4 @@ Goals: 20 hours
 - 6/20 4:00 pm 1.5 hrs Working on a google sheet to plan my project, and writing down what I learned from mr. Fentner.
 - 6/20 10:20 pm 1 hr working on the linac presentation. Next step is really classifying a linac. Like what dose exactly does a 6MV beam give? Then we recreate it using Geant4. Also, I need to get started on geant4 figuring out how to use it.
 - 6/21 11:00 am 2 hrs trying to figure out how to use the Geant4 GUI, looking into visual options like Qt. PLAN: run every option in example b1 to see what they all do.
+- 6/21 6:15 pm 1 hr messing with Geant4 GUI. found out i need get a visualization driver attached
