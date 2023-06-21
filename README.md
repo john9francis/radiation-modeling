@@ -4,6 +4,9 @@ One effective way of treating cancer tumors in hospitals is radiation treatments
 
 This project aims to computationally model a radiation treatment using the LINAC machine. I will be conducting research to learn exactly how this machine works and delivers the radiation. Then, I will model how much damage will be affecting each layer of the body as the dosage is delivered, as well as how much dose was delivered to the tumor.
 
+I created this prezi presentation to illustrate how a LINAC machine works:
+[How a LINAC distributes and measures dose](https://prezi.com/view/LCqqiqkJdII7mVcUly4L/)
+
 # Development Environment
 
 The code for this project will primarily be written in Python using Visual Studio Code. The libraries I will be using are found in the requirements.txt file. To run this project on your own machine, clone the repository and then you can run:
