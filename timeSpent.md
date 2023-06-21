@@ -125,3 +125,4 @@ Goals: 20 hours
 - 6/19 5:20 pm 2 hrs working on presentation 
 - 6/20 10:00 am 4 hours shadowing mr. fentner, diagnostic medical physicist.
 - 6/20 4:00 pm 1.5 hrs Working on a google sheet to plan my project, and writing down what I learned from mr. Fentner.
+- 6/20 10:20 pm working on the linac presentation
