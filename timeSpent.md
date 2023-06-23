@@ -130,4 +130,5 @@ Goals: 20 hours
 - 6/21 6:15 pm 1 hr messing with Geant4 GUI. found out i need get a visualization driver attached
 - 6/22 11:00 am 45 mins researching OpenGL. Next step, download OpenGL with visual studio and then figure out how to attach it with Geant4. (putting it in the environment variables with priority=1. On the powerpoints it should have something to help with that.)
 - 6/22 11:30 pm 45 min looking into installing openGL on visual studio. Also tried out all the macro files for B1... Nothing is displaying.
-- 6/22 1:40 pm 1 hr did a TON of research in the Geant4 for app developers book, and I came to the conclusion to re-download Geant4 with the Qt driver.
+- 6/23 1:40 pm 1 hr did a TON of research in the Geant4 for app developers book, and I came to the conclusion to re-download Geant4 with the Qt driver.
+- 6/23 3:30 looking into Qt...
