@@ -132,4 +132,4 @@ Goals: 20 hours
 - 6/22 11:30 pm 45 min looking into installing openGL on visual studio. Also tried out all the macro files for B1... Nothing is displaying.
 - 6/23 1:40 pm 1 hr did a TON of research in the Geant4 for app developers book, and I came to the conclusion to re-download Geant4 with the Qt driver.
 - 6/23 3:30 30 min Trying to compile Geant4 again but this time with OGL selected.
-- 6/23 6:25 Compilation finished, now gonna finish building and test an example.
+- 6/23 6:25 15 Compilation finished, now gonna finish building and test an example. Nothing displayed AGAIN. I really don't want to use Qt... but I probably have to. It just has all those weird licenses and stuff. 
