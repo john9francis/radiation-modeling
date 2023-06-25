@@ -132,6 +132,6 @@ Goals: 20 hours
 - 6/22 11:30 pm 45 min looking into installing openGL on visual studio. Also tried out all the macro files for B1... Nothing is displaying.
 - 6/23 1:40 pm 1 hr did a TON of research in the Geant4 for app developers book, and I came to the conclusion to re-download Geant4 with the Qt driver.
 - 6/23 3:30 30 min Trying to compile Geant4 again but this time with OGL selected.
-- 6/23 6:25 15 Compilation finished, now gonna finish building and test an example. Nothing displayed AGAIN. I really don't want to use Qt... but I probably have to. It just has all those weird licenses and stuff.
+- 6/23 6:25 15 min Compilation finished, now gonna finish building and test an example. Nothing displayed AGAIN. I really don't want to use Qt... but I probably have to. It just has all those weird licenses and stuff.
 - 6/24 6:00 30 mins applying for Qt educators license and trying one more time without Qt
 - 6/24 8:30 pm 3 hours compile Geant4 with Qt or bust! NOTE: if this works, I should make a tutorial for installing Geant4 with Qt. Also, I should summarize my Geant4 findings so far and put them in my paper. UPDATE: I got an error when compiling. I’m going to try again another day with a different version of Qt. Last thing for tonight is reading the GitHub Geant4 release notes to see if it says anything about Qt. None of the release notes for the last year mentioned anything about the Qt version. Maybe I'll try the lastest version and see if it works. Or maybe I'll ask the Geant4 forum.
