@@ -134,4 +134,4 @@ Goals: 20 hours
 - 6/23 3:30 30 min Trying to compile Geant4 again but this time with OGL selected.
 - 6/23 6:25 15 Compilation finished, now gonna finish building and test an example. Nothing displayed AGAIN. I really don't want to use Qt... but I probably have to. It just has all those weird licenses and stuff.
 - 6/24 6:00 30 mins applying for Qt educators license and trying one more time without Qt
-- 6/24 8:30 pm compile Geant4 with Qt or bust! NOTE: if this works, I should make a tutorial for installing Geant4 with Qt.
+- 6/24 8:30 pm compile Geant4 with Qt or bust! NOTE: if this works, I should make a tutorial for installing Geant4 with Qt. Also, I should summarize my Geant4 findings so far and put them in my paper. 
