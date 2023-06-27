@@ -148,4 +148,4 @@ Goals: 20 hours
 - [ ] Learn more about dose RATE as opposed to just dose
 
 - =================================================================================
-- 6/27 10:07 am gonna figure out this Qt dll error.
+- 6/27 10:07 am gonna figure out this Qt dll error. UPDATE: I'm gonna try to reinstall Qt and Geant4, and if it still doesn't work, I'll post something on the forum.
