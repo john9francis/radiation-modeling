@@ -149,4 +149,4 @@ Goals: 20 hours
 
 - =================================================================================
 - 6/27 10:07 am 1.5 hrs gonna figure out this Qt dll error. UPDATE: I'm gonna try to uninstall and reinstall Qt and Geant4, and if it still doesn't work, I'll post something on the forum.
-- 6/27 12:38 pm I'm gonna try and compile Geant4 again with Qt. 
+- 6/27 12:38 pm 2 hrs I'm gonna try and compile Geant4 again with Qt. UPDATE: it's currently compiling. Hoping for the best...
