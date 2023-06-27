@@ -20,7 +20,7 @@ As explained in the Installation guide, we need to start by installing 3 prerequ
 
 ### Geant4 toolkit source code
 
-To download this, go to the [Geant4 main page](https://geant4.web.cern.ch), click on [Download](https://geant4.web.cern.ch/download/11.1.1.html), and under the "Source code" header you want to download the .zip file.
+To download this, go to the [Geant4 main page](https://geant4.web.cern.ch), click on Download, and under the "Source code" header you want to download the .zip file.
 
 Make sure you put this .zip file somewhere safe on your computer. I put mine in a folder with the following path
 ```
