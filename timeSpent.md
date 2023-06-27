@@ -121,7 +121,6 @@ Goals: 20 hours
 - [x] come up with questions to ask mr. fentner
 - [x] shadow david fentner once 
 
-- =================================================================================
 - 6/19 10:10 am 1 hr coming up with questions to ask mr. fentner, and starting my presentation of how linacs work
 - 6/19 5:20 pm 2 hrs working on presentation 
 - 6/20 10:00 am 4 hours shadowing mr. fentner, diagnostic medical physicist.
@@ -147,3 +146,6 @@ Goals: 20 hours
 - [ ] Learn how to convert MV to Grays.
 - [ ] Make a small program to convert any units back to Grays
 - [ ] Learn more about dose RATE as opposed to just dose
+
+- =================================================================================
+- 6/27 10:07 am gonna figure out this Qt dll error.
