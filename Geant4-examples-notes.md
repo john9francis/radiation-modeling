@@ -14,4 +14,4 @@
 
 
 ## Medical Linac:
-
+[information about the example](https://www.ge.infn.it/geant4/examples/medical_linac/)
