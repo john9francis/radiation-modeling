@@ -2,15 +2,18 @@
 6/29/2023
 Note: this tutorial is for Geant4 v11.1.2 and Qt 5.15.14 (Not the latest Qt version, but the one that's compatible with Geant4.)
 
-There are three steps for installing Geant4 on windows:
+Having a visualization driver for Geant4 is optional, but very helpful for beginners. Geant4 has many options for visualization, but a good beginnger-friendly tool is Qt. Qt is a software package that's used for making really nice GUIs. It uses OpenGL, (So make sure you have OpenGL libraries installed as well.) If you want to test and see if you have OpenGL installed, try installing [these examples](https://github.com/g-truc/ogl-samples) and running them. If you see some visualization, then you have OpenGL on your computer. 
+
+There are four steps for installing Geant4 on windows:
 * [Step 1: Install prerequisites](#step-1-install-all-the-prerequisites)
-* [Step 2: Build and install from source](#step-2-building-and-installing-from-source)
-* [Step 3: Postinstall setup](#step-3-postinstall-setup)
+* [Step 2: Install and set up Qt](#step-2-install-and-set-up-qt)
+* [Step 3: Build and install from source](#step-3-building-and-installing-from-source)
+* [Step 4: Postinstall setup](#step-4-postinstall-setup)
 
 
 ## Step 1: Install all the prerequisites:
 
-As explained in the Installation guide, we need to start by installing 3 prerequisites:
+As explained in the Installation guide, we need to start by installing 4 prerequisites:
 1. [Geant4 toolkit source code](#geant4-toolkit-source-code) 
 2. [C++ compiler and library](#c-compiler-and-library)
 3. [Cmake](#cmake)
@@ -38,7 +41,9 @@ The best tutorial I found to install the correct C++ workload is this [YouTube v
 
 CMake is an open-source, cross-platform family of tools designed to build, test and package software. Geant4 is designed to be installed with CMake, so we need to download it. To do so, go to the [CMake download website](https://cmake.org/download/), scroll down, and click the link to download the Windows x64 Installer. It should be an .msi file. Double click on the file, and follow the steps to install it. 
 
-## Step 2: Building and installing from source
+## Step 2: Install and set up Qt
+
+## Step 3: Building and installing from source
 
 The next step is installing and building Geant4 from the source files. The first thing I tried was using the [Instructions on the Geant4 website](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/installguide.html#buildandinstall). This method does everything from the command line using command prompt or powershell. Personally, I got a lot of bugs and issues with this approach, so I ended up going a different direction.
 
@@ -87,7 +92,7 @@ After like an hour or more, it will finish building... But you're not quite done
 
 For some reason, the Geant4 setup skips the "INSTALL" option which installs all the header files which are neccesary for the thing to run. So we need to find the "INSTALL" solution, and click build. Now the Geant4 is completely compiled.
 
-## Step 3: Postinstall setup
+## Step 4: Postinstall setup
 
 [Geant4 postinstall setup instructions](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/postinstall.html)
 
