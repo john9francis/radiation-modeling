@@ -139,8 +139,8 @@ Goals: 20 hours
 # Week 6: 6/26-7/2
 
 **Geant4:**
-- [ ] Get it compiled with Qt, or a different visualiztion driver.
-- [ ] Run an example with visualization
+- [x] Get it compiled with Qt, or a different visualiztion driver.
+- [x] Run an example with visualization
 
 **Research**
 - [ ] Learn how to convert MV to Grays.
@@ -152,4 +152,4 @@ Goals: 20 hours
 - 6/27 12:38 pm 2 hrs I'm gonna try and compile Geant4 again with Qt. UPDATE: it's currently compiling. Hoping for the best...
 - 6/27 3:30 pm 1 hr trying an example with Qt. fingers crossed! Update: of course it didn't work. I realized I may have a conflicting Qt version because I have anaconda installed. Trying a new Geant4 build, this time with my path rearranged so that the Qt5 directory is before the anaconda one.
 - 6/27 pm 15 min IT WORKED!!! Now I just need to figure out how to interact with example1.
-- 6/29 10:06 pm gonna try some commands with the geant4 gui
+- 6/29 10:06 pm 1 hr gonna try some commands with the geant4 gui UPDATE: I got example 1 ran with visualization. You just need to run the vis.mac file. Super excited. I also checked out the advanced example 'medical linac', but I cound'nt get it to run. 
