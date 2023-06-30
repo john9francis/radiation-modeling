@@ -1,7 +1,7 @@
 # Geant4 v11.1.1 Installation for Windows 11 
 6/9/2023
 
-This is a very simple tutorial on how I installed Geant4 (from the source code) on my Windows 11 laptop. I recommend watching [my YouTube tutorial](insert-link-here) where I walk through each of these steps on my own computer.
+This is a very simple tutorial on how I installed Geant4 (from the source code) on my Windows 11 laptop. I recommend watching [my YouTube tutorial](https://youtu.be/w7k9PK1Ipv8) where I walk through each of these steps on my own computer.
 
 Also, this is the most basic install and compilation of Geant4, without a visualization driver. If you want a good visualization driver option, go to my tutorial: [installing Geant4 with the Qt visualization driver.](Geant4-Qt-install-instructions.md)
 
