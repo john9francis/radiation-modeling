@@ -151,4 +151,5 @@ Goals: 20 hours
 - 6/27 10:07 am 1.5 hrs gonna figure out this Qt dll error. UPDATE: I'm gonna try to uninstall and reinstall Qt and Geant4, and if it still doesn't work, I'll post something on the forum.
 - 6/27 12:38 pm 2 hrs I'm gonna try and compile Geant4 again with Qt. UPDATE: it's currently compiling. Hoping for the best...
 - 6/27 3:30 pm 1 hr trying an example with Qt. fingers crossed! Update: of course it didn't work. I realized I may have a conflicting Qt version because I have anaconda installed. Trying a new Geant4 build, this time with my path rearranged so that the Qt5 directory is before the anaconda one.
-- 6/27 6/27 pm 15 min IT WORKED!!! Now I just need to figure out how to interact with example1.
+- 6/27 pm 15 min IT WORKED!!! Now I just need to figure out how to interact with example1.
+- 6/29 10:06 pm gonna try some commands with the geant4 gui
