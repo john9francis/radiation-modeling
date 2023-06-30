@@ -13,8 +13,8 @@ This project will be developed primarily in [Geant4](https://geant4.web.cern.ch/
 
 Help with Geant4:
 
-[Geant4 install instructions](Geant4-install-instructions.md)
-[Geant4 with Qt install instructions](Geant4-install-instructions.md)
+* [Geant4 install instructions](Geant4-install-instructions.md)
+* [Geant4 with Qt install instructions](Geant4-install-instructions.md)
 
 # Research Articles
 
