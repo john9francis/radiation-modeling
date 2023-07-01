@@ -1,6 +1,8 @@
 # Installing and Compiling Geant4 with Qt visualization driver
 6/29/2023
-Note: this tutorial is for Geant4 v11.1.2 and Qt 5.15.14 (Not the latest Qt version, but the one that's compatible with Geant4.)
+Note: this tutorial is for Windows 11 Geant4 v11.1.2 and Qt 5.15.14
+
+This is a guide for installing Geant4 with the Qt visualization driver. If you want to install just Geant4 alone with no visualization, click [here.](Geant4-install-instructions.md)
 
 Having a visualization driver for Geant4 is optional, but very helpful for beginners. Geant4 has many options for visualization, but a good beginnger-friendly tool is Qt. Qt is a software package that's used for making really nice GUIs. It uses OpenGL, (So make sure you have OpenGL libraries installed as well.) If you want to test and see if you have OpenGL installed, try installing [these examples](https://github.com/g-truc/ogl-samples) and running them. If you see some visualization, then you have OpenGL on your computer. 
 
@@ -13,7 +15,7 @@ There are four steps for installing Geant4 on windows:
 
 ## Step 1: Install all the prerequisites:
 
-As explained in the Installation guide, we need to start by installing 4 prerequisites:
+As explained in the Installation guide, we need to start by installing 3 prerequisites:
 1. [Geant4 toolkit source code](#geant4-toolkit-source-code) 
 2. [C++ compiler and library](#c-compiler-and-library)
 3. [Cmake](#cmake)
@@ -42,6 +44,45 @@ The best tutorial I found to install the correct C++ workload is this [YouTube v
 CMake is an open-source, cross-platform family of tools designed to build, test and package software. Geant4 is designed to be installed with CMake, so we need to download it. To do so, go to the [CMake download website](https://cmake.org/download/), scroll down, and click the link to download the Windows x64 Installer. It should be an .msi file. Double click on the file, and follow the steps to install it. 
 
 ## Step 2: Install and set up Qt
+
+Qt is a powerful GUI building program that costs $300 a month for professional use. Luckily, we can use it for free with an educational or open-source account. If you are working on research for a university, the educational account is a good option, but if you are using Geant4 for personal projects, you have to use the open-source account. 
+
+To install Qt, first go to the [Qt website.](https://www.qt.io/) 
+
+### Educational users:
+If you are using Qt for educational purposes, you need to apply for an educational license. On the Qt homepage, go to the resources drop down menu, and under "Learn Qt tools" there is a link called, "[Get Qt Educational License.](https://www.qt.io/qt-educational-license)" Click on that, then scroll down and where it says "Qt Edu for Developers," click on "Get Qt now." That will bring you down to a form where you have to fill out your name, email, educational institution, etc. This is your Qt educational license application. Submit, and pretty soon you will get an email showing you your next steps. 
+
+### Open source users:
+If you aren't using Qt for educational purposes, you can still use Qt as an open source user. Click on the "[Download/try](https://www.qt.io/download)" link. There should be a little window that says, "[Open source user?](https://www.qt.io/download-open-source)" click on that. 
+
+Make sure you read the terms and conditions. You can use the Qt for free as an open source user, but you have to contribute your project back to the Qt community. As long as you agree to the terms, you can go down to where it says, "Looking for binaries?" and then install the Qt installer for whatever operating system you are on.  
+
+### The Qt installer
+Either path you choose, you will end up with a Qt installer. Double click on it, and it will pop up a window. You are going to need a Qt account to use it, so enter your username and password.
+
+The entire Qt package is HUGE... but luckily for Geant4 we only need one specific release of Qt. You want to choose the option, "custom installation" in the installer. Deselect everything, and only choose Qt version 5.15.14 specifically for visual studio 2019.
+
+Before the installer installs Qt, it will tell you how many Gigabytes it will be. It should only be 1-2, maybe 3 Gigabytes. If it's way more, you did something wrong. Remember, you should only have one thing checked on the install page, Qt 5.15.14 for msvc2019.
+
+Keep in mind, in the future Geant4 may work with Qt 6 or future versions, but for now it's just compatible with 5.
+
+Most likely Qt will install in:
+```
+C://Qt
+```
+
+### Adding the Qt bin directory to Path
+The last step we need to do for Qt before we compile Geant4 is add a certain bin directory to Path. Open up your environmental variables and on path add this directory:
+```
+C:\Qt\5.15.14\msvc2019_64\bin
+```
+IMPORTANT: If you have anything that uses a different version of Qt, (e.g. Anaconda), you NEED this new directory to be above that one on Path. The reason why is because when Geant4 compiles, it will look for the Qt binaries in the first instance of Qt. So if Anaconda is first on the list, Geant4 is going to try to compile with Qt6 instead of Qt5, and you'll get dll errors.
+
+So make sure that the directory:
+```
+C:\Qt\5.15.14\msvc2019_64\bin
+```
+is near the beginning of Path.
 
 ## Step 3: Building and installing from source
 
@@ -78,9 +119,35 @@ C:/Users/my-user-name/Geant4/program_files
 ### Configuration types
 There is an option in the GUI called, "CMAKE_CONFIGURATION_TYPES." This has several options such as Release, RelWithDebInfo, Debug, etc. Make sure you delete everything besides "Release" or "RelWithDebInfo" if you want to have the debug info included. I personally chose to delete everythin except "RelWithDebInfo."
 
+### Qt setup:
+There should be an option called GEANT4_USE_QT. Check that box.
+
 ### Finishing up the config and generation:
 
-Finally, go to the bottom of the GUI and click "configure," then "generate," and finally "open project."
+Finally, go to the bottom of the GUI and click "configure." 
+
+You may see a new pop up called, "QT_DIR." if it says, "DIR-NOTFOUND," set the path to:
+
+```
+C:/Qt/5.15.14/msvc2019_64/lib/cmake/Qt5
+```
+
+Then press "configure" again.
+
+More options will pop up, including Qt53DCore_DIR, Qt53DExtras_DIR, etc. Some of these will say, "DIR-NOTFOUND," That's fine. Just make sure the following options are not "DIR-NOTFOUND" and are in these directories:
+
+```
+QT_DIR: C:/Qt/5.15.14/msvc2019_64/lib/cmake/Qt5
+Qt5_DIR: C:/Qt/5.15.14/msvc2019_64/lib/cmake/Qt5
+Qt5Core_DIR: C:/Qt/5.15.14/msvc2019_64/lib/cmake/Qt5Core
+Qt5Gui_DIR: C:/Qt/5.15.14/msvc2019_64/lib/cmake/Qt5Gui
+Qt5OpenGL_DIR: C:/Qt/5.15.14/msvc2019_64/lib/cmake/Qt5OpenGL
+Qt5PrintSupport_DIR: C:/Qt/5.15.14/msvc2019_64/lib/cmake/Qt5PrintSupport
+Qt5Widgets_DIR: C:/Qt/5.15.14/msvc2019_64/lib/cmake/Qt5Widgets
+```
+As long as these are correct, everything should work just fine. Click configure again to see all the options turn white. 
+
+then "generate," and finally "open project."
 
 At this point, Visual Studio should open. 
 
@@ -98,7 +165,7 @@ For some reason, the Geant4 setup skips the "INSTALL" option which installs all 
 
 To complete the installation of the Geant4 program, we need to set up 2 more things.
 
-1. Add the bin directory to PATH
+1. Add the Geant4 bin directory to PATH
 2. Create a new environmental variable for the Geant4 datasets.
 
 ### You could use a .batch file, but...
@@ -174,9 +241,10 @@ C:\Users\my-user-name\Geant4\program_files\share\Geant4\examples\basic\B1\Releas
 ```
 In this directory, you will find a file called, exampleB1.exe. Double click it, and you should see it run!
 
-It won't be anything fancy, but if you at least get a window opening, that's a good sign that Geant4 has been successfully downloaded. Congratulations!
+At this point, you should see the Qt GUI, which is really nice. You can initialize a viewer by running vis.mac, and you should see the example B1 displayed beautifully. Congratulations, you have complied Geant4 with Qt. 
 
 ## References
+### Geant4:
 * [Geant4 website](https://geant4.web.cern.ch/)
 * [Geant4 source code download](https://geant4.web.cern.ch/download/11.1.1.html)
 * [Visual Studio download](https://visualstudio.microsoft.com/downloads/)
@@ -186,3 +254,11 @@ It won't be anything fancy, but if you at least get a window opening, that's a g
 * [Geant4 Post-install setup](https://geant4-userdoc.web.cern.ch/UsersGuides/InstallationGuide/html/postinstall.html#required-environment-settings-on-windows)
 * [How to compile Geant4 on windows Physino YouTube tutorial](https://www.youtube.com/watch?v=GykiM1lPON4)
 * [How to compile a Geant4 example Physino YouTube tutorial](https://www.youtube.com/watch?v=nY-vO6yN65c&t=67s)
+* [Geant4 forumn (for help!)](https://geant4-forum.web.cern.ch/)
+
+### Qt:
+* [Qt website](https://www.qt.io/)
+* [Install Qt5 for Geant4 Physino YouTube tutorial](https://www.youtube.com/watch?v=p-MRo4LJNCQ)
+
+### Other:
+* [Dependency walker app (for broken DLLs)](https://www.dependencywalker.com/)
