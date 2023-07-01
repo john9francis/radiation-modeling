@@ -152,4 +152,5 @@ Goals: 20 hours
 - 6/27 12:38 pm 2 hrs I'm gonna try and compile Geant4 again with Qt. UPDATE: it's currently compiling. Hoping for the best...
 - 6/27 3:30 pm 1 hr trying an example with Qt. fingers crossed! Update: of course it didn't work. I realized I may have a conflicting Qt version because I have anaconda installed. Trying a new Geant4 build, this time with my path rearranged so that the Qt5 directory is before the anaconda one.
 - 6/27 pm 15 min IT WORKED!!! Now I just need to figure out how to interact with example1.
-- 6/29 10:06 pm 1 hr gonna try some commands with the geant4 gui UPDATE: I got example 1 ran with visualization. You just need to run the vis.mac file. Super excited. I also checked out the advanced example 'medical linac', but I cound'nt get it to run. 
+- 6/29 10:06 pm 1 hr gonna try some commands with the geant4 gui UPDATE: I got example 1 ran with visualization. You just need to run the vis.mac file. Super excited. I also checked out the advanced example 'medical linac', but I coundn't get it to run.
+- 6/30 9:00 pm working on the Geant4 with Qt install directions. 
