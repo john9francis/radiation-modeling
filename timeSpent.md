@@ -154,3 +154,4 @@ Goals: 20 hours
 - 6/27 pm 15 min IT WORKED!!! Now I just need to figure out how to interact with example1.
 - 6/29 10:06 pm 1 hr gonna try some commands with the geant4 gui UPDATE: I got example 1 ran with visualization. You just need to run the vis.mac file. Super excited. I also checked out the advanced example 'medical linac', but I coundn't get it to run.
 - 6/30 9:00 pm 1 hr working on the Geant4 with Qt install directions. 
+- 6/30 10:45 pm 
