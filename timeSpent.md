@@ -161,6 +161,7 @@ Goals: 20 hours
 
 **Geant4**
 - [ ] Code at least half of my "photon shooter" application
+- [ ] Learn about detectors in Geant4
 
 **Research**
 - [ ] Learn what it means to have a 6 MV beam, how many photons / second is that?
