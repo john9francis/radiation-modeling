@@ -167,4 +167,4 @@ Goals: 20 hours
 - [ ] Learn what it means to have a 6 MV beam, how many photons / second is that?
 
 - ================================================================================
-- 7/3 10:28 am researching photons/second in a 6 MV beam, and planning my photon shooter application.
+- 7/3 10:28 am 2 hrs researching photons/second in a 6 MV beam, and made half the geant4 with Qt tutorial video 
