@@ -164,6 +164,3 @@ Goals: 20 hours
 **Research**
 
 - =================================================
-
-- 7/3 7:20 am planning geant4 project 
-
