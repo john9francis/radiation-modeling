@@ -11,7 +11,7 @@ I created this prezi presentation to illustrate how a LINAC machine works:
 
 This project will be developed primarily in [Geant4](https://geant4.web.cern.ch/), a high-level C++ Toolkit for the simulation of the passage of particles through matter. In this repository I will have several tutorials and guide on how to use Geant4, because it is very complicated. 
 
-Help with Geant4:
+# Help with Geant4:
 
 * [Geant4 install instructions](Geant4-install-instructions.md)
 * [Geant4 with Qt install instructions](Geant4-Qt-install-instructions.md)
