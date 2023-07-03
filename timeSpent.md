@@ -15,6 +15,7 @@ Started: 5/22/2023
 * [Week 4](#week-4-612-618)
 * [Week 5](#week-5-619-625)
 * [Week 6](#week-6-626-72)
+* [Week 7](#week-7-73-79)
 
 # Long term goals:
 
@@ -156,3 +157,12 @@ Goals: 20 hours
 - 6/30 10:45 pm 45 min researching macro commands for the example files. Also brushing up on my C++. Getting ready to start next week on a Geant4 project.
 - 7/1 9:30 pm 1 hr. preparing and learning as much as I can about the Geant4 structure before next week I start a simple Geant4 app of my own. 
 - ============================================================
+
+# Week 7: 7/3-7/9
+
+**Geant4**
+
+**Research**
+
+- 7/3 7:20 am planning geant4 project 
+
