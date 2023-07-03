@@ -2,6 +2,8 @@
 6/29/2023
 Note: this tutorial is for Windows 11 Geant4 v11.1.2 and Qt 5.15.14
 
+Check out the video version of this tutorial here: [YouTube Geant4 installation with Qt 2023](https://youtu.be/rtCsfDD45Bc)
+
 This is a guide for installing Geant4 with the Qt visualization driver. If you want to install just Geant4 alone with no visualization, click [here.](Geant4-install-instructions.md)
 
 Having a visualization driver for Geant4 is optional, but very helpful for beginners. Geant4 has many options for visualization, but a good beginnger-friendly tool is Qt. Qt is a software package that's used for making really nice GUIs. It uses OpenGL, (So make sure you have OpenGL libraries installed as well.) If you want to test and see if you have OpenGL installed, try installing [these examples](https://github.com/g-truc/ogl-samples) and running them. If you see some visualization, then you have OpenGL on your computer. 
