@@ -160,7 +160,10 @@ Goals: 20 hours
 # Week 7: 7/3-7/9
 
 **Geant4**
+- [ ] Code at least half of my "photon shooter" application
 
 **Research**
+- [ ] Learn what it means to have a 6 MV beam, how many photons / second is that?
 
-- =================================================
+- ================================================================================
+- 7/3 10:28 am researching photons/second in a 6 MV beam, and planning my photon shooter application.
