@@ -169,4 +169,5 @@ Goals: 20 hours
 
 - ================================================================================
 - 7/3 10:28 am 2 hrs researching photons/second in a 6 MV beam, and made half the geant4 with Qt tutorial video 
-- 7/3 2:00 pm 3 hrs making Geant4 with Qt tutorial vid 
+- 7/3 2:00 pm 3 hrs making Geant4 with Qt tutorial vid
+- 7/4 3:02 pm making project plan for the next 2 weeks
