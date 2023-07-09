@@ -16,6 +16,7 @@ Started: 5/22/2023
 * [Week 5](#week-5-619-625)
 * [Week 6](#week-6-626-72)
 * [Week 7](#week-7-73-79)
+* [Week 8](#week-8-710-716)
 
 # Long term goals:
 
