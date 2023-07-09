@@ -160,14 +160,25 @@ Goals: 20 hours
 # Week 7: 7/3-7/9
 
 **Geant4**
-- [ ] Code at least half of my "photon shooter" application
-- [ ] Learn about detectors in Geant4
+- [x] Code at least half of my "photon shooter" application
+- [x] Learn about detectors in Geant4
 - [x] Make Geant4 with Qt tutorial 
 
 **Research**
 - [ ] Learn what it means to have a 6 MV beam, how many photons / second is that?
 
-- ================================================================================
 - 7/3 10:28 am 2 hrs researching photons/second in a 6 MV beam, and made half the geant4 with Qt tutorial video 
 - 7/3 2:00 pm 3 hrs making Geant4 with Qt tutorial vid
-- 7/4 STARTING GEANT4 2 WEEK PROJECT: I'm logging my time in a different file, so I will log chunks of time in here periodically. 
+- 7/4 STARTING GEANT4 2 WEEK PROJECT: I'm logging my time in a different file, so I will log chunks of time in here periodically.
+- 7/8 6 hrs Geant4 project. So far I have it to it can run a Geant4 app in interactive or batch mode.
+
+# Week 8: 7/10-7/16
+
+**Geant4**
+
+**Research**
+
+**Shadowing**
+
+- ================================================================================
+
