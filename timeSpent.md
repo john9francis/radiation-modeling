@@ -184,7 +184,9 @@ Goals: 20 hours
 - [ ] learn more about how photons turn into dose
 
 **Shadowing**
-- [ ] ask questions to dr. mghari
+- [x] ask questions to dr. mghari
 - [ ] possibly shadow mr. fentner
 
 - ================================================================================
+
+- 7/11 9:00 am 1.5 hr learning from dr. mghari medical physicist and diana the dosimetrist
