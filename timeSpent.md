@@ -190,4 +190,3 @@ Goals: 20 hours
 - ================================================================================
 
 - 7/11 9:00 am 1.5 hr learning from dr. mghari medical physicist and diana the dosimetrist
-- 7/11 5:00 pm finding the textbooks reccomended by Diana and writing down what I learned today.
