@@ -176,10 +176,17 @@ Goals: 20 hours
 # Week 8: 7/10-7/16
 
 **Geant4**
+- [ ] study and learn about example B1
+- [ ] finish "photon dose sim"
 
 **Research**
+- [ ] learn about ion chambers
+- [ ] learn more about how photons turn into dose
 
 **Shadowing**
+- [ ] ask questions to dr. mghari
+- [ ] possibly shadow mr. fentner
 
 - ================================================================================
 
+- 7/10 9:30 pm researching ion chambers
