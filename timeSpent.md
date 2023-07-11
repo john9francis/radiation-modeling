@@ -188,5 +188,3 @@ Goals: 20 hours
 - [ ] possibly shadow mr. fentner
 
 - ================================================================================
-
-- 7/10 9:30 pm researching ion chambers
