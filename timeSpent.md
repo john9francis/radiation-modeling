@@ -185,7 +185,7 @@ Goals: 20 hours
 
 **Shadowing**
 - [x] ask questions to dr. mghari
-- [ ] possibly shadow mr. fentner
+- [x] possibly shadow mr. fentner
 
 - ================================================================================
 
