@@ -190,3 +190,4 @@ Goals: 20 hours
 - ================================================================================
 
 - 7/11 9:00 am 1.5 hr learning from dr. mghari medical physicist and diana the dosimetrist
+- 7/12 10:00 am 3 hours shadowing david fentner diagnostic medical physicist 
