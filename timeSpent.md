@@ -192,5 +192,20 @@ Goals: 20 hours
 - 7/11 9:00 am 1.5 hr learning from dr. mghari medical physicist and diana the dosimetrist
 - 7/12 10:00 am 3 hours shadowing david fentner diagnostic medical physicist 
 - 7/12 3:45 pm 45 min writing down what i learned from shadowing this week
-- 7/15 18 hrs FINISHED PHOTON DOSE SIM! 
+- 7/15 18 hrs FINISHED PHOTON DOSE SIM!
 
+# Week 9: 7/17-7/22
+
+**Geant4**
+- [ ] Start on FiGA "**Fi**rst **G**eant4 **A**pp to help people with the basics of a Geant4 app.
+- [ ] Make a plan for my geant4 project
+
+**Research**
+- [ ] Get those books that Diana reccomended, look at examples
+- [ ] Find some data to go off of, to make sure my project is accurate
+- [ ] Learn as much as I can about 3DCRT
+
+**Other**
+- [ ] Email Prof. Kelley my progress
+- [ ] Organize alllll the notes I've taken
+- [ ] POSSIBLY make this repo into a github pages
