@@ -176,8 +176,8 @@ Goals: 20 hours
 # Week 8: 7/10-7/16
 
 **Geant4**
-- [ ] study and learn about example B1
-- [ ] finish "photon dose sim"
+- [x] study and learn about example B1
+- [x] finish "photon dose sim"
 
 **Research**
 - [ ] learn about ion chambers
@@ -192,4 +192,5 @@ Goals: 20 hours
 - 7/11 9:00 am 1.5 hr learning from dr. mghari medical physicist and diana the dosimetrist
 - 7/12 10:00 am 3 hours shadowing david fentner diagnostic medical physicist 
 - 7/12 3:45 pm 45 min writing down what i learned from shadowing this week
+- 7/15 18 hrs FINISHED PHOTON DOSE SIM! 
 
