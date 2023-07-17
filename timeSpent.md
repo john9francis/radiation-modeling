@@ -212,4 +212,4 @@ Goals: 20 hours
 
 - ================================================================================
 
-- 7/17 8:47 am 20 min Emailing prof. Kelley my progress
+- 7/17 8:47 am Emailing prof. Kelley my progress, and working on my long-term project plan.
