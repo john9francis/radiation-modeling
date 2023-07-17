@@ -199,6 +199,7 @@ Goals: 20 hours
 
 **Geant4**
 - [ ] Start on FiGA "**Fi**rst **G**eant4 **A**pp to help people with the basics of a Geant4 app.
+- [ ] Make photon dose sim code walkthrough
 - [ ] Make a plan for my geant4 project
 
 **Research**
