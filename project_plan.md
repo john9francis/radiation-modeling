@@ -6,9 +6,12 @@
 - 12.5 hours a week
 
 # Project plan 1: (6/22)
-### Phase 1 (10 weeks):
+### Phase 1 plan (10 weeks):
 - Create a model of a stationary x-ray LINAC and the radiation activity at different distances, amounts of time, and voltages.
 - Implement a method to convert that activity into exposure
+
+### Phase 1 reality:
+
 ### Phase 2 (10 weeks): 
 - Create a model of a person (for now, just one circular cross-section) with a tumor in the center
 - Modify the linac model to be able to rotate around the person 
