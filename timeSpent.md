@@ -196,13 +196,15 @@ Goals: 20 hours
 # Week 9: 7/17-7/22
 
 **Geant4**
-- [ ] Start on FiGA "**Fi**rst **G**eant4 **A**pp to help people with the basics of a Geant4 app.
+- [ ] ~~Start on FiGA "**Fi**rst **G**eant4 **A**pp to help people with the basics of a Geant4 app.~~ (There's people who want Geant4 help, but I'm not here to help them out, I'm here to do my project.)
+- [ ] Convert Photon Dose Sim into the finished phase 1 of my project
 - [ ] Make photon dose sim code walkthrough
 - [ ] Make a plan for my geant4 project
 
 **Research**
 - [x] Get those books that Diana recommended, look at examples
 - [ ] Find some data to go off of, to make sure my project is accurate
+- [ ] Find out how much energy the x-ray photons have, and how to model that in G4
 - [ ] Learn as much as I can about 3DCRT
 
 **Other**
