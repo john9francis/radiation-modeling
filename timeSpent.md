@@ -206,10 +206,10 @@ Goals: 20 hours
 - [ ] Learn as much as I can about 3DCRT
 
 **Other**
-- [ ] Email Prof. Kelley my progress
+- [x] Email Prof. Kelley my progress
 - [ ] Organize alllll the notes I've taken
 - [ ] POSSIBLY make this repo into a github pages
 
 - ================================================================================
 
-- 7/17 8:47 am Emailing prof. Kelley my progress and organizing notes
+- 7/17 8:47 am 20 min Emailing prof. Kelley my progress
