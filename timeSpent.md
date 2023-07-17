@@ -188,8 +188,6 @@ Goals: 20 hours
 - [x] ask questions to dr. mghari
 - [x] possibly shadow mr. fentner
 
-- ================================================================================
-
 - 7/11 9:00 am 1.5 hr learning from dr. mghari medical physicist and diana the dosimetrist
 - 7/12 10:00 am 3 hours shadowing david fentner diagnostic medical physicist 
 - 7/12 3:45 pm 45 min writing down what i learned from shadowing this week
@@ -211,3 +209,7 @@ Goals: 20 hours
 - [ ] Email Prof. Kelley my progress
 - [ ] Organize alllll the notes I've taken
 - [ ] POSSIBLY make this repo into a github pages
+
+- ================================================================================
+
+- 7/17 8:47 am Emailing prof. Kelley my progress and organizing notes
