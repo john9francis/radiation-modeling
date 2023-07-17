@@ -213,3 +213,4 @@ Goals: 20 hours
 - ================================================================================
 
 - 7/17 8:47 am 30 min Emailing prof. Kelley my progress
+- 7/17 11:00 am finding those books diana reccomended
