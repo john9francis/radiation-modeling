@@ -1,6 +1,6 @@
 # Time Spent:
 
-This file is a record of the time I have spent on this project. 
+This file is a record of the time I have spent on phase 1 of this project. 
 
 Started: 5/22/2023
 
