@@ -2,10 +2,8 @@
 # Long term goals:
 
 - 400 total hours
-- 16 weeks before school starts
-- 14 weeks of the semester
-- ~ 14 hours a week 
-- or 20 hours a week until school starts and 6 hours a week when school is in session
+- 30 weeks
+- 12.5 hours a week
 
 # Project plan 1: (6/22)
 ### Phase 1 (10 weeks):
