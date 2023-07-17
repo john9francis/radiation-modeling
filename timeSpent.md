@@ -201,7 +201,7 @@ Goals: 20 hours
 - [ ] Make a plan for my geant4 project
 
 **Research**
-- [ ] Get those books that Diana reccomended, look at examples
+- [x] Get those books that Diana recommended, look at examples
 - [ ] Find some data to go off of, to make sure my project is accurate
 - [ ] Learn as much as I can about 3DCRT
 
