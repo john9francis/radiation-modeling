@@ -188,4 +188,5 @@ Goals: 20 hours
 - ================================================================================
 
 - 7/17 8:47 am 30 min Emailing prof. Kelley my progress
-- 7/17 11:00 am 1 hr 45 min finding those books diana reccomended, researching 3DCRT, organizing research notes, and starting to come up with my plan for the next few weeks. 
+- 7/17 11:00 am 1.75 hr finding those books diana reccomended, researching 3DCRT, organizing research notes, and starting to come up with my plan for the next few weeks.
+- 7/18 4:17 pm research more about 3DCRT
