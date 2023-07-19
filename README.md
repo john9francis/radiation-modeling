@@ -31,4 +31,5 @@ This project will be developed primarily in [Geant4](https://geant4.web.cern.ch/
 
 
 # GitHub themes
-- https://pages.github.com/themes/ 
+- [How to add a theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+- [List of supported themes](https://pages.github.com/themes/)
