@@ -1,4 +1,4 @@
-# Contents:
+# Links:
 
 - [Project plan](project_plan.md)
 - [Geant4 help](Geant4-help.md)
