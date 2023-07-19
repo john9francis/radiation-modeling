@@ -1,7 +1,7 @@
 # Contents:
 
-[Project plan](project_plan.md)
-[Geant4 help](Geant4-help.md)
+- [Project plan](project_plan.md)
+- [Geant4 help](Geant4-help.md)
 
 # Overview
 
