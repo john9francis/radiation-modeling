@@ -183,7 +183,7 @@ Goals: 20 hours
 **Other**
 - [x] Email Prof. Kelley my progress
 - [x] Organize alllll the notes I've taken
-- [ ] POSSIBLY make this repo into a github pages
+- [x] POSSIBLY make this repo into a github pages
 
 - ================================================================================
 
@@ -192,3 +192,4 @@ Goals: 20 hours
 - 7/18 4:17 pm 15 min researching more about 3DCRT
 - 7/18 6:57 pm 1 hr creating first release of photon-dose-sim
 - 7/18 8:06 pm 30 min converting this repo into GitHub pages
+- 7/18 10:19 pm trying to make an installer for photon-dose-sim!
