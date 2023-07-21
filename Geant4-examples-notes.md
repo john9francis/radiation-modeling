@@ -1,5 +1,7 @@
 # Notes about built in Geant4 examples
 
+[home](README.md)
+
 ## Examples included in the Geant4 installation:
 
 ### Basic:
