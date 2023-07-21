@@ -1,4 +1,7 @@
 # Project plan:
+
+[home](README.md)
+
 Started: 5/22/2023
 # Long term goals:
 
