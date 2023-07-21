@@ -1,19 +1,9 @@
-# Links:
+# Home
 
 - [Project plan](project_plan.md)
 - [Geant4 help](Geant4-help.md)
 
 # Overview
-
-# test code
-```python
-variable = 1
-string1 = "hello world"
-
-print(string1)
-
-# what's up
-```
 
 ![3DCRT example](3dcrt.png)
 
