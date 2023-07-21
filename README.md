@@ -2,6 +2,7 @@
 
 - [Project plan](project_plan.md)
 - [Geant4 help](Geant4-help.md)
+- [Other helpful content](content-links.md)
 
 # Overview
 
