@@ -14,12 +14,11 @@ Started: 5/22/2023
 - Create a model of a stationary x-ray LINAC and the radiation activity at different distances, amounts of time, and voltages.
 - Implement a method to convert that activity into exposure
 
-### Phase 1 reality:
-
 ### Phase 2 (10 weeks): 
 - Create a model of a person (for now, just one circular cross-section) with a tumor in the center
 - Modify the linac model to be able to rotate around the person 
 - Record the exposure in each layer of the body
+
 ### Phase 3 (10 weeks):
 - Add attenuation to the model. The beam will lose energy as it passes through layers.
 
@@ -30,7 +29,7 @@ Started: 5/22/2023
 - Repeat everything with proton therapy instead of x-ray therapy
 
 # Plan 2: (7/17)
-This is the plan now that I’m basically finished with Phase 1:
+This is the plan now that I’m basically finished with Phase 1, and I kind of know more of what's going on:
 ### Phase 1: Create 1D model of a radiation treatment (10 weeks)
 - Have the model shoot one beam of the correct energy of photons into one detector
 - Display the amount of dose the detector receives. 
