@@ -195,4 +195,5 @@ Goals: 20 hours
 - 7/18 6:57 pm 1 hr creating first release of photon-dose-sim
 - 7/18 8:06 pm 30 min converting this repo into GitHub pages
 - 7/18 10:19 pm 20 min trying to make an installer for photon-dose-sim. UPDATE: didn't work.
-- 7/19 10:40 pm 10 min reading up on how the x-rays are produced to try and see how much energy they have. 
+- 7/19 10:40 pm 10 min reading up on how the x-rays are produced to try and see how much energy they have.
+- 7/22 10:21 am Trying to make photon dose sim work with command-based scoring
