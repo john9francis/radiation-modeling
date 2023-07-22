@@ -29,6 +29,30 @@ Started: 5/22/2023
 - Implement a method to convert the exposure into effective dose. Record the effective dose in each of the different organs.
 - Repeat everything with proton therapy instead of x-ray therapy
 
+# Plan 2: (7/17)
+This is the plan now that I’m basically finished with Phase 1:
+### Phase 1: Create 1D model of a radiation treatment (10 weeks)
+- Have the model shoot one beam of the correct energy of photons into one detector
+- Display the amount of dose the detector receives. 
+- Extra: create a graph of the location, and the PDD. 
+
+### Phase 2: Start work on a 3DCRT model (10 weeks)
+Basic requirements:
+- Model a realistic body part (pelvis, breast, etc) with multiple detectors
+- Have multiple beams of photons in different locations with the correct energies
+- Display data for how much dose each detector receives (tumor, important organs, etc)
+
+### Phase 3: Make the model better
+Ideas:
+- Allow for user to specify a prescription (e.g. 500 cGy) and have the model automatically stop when the prescription has been hit
+- Have the model shut off a beam when it gives too much to a sensitive organ like the heart
+- Allow to save the settings after a run including the beam locations and how much dose each beam distributes
+- Optimize for speed
+- Have the model do a couple of runs and keep the one that distributes the least dose to the sensitive organs
+- Or have the model shoot test particles all around and start the beam in the locations where the particles do the least damage.
+- Maybe do a run called, “calibration” that decides the best locations for beams, and saves the settings for future runs. 
+
+
 # Records of time spent
 
 - [Time spent on phase 1](timeSpentPhase1.md)
