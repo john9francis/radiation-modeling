@@ -18,6 +18,7 @@ Started: 5/22/2023
 * [Week 7](#week-7-73-79)
 * [Week 8](#week-8-710-716)
 * [Week 9](#week-9-717-722)
+* [Week 10](#week-10-723-729)
 
 # Week 0: 5/17
  - 5/17 8:45 am 8 hours shadowing Dr. Mghari, lead medical physicist at cape fear hospital. Learned about dosimetry and linac machines, as well as many different types of radiotherapy. 
@@ -198,3 +199,11 @@ Goals: 20 hours
 - 7/22 9:00 pm 1.5 hr setting up and Creating Cmakelists file for Geant4-3dcrt
 
 - ==================================================
+
+# Week 10: 7/23-7/29
+
+**Geant4**
+- [ ] Finish phase 1 of Geant4-3DCRT!
+
+**Research**
+- [ ] Figure out what energies the photons should have 
