@@ -204,6 +204,8 @@ Goals: 20 hours
 
 **Geant4**
 - [ ] Finish phase 1 of Geant4-3DCRT!
+- [ ] Get a graph displayed to check accuracy
 
 **Research**
 - [ ] Figure out what energies the photons should have 
+- [ ] Find some PDD graphs 
