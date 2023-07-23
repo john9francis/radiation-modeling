@@ -174,20 +174,18 @@ Goals: 20 hours
 - [ ] ~~Start on FiGA "**Fi**rst **G**eant4 **A**pp to help people with the basics of a Geant4 app.~~ (There's people who want Geant4 help, but I'm not here to help them out, I'm here to do my project.)
 - [ ] Convert Photon Dose Sim into the finished phase 1 of my project
 - [ ] Make photon dose sim code walkthrough
-- [ ] Make a plan for my geant4 project
+- [x] Make a plan for my geant4 project
 
 **Research**
 - [x] Get those books that Diana recommended, look at examples
 - [ ] Find some data to go off of, to make sure my project is accurate
 - [ ] Find out how much energy the x-ray photons have, and how to model that in G4
-- [ ] Learn as much as I can about 3DCRT
+- [x] Learn as much as I can about 3DCRT
 
 **Other**
 - [x] Email Prof. Kelley my progress
 - [x] Organize alllll the notes I've taken
 - [x] POSSIBLY make this repo into a github pages
-
-- ================================================================================
 
 - 7/17 8:47 am 30 min Emailing prof. Kelley my progress
 - 7/17 11:00 am 1.75 hr finding those books diana reccomended, researching 3DCRT, organizing research notes, and starting to come up with my plan for the next few weeks.
@@ -198,3 +196,5 @@ Goals: 20 hours
 - 7/19 10:40 pm 10 min reading up on how the x-rays are produced to try and see how much energy they have.
 - 7/22 10:21 am 30 min Created Geant4-3DCRT repo and finished up project plan 2
 - 7/22 9:00 pm 1.5 hr setting up and Creating Cmakelists file for Geant4-3dcrt
+
+- ==================================================
