@@ -197,4 +197,4 @@ Goals: 20 hours
 - 7/18 10:19 pm 20 min trying to make an installer for photon-dose-sim. UPDATE: didn't work.
 - 7/19 10:40 pm 10 min reading up on how the x-rays are produced to try and see how much energy they have.
 - 7/22 10:21 am 30 min Created Geant4-3DCRT repo and finished up project plan 2
-- 7/22 9:00 pm Deciding on what to do next
+- 7/22 9:00 pm 1.5 hr setting up and Creating Cmakelists file for Geant4-3dcrt
