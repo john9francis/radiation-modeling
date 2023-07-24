@@ -217,3 +217,5 @@ Goals: 20 hours
 - [ ] Write a summary paper of phase 1
 - [ ] Put out photon-dose-sim code walkthrough video
 - [ ] Create a specific plan for phase 2
+
+- 7/24 12:00 pm Cleaning up phase 1
