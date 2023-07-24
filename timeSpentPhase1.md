@@ -210,7 +210,7 @@ Goals: 20 hours
 - [ ] Figure out what energies the photons should have 
 - [ ] Find some PDD graphs
 
-- 7/24 11:00 am 40 min Researching physics lists in Geant4. I think I should end this phase and call it phase 1 (prep) and then start on phase 2 but doing it extremely accurate and good. By the end I want to have something comparable to this: [Geant4 linac model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3863189/) with PDD and field size. That way, I know that I have an accurate beam modelled. Then I can move on to 3DCRT with multiple beams.
+- 7/24 11:00 am 45 min Researching physics lists in Geant4. I think I should end this phase and call it phase 1 (prep) and then start on phase 2 but doing it extremely accurate and good. By the end I want to have something comparable to this: [Geant4 linac model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3863189/) with PDD and field size. That way, I know that I have an accurate beam modelled. Then I can move on to 3DCRT with multiple beams.
 
 **Finishing up Phase 1**
 - [ ] Make an updated project plan
@@ -218,4 +218,4 @@ Goals: 20 hours
 - [ ] Put out photon-dose-sim code walkthrough video
 - [ ] Create a specific plan for phase 2
 
-- 7/24 12:00 pm Cleaning up phase 1
+- 7/24 12:00 pm 1 hr Writing phase 1 summary paper
