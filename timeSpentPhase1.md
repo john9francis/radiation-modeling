@@ -208,4 +208,6 @@ Goals: 20 hours
 
 **Research**
 - [ ] Figure out what energies the photons should have 
-- [ ] Find some PDD graphs 
+- [ ] Find some PDD graphs
+
+- 7/24 11:00 am Continuing work on Geant4-3DCRT
