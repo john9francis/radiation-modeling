@@ -210,4 +210,4 @@ Goals: 20 hours
 - [ ] Figure out what energies the photons should have 
 - [ ] Find some PDD graphs
 
-- 7/24 11:00 am 40 min Researching physics lists in Geant4. I think I should end this phase and call it phase 0 (prep) and then start on phase 1 but doing it extremely accurate and good. By the end I want to have something comparable to this: [Geant4 linac model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3863189/) with PDD and field size. 
+- 7/24 11:00 am 40 min Researching physics lists in Geant4. I think I should end this phase and call it phase 0 (prep) and then start on phase 1 but doing it extremely accurate and good. By the end I want to have something comparable to this: [Geant4 linac model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3863189/) with PDD and field size. That way, I know that I have an accurate beam modelled. Then I can move on to 3DCRT with multiple beams. 
