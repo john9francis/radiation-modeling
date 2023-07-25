@@ -219,4 +219,4 @@ Goals: 20 hours
 - [ ] Create a specific plan for phase 2
 
 - 7/24 12:00 pm 1 hr Writing phase 1 summary paper
-- 7/25 4:40 pm editing photon dose sim pt. 2
+- 7/25 4:40 pm 1 hr editing photon dose sim pt. 2
