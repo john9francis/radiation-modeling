@@ -221,4 +221,4 @@ Goals: 20 hours
 - 7/24 12:00 pm 1 hr Writing phase 1 summary paper
 - 7/25 4:40 pm 1 hr editing photon dose sim pt. 2
 - 7/25 7:00 pm 30 min posting photon dose sim pt. 2 vid
-- 7/26 3:40 pm Solving 3DCRT by hand
+- 7/26 3:40 pm 1 hr Learned about Bremsstralung... Decided to start my Geant4 app at the Bremsstralung because the bremsstralung photons created have a wide range of energies and it will be easier to start with electrons with the same energy than to start at the photons.
