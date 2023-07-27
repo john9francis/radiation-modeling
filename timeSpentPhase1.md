@@ -223,4 +223,5 @@ Goals: 20 hours
 - 7/25 7:00 pm 30 min posting photon dose sim pt. 2 vid
 - 7/26 3:40 pm 1 hr Learned about Bremsstralung... Decided to start my Geant4 app at the Bremsstralung because the bremsstralung photons created have a wide range of energies and it will be easier to start with electrons with the same energy than to start at the photons.
 - 7/26 4:45 pm 15 min learning about pointers in c++ and characteristic x-rays
-- 7/26 9:40 pm 1.5 hr working on G4-Brems. Got as far as creating Geant4 basic ui and starting on detector construction class. 
+- 7/26 9:40 pm 1.5 hr working on G4-Brems. Got as far as creating Geant4 basic ui and starting on detector construction class.
+- 7/26 10:10 pm 2.5 hrs Creating G4-Hello-World to help me be faster starting Geant4 apps in the future. 
