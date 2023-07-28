@@ -226,4 +226,4 @@ Goals: 20 hours
 - 7/26 9:40 pm 1.5 hr working on G4-Brems. Got as far as creating Geant4 basic ui and starting on detector construction class.
 - 7/26 10:10 pm 2.5 hrs Creating G4-Hello-World to help me be faster starting Geant4 apps in the future.
 - 7/27 4:35 pm 1 hr Researching MU calculations
-- 7/27 6:45 pm 3 hrs Learning more about pointers.
+- 7/27 6:45 pm 3 hrs Learning more about pointers. TODO NEXT: Dissect a Geant4 example and see why pointers were neccesary
