@@ -98,3 +98,4 @@ Ideas:
 # Records of time spent
 
 - [Time spent on phase 1](timeSpentPhase1.md)
+- [Time spent on phase 2](timeSpentPhase2.md)
