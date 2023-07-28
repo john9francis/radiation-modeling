@@ -228,3 +228,8 @@ Goals: 20 hours
 - 7/27 4:35 pm 1 hr Researching MU calculations
 - 7/27 6:45 pm 3 hrs Learning more about pointers. TODO NEXT: Dissect a Geant4 example and see why pointers were neccesary
 - 7/27 9:45 pm 2.5 HRS compiling more Geant4 examples, and creating the Geant4_Hello_World video and editing it. 
+
+
+# next week:
+- [ ] work on G4 brems!
+- [ ] put out a pointers tutorial feat. geant4!
