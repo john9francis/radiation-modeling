@@ -227,3 +227,4 @@ Goals: 20 hours
 - 7/26 10:10 pm 2.5 hrs Creating G4-Hello-World to help me be faster starting Geant4 apps in the future.
 - 7/27 4:35 pm 1 hr Researching MU calculations
 - 7/27 6:45 pm 3 hrs Learning more about pointers. TODO NEXT: Dissect a Geant4 example and see why pointers were neccesary
+- 7/27 9:45 pm compiling more Geant4 examples 
