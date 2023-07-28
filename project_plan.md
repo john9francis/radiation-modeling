@@ -39,6 +39,7 @@ Finished:
 - Repeat everything with proton therapy instead of x-ray therapy
 
 # Summary of phase 1 upon finishing:
+[Phase 1 summary](phase_1_completion_summary.md)
 
 # Project Plan 2
 (planned 7/17)
