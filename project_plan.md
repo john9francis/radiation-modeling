@@ -79,7 +79,7 @@ Ideas:
 - Phase 2: Creating 1d-crt (10 weeks)
 - Phase 3: Creating 3d-crt (10 weeks)
 
-**Phase 2 in more detail:**
+## Phase 2 in more detail:
 3 weeks developing G4 Brems
 - G4 Brems is a Geant4 Bremsstrahlung simulation.
 - The purpose of this is to accurately model how a linac machine works
