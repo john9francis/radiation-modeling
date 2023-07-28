@@ -3,13 +3,22 @@
 [home](README.md)
 
 Started: 5/22/2023
-# Long term goals:
+Finished:
+
+# Contents
+- [Long term goals](#long-term-goals)
+- [Project plan 1](#project-plan-1)
+- [Summary of phase 1 upon finishing](#summary-of-phase-1-upon-finishing)
+- [Records of time spent](#records-of-time-spent)
+
+# Long term goals
 
 - 400 total hours
 - 30 weeks
 - 12.5 hours a week
 
-# Project plan 1: (6/22)
+# Project plan 1
+(planned 6/22)
 ### Phase 1 plan (10 weeks):
 - Create a model of a stationary x-ray LINAC and the radiation activity at different distances, amounts of time, and voltages.
 - Implement a method to convert that activity into exposure
@@ -28,9 +37,13 @@ Started: 5/22/2023
 - Implement a method to convert the exposure into effective dose. Record the effective dose in each of the different organs.
 - Repeat everything with proton therapy instead of x-ray therapy
 
+# Summary of phase 1 upon finishing:
 
-# Project Plan 2: 7/17
+# Project Plan 2
+(planned 7/17)
+
 This is the plan now that I’m basically finished with Phase 1:
+
 ## Phase 2: Create 1D model of a radiation treatment (6 weeks)
 - Have the model shoot one beam of the correct energy of photons into one detector
 - Display the amount of dose the detector receives. 
