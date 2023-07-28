@@ -10,6 +10,8 @@ Finished:
 - [Long term goals](#long-term-goals)
 - [Project plan 1](#project-plan-1)
 - [Summary of phase 1 upon finishing](#summary-of-phase-1-upon-finishing)
+- [Project plan 2](#project-plan-2)
+- [Project plan 3 (CURRENT PLAN)](#project-plan-3)
 - [Records of time spent](#records-of-time-spent)
 
 # Long term goals
@@ -69,6 +71,27 @@ Ideas:
 - Maybe do a run called, “calibration” that decides the best locations for beams, and saves the settings for future runs.
 - Allow for the model to work on multiple body parts
 - Maybe the user provides a certain file containing the information about the body part and the tumor, and then the program constructs it into a 3D model.  
+
+# Project Plan 3
+7/28
+
+- Phase 1: preparation and learning Geant4 (10 weeks)
+- Phase 2: Creating 1d-crt (10 weeks)
+- Phase 3: Creating 3d-crt (10 weeks)
+
+# Phase 2 in more detail: 
+3 weeks developing G4 Brems
+- G4 Brems is a Geant4 Bremsstrahlung simulation.
+- The purpose of this is to accurately model how a linac machine works
+- We will shoot a 1 mm wide beam of electrons into a tungsten target and utilize bremsstrahlung physics to create an accurate photon beam.
+- This will accurately produce data on energy distribution of photons, and might be used in the final g43dcrt project.
+2 weeks researching
+
+3 weeks developing 1D-CRT
+- 1D-CRT is a version of 3D-CRT but with one beam instead of multiple
+- The purpose is to accurately model the effect of one beam on a patient
+- We will either use G4 Brems for our beam, or just use the energy distribution found in G4 Brems
+2 weeks finishing up everything
 
 
 
