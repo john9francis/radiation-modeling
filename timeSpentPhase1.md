@@ -230,7 +230,7 @@ Goals: 20 hours
 - 7/27 9:45 pm 2.5 HRS compiling more Geant4 examples, and creating the Geant4_Hello_World video and editing it. 
 - 7/28 1:08 pm 45 min chipping away at G4-Brems. created primary generator action and detector construction classes.
 - 7/28 3:18 pm 1.75 hrs chipping away at G4-Brems and solving bremsstralung by hand
-- 7/29 3:12 pm trying to understand each step of the linac
+- 7/29 3:12 pm 30 min trying to understand each step of the linac
 
 # next week:
 - [ ] work on G4 brems!
