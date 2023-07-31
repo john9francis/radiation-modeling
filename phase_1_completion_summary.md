@@ -1,6 +1,8 @@
 # Phase 1 Summary
 Author: John Francis, written 7/24/2023
 
+[home](README.md)
+
 Phase one of my project consisted of learning about radiation therapy and learning how to use my simulation tools. I achieved a considerable amount of progress during these ten weeks, and now I have a solid foundation to start creating models. I also produced several helpful videos, infographics, and presentations to help learn the concepts that my project explores. 
 LINAC machines
 I started my project learning all about linear accelerators, or LINACs, which are machines that distribute the radiation to the patient. I learned that most LINACs use x-ray photon beams to deliver the radiation. There are other particles used in radiation therapy; protons, electrons, etc., but I decided that for my project I would focus on the most commonly used particle, photons. 
