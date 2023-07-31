@@ -25,3 +25,4 @@ started: 7/30/2023
 - ================================================
 
 - 7/31 7:15 am 45 min making plan and studying about the photon energy distribution
+- 7/31 2:05 pm researching photon energy distribution
