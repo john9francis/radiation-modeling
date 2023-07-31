@@ -198,8 +198,6 @@ Goals: 20 hours
 - 7/22 10:21 am 30 min Created Geant4-3DCRT repo and finished up project plan 2
 - 7/22 9:00 pm 1.5 hr setting up and Creating Cmakelists file for Geant4-3dcrt
 
-- ==================================================
-
 # Week 10: 7/23-7/29
 
 **Geant4**
@@ -235,3 +233,5 @@ Goals: 20 hours
 # next week:
 - [ ] work on G4 brems!
 - [ ] put out a pointers tutorial feat. geant4!
+
+- ==============================================================
