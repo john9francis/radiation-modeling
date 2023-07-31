@@ -48,19 +48,19 @@ Finished:
 
 This is the plan now that I’m basically finished with Phase 1:
 
-## Phase 2: Create 1D model of a radiation treatment (6 weeks)
+### Phase 2: Create 1D model of a radiation treatment (6 weeks)
 - Have the model shoot one beam of the correct energy of photons into one detector
 - Display the amount of dose the detector receives. 
 - Create a graph of the dose profile, and the PDD. 
 - Extra: flattening filter in the beam!
 
-## Phase 3: Start work on a 3DCRT model (6 weeks)
+### Phase 3: Start work on a 3DCRT model (6 weeks)
 Basic requirements:
 - Model a realistic body part (pelvis, breast, etc) with multiple detectors
 - Have multiple beams of photons in different locations with the correct energies
 - Display data for how much dose each detector receives (tumor, important organs, etc)
 
-# Phase 4: Make the model better (10 weeks)
+### Phase 4: Make the model better (10 weeks)
 Ideas:
 - Allow for user to specify a prescription (e.g. 500 cGy) and have the model automatically stop when the prescription has been hit
 - Have the model shut off a beam when it gives too much to a sensitive organ like the heart
@@ -79,7 +79,7 @@ Ideas:
 - Phase 2: Creating 1d-crt (10 weeks)
 - Phase 3: Creating 3d-crt (10 weeks)
 
-## Phase 2 in more detail:
+### Phase 2 in more detail:
 3 weeks developing G4 Brems
 - G4 Brems is a Geant4 Bremsstrahlung simulation.
 - The purpose of this is to accurately model how a linac machine works
