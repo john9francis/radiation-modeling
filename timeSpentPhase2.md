@@ -19,8 +19,8 @@ started: 7/30/2023
 - [ ] Finish the pointers tutorial
 
 **Research**
-- [ ] Find out the photon energy distribution of linac beams
-- [ ] Decide which project to pursue moving forward. 
+- [x] Find out the photon energy distribution of linac beams (Got some photos and data saved)
+- [x] Decide which project to pursue moving forward. (Going to develop G4Brems and compare it to the data I found)
 
 - ================================================
 
