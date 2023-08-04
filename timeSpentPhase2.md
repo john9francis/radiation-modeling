@@ -30,3 +30,4 @@ started: 7/30/2023
 - 8/3 10:15 am 1.5 hrs going to look over the Geant4 documentation for brems. UPDATE: I successfully implemented my G4-Brems physics list. It is a basic EM list but including Bremsstrahlung using the G4eBremsstrahlung Geant4 class. Fingers crossed that it works!
 - 8/3 5:41 pm 30 min working on pointers
 - 8/4 1:00 pm 1 hr Let's try and figure out primarygenerator action with G4-Brems. UPDATE: I create the primarygeneratoraction class, but I need to figure out how to impliment it.
+- 8/4 5:45 pm work on pointers
