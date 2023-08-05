@@ -32,3 +32,4 @@ started: 7/30/2023
 - 8/4 1:00 pm 1 hr Let's try and figure out primarygenerator action with G4-Brems. UPDATE: I create the primarygeneratoraction class, but I need to figure out how to impliment it.
 - 8/4 5:45 pm 45 min working on pointers
 - 8/4 7:10 pm 1.5 Finishing up pointers essay
+- 8/4 9:00 pm Testing for pointers and filming video
