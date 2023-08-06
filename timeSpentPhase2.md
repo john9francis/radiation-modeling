@@ -22,8 +22,6 @@ started: 7/30/2023
 - [x] Find out the photon energy distribution of linac beams (Got some photos and data saved)
 - [x] Decide which project to pursue moving forward. (Going to develop G4Brems and compare it to the data I found)
 
-- ================================================
-
 - 7/31 7:15 am 45 min making plan and studying about the photon energy distribution
 - 7/31 2:05 pm 1 hr researching photon energy distribution
 - 8/3 8:03 am 2 hrs tryin to find relative photon energies. UPDATE: I found some graphs to go off of, but I would still like to create my own data using G4-Brems. I created a target volume in G4-Brems, and tried to figure out how to do Bremsstrahlung in Geant4. I was looking over example "GammaTherapy," which uses Brems.., but I couldn't really make sense of it. It will be a good resource though. I am going to try and do what the Geant4 documentation suggests and do brems. in macro commands.
@@ -33,3 +31,6 @@ started: 7/30/2023
 - 8/4 5:45 pm 45 min working on pointers
 - 8/4 7:10 pm 1.5 Finishing up pointers essay
 - 8/4 9:00 pm 30 min Testing for pointers and filming video
+
+
+- ========================================
