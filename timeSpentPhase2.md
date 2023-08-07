@@ -38,4 +38,11 @@ started: 7/30/2023
 
 # Week 12 8/7-8/13
 
+**C++**
+- [ ] Put out 2 "pointers" videos 
+
+**Geant4**
+- [ ] Get G4Brems working
+- [ ] Display some graphs and data from the brems.
+
 - 8/7 7:20 making a weekly plan and working on pointers 
