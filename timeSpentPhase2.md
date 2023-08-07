@@ -17,7 +17,7 @@ started: 7/30/2023
 # Week 11 7/31-8/6
 
 **Geant4**
-- [ ] Finish the pointers tutorial
+- [x] Finish the pointers tutorial (I finished the beginners tutorial but there's a lot more to learn)
 
 **Research**
 - [x] Find out the photon energy distribution of linac beams (Got some photos and data saved)
@@ -46,4 +46,5 @@ started: 7/30/2023
 - [ ] Get G4Brems working
 - [ ] Display some graphs and data from the brems.
 
-- 8/7 7:45 (9:00 15 MIN BREAK) making a weekly plan and working on pointers 
+- 8/7 7:45 2 hrs making a weekly plan and working on pointers
+- 8/7 10:00 am switching gears and working on implimenting primary generator action in G4-Brems.
