@@ -42,9 +42,9 @@ started: 7/30/2023
 - [ ] Put out 2 "pointers" videos 
 
 **Geant4**
-- [ ] Finish implementing primary generator action
+- [x] Finish implementing primary generator action
 - [ ] Get G4Brems working
 - [ ] Display some graphs and data from the brems.
 
 - 8/7 7:45 2 hrs making a weekly plan and working on pointers
-- 8/7 10:00 am switching gears and working on implimenting primary generator action in G4-Brems.
+- 8/7 10:00 am switching gears and working on implimenting primary generator action in G4-Brems. UPDATE: 10:45 I think I have successfully implemented the primary generator action. Now I just need to get the thing working. I'm gonna try and just make the particles visible using mac files, but I suspect I'm gonna need to implement the event class somehow. 
