@@ -48,4 +48,4 @@ started: 7/30/2023
 
 - 8/7 7:45 am 2 hrs making a weekly plan and working on pointers
 - 8/7 10:00 am 1 hr switching gears and working on implimenting primary generator action in G4-Brems. UPDATE: 10:45 I think I have successfully implemented the primary generator action. Now I just need to get the thing working. I'm gonna try and just make the particles visible using mac files, but I suspect I'm gonna need to implement the event class somehow. UPDATE 2: 11:00 It's working! one thing I noticed is that the more the MeV, the more beams end up on the other side of the target. I want to add some macro commands to adjust the MeV possibly, so the user can do it from the GUI. This may not be the most important priority right now... I'm going to think for a little while and see what the next steps are.
-- 8/7 2:48 pm Going to make the electron beam 1 mm in diameter and set up a collimator and a detector.
+- 8/7 2:48 pm 1 hr set up a collimator and a detector, and tried to set up scoreing but it's not working yet. 
