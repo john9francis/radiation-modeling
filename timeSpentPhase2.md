@@ -46,4 +46,4 @@ started: 7/30/2023
 - [ ] Get G4Brems working
 - [ ] Display some graphs and data from the brems.
 
-- 8/7 7:45 making a weekly plan and working on pointers 
+- 8/7 7:45 (9:00 15 MIN BREAK) making a weekly plan and working on pointers 
