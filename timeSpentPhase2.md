@@ -34,3 +34,7 @@ started: 7/30/2023
 
 
 - ========================================
+
+# Week 12 8/7-8/13
+
+- 8/7 7:20 making a weekly plan and working on pointers 
