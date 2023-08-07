@@ -11,7 +11,7 @@ started: 7/30/2023
 
 # Contents
 - [Week 11](#week-11-731-86)
-- [Week 12](#week-12-87-814)
+- [Week 12](#week-12-87-813)
 
 
 # Week 11 7/31-8/6
