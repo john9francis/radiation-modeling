@@ -42,6 +42,7 @@ started: 7/30/2023
 - [ ] Put out 2 "pointers" videos 
 
 **Geant4**
+- [ ] Finish implementing primary generator action
 - [ ] Get G4Brems working
 - [ ] Display some graphs and data from the brems.
 
