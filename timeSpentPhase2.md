@@ -53,3 +53,4 @@ started: 7/30/2023
 - 8/8 11:15 am 1.25 hr continuing learning about hits in Geant4
 - 8/8 2:20 pm 1 hr working on pointers
 - 8/8 6:00 pm 30 min learning more about references and testing out some Geant4 examples with no luck.
+- 8/9 9:00 am Going to try and initialize all the classes in action initialization, and see what happens when I don't register bremsstrahlung as a physics process. 
