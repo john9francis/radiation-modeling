@@ -51,4 +51,5 @@ started: 7/30/2023
 - 8/7 2:48 pm 1 hr set up a collimator and a detector, and tried to set up scoreing but it's not working yet.
 - 8/8 8:25 am 1 hr trying to get scoring to work on G4Brems. UPDATE: I'm trying out the G4VHit class. Also I did some progress on pointers, specifically learning about references.
 - 8/8 11:15 am 1.25 hr continuing learning about hits in Geant4
-- 8/8 2:20 pm 1 hr working on pointers 
+- 8/8 2:20 pm 1 hr working on pointers
+- 8/8 6:00 pm 30 min learning more about references and testing out some Geant4 examples with no luck.
