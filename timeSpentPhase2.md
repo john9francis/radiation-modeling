@@ -57,3 +57,4 @@ started: 7/30/2023
 - 8/9 11:00 am 15 mins learning about multithreading
 - 8/9 4:50 pm 45 min researching pointers
 - 8/9 5:55 pm 1 hr trying to create my first release of G4-Brems... next steps: test stuff in another user to see what binaries will work on another machine.
+- 8/9 7:10 pm creating the first release of G4-Brems
