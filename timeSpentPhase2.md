@@ -56,4 +56,4 @@ started: 7/30/2023
 - 8/9 9:00 am 1 hr Going to try and initialize all the classes in action initialization, and see what happens when I don't register bremsstrahlung as a physics process. UPDATE: I didn't need to add in bremsstrahlung specifically, because the basic em physics list already had it. (makes sense, it's a pretty basic process) Now I'm in the thick of implementing a sensitivedetector in G4_BREMS.
 - 8/9 11:00 am 15 mins learning about multithreading
 - 8/9 4:50 pm 45 min researching pointers
-- 8/9 5:55 pm studying pointers in Geant4
+- 8/9 5:55 pm trying to create my first release of G4-Brems... next steps: test stuff in another user to see what binaries will work on another machine.
