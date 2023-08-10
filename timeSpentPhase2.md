@@ -58,5 +58,5 @@ started: 7/30/2023
 - 8/9 4:50 pm 45 min researching pointers
 - 8/9 5:55 pm 1 hr trying to create my first release of G4-Brems... next steps: test stuff in another user to see what binaries will work on another machine.
 - 8/9 7:10 pm 45 creating the first release of G4-Brems UPDATE: I could not figure it out... it's super hard to run a Geant4 app on a different computer.
-- 8/9 8:00 pm working on compiling Geant4 on other user UPDATE: it didn't work. Geant4 is SO FINIKY!!!
+- 8/9 8:00 pm  min working on compiling Geant4 on other user UPDATE: it didn't work. Geant4 is SO FINIKY!!! NEXT STEPS: I am considering using [physino's](physino.xyz/gears) batch file to download all the geant4 datasets and set them as environment variables. This makes me nervous, but I guess I can also manually set them all...... Or I can manually set the ones that the app wants. I think I'll do that. And let's cross our fingers that this works!
 
