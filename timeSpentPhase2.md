@@ -62,4 +62,4 @@ started: 7/30/2023
 - 8/9 10:45 pm 1 hr 20 min working on pointers and references.
 - 8/10 TODO: put out the pointers and references tutorials!
 - 8/10 9:09 am 35 min making pointers and references videos
-- 8/10 10:13 am Let's try and figure out how to register hits in G4-Brems.
+- 8/10 10:13 am 1.25 hr Let's try and figure out how to register hits in G4-Brems.
