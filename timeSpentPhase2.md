@@ -61,4 +61,4 @@ started: 7/30/2023
 - 8/9 8:00 pm 1 hr working on compiling Geant4 on other user UPDATE: it didn't work. Geant4 is SO FINIKY!!! NEXT STEPS: I am considering using [physino's](https://physino.xyz/gears) batch file to download all the geant4 datasets and set them as environment variables. This makes me nervous, but I guess I can also manually set them all...... Or I can manually set the ones that the app wants. I think I'll do that. And let's cross our fingers that this works! UPDATE: it didn't work. Upon running as an administrator, I could run the example because I have the datasets in my admin environment variables... However it ran without Qt which was interesting. It still (sort of ) worked too. I wish there was a way I could have an .exe file with ZERO dependencies.
 - 8/9 10:45 pm 1 hr 20 min working on pointers and references.
 - 8/10 TODO: put out the pointers and references tutorials!
-- 8/10 9:09 am making pointers and references videos
+- 8/10 9:09 am 35 min making pointers and references videos
