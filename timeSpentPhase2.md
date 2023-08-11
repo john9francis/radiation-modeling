@@ -65,3 +65,4 @@ started: 7/30/2023
 - 8/10 10:13 am 1.25 hr Let's try and figure out how to register hits in G4-Brems.
 - 8/10 3:30 pm 1 hr recording pointers video.
 - 8/10 5:55 pm 1.25 hr editing pointers video
+- 8/11 12:27 pm Working on implementing hits in G4-Brems
