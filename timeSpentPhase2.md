@@ -66,5 +66,5 @@ started: 7/30/2023
 - 8/10 3:30 pm 1 hr recording pointers video.
 - 8/10 5:55 pm 1.25 hr editing pointers video
 - 8/11 12:27 pm 1.25 hr working on project plan and implementing stepping action (slow and steady)...
-- 8/11 3:30 pm Working on references tutorial
+- 8/11 3:30 pm 35 min Working on references tutorial
   
