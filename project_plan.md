@@ -91,6 +91,7 @@ Ideas:
 - 1D-CRT is a version of 3D-CRT but with one beam instead of multiple
 - The purpose is to accurately model the effect of one beam on a patient
 - We will either use G4 Brems for our beam, or just use the energy distribution found in G4 Brems
+
 2 weeks finishing up everything
 
 
