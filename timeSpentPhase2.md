@@ -68,3 +68,4 @@ started: 7/30/2023
 - 8/11 12:27 pm 1.25 hr working on project plan and implementing stepping action (slow and steady)...
 - 8/11 3:30 pm 35 min Working on references tutorial
 - 8/11 4:27 pm 1 hr Working on stepping action, and created HitsCollection class.
+- 8/11 6:44 pm Let's get some hits printing!!!
