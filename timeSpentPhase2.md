@@ -12,6 +12,7 @@ started: 7/30/2023
 # Contents
 - [Week 11](#week-11-731-86)
 - [Week 12](#week-12-87-813)
+- [Week 13](#week-13-814-820)
 
 
 # Week 11 7/31-8/6
@@ -39,12 +40,14 @@ started: 7/30/2023
 # Week 12 8/7-8/13
 
 **C++**
-- [ ] Put out 2 "pointers" videos 
+- [ ] Put out 2 "pointers" videos
+- [x] I ended up putting out 1 video :)
 
 **Geant4**
 - [x] Finish implementing primary generator action
 - [x] Get G4Brems working
 - [ ] Display some graphs and data from the brems.
+- [x] I ended up displaying the hits on the console!
 
 - 8/7 7:45 am 2 hrs making a weekly plan and working on pointers
 - 8/7 10:00 am 1 hr switching gears and working on implimenting primary generator action in G4-Brems. UPDATE: 10:45 I think I have successfully implemented the primary generator action. Now I just need to get the thing working. I'm gonna try and just make the particles visible using mac files, but I suspect I'm gonna need to implement the event class somehow. UPDATE 2: 11:00 It's working! one thing I noticed is that the more the MeV, the more beams end up on the other side of the target. I want to add some macro commands to adjust the MeV possibly, so the user can do it from the GUI. This may not be the most important priority right now... I'm going to think for a little while and see what the next steps are.
@@ -69,3 +72,20 @@ started: 7/30/2023
 - 8/11 3:30 pm 35 min Working on references tutorial
 - 8/11 4:27 pm 1 hr Working on stepping action, and created HitsCollection class.
 - 8/11 6:44 pm 30 min Let's get some hits printing!!! UPDATE: it's still not quite printing, I think I need to look into the PrintAll() function from HitsCollection.
+- 8/11 9:50 pm 1 hr Finally got hits printing out to the console!!! this is great news. There are many kinks to be worked out but it's something for sure! It prints the energy and position. Super great stuff.
+
+# Week 13 8/14-8/20
+
+**G4 Brems**
+- [ ] Get accurate hits displaying in console
+- [ ] Possibly get some graphs started for the hits
+
+**C++**
+- [ ] Put out a references C++ vid
+- [ ] Put out a constructors and destructors vid
+
+**G4 Brems v1.0.0**
+- [ ] Make a docker for G4Brems v1.0.0
+- [ ] Put out a G4Brems v1.0.0 vid
+
+
