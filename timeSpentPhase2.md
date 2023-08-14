@@ -90,4 +90,4 @@ started: 7/30/2023
 
 - 8/14 9:45 am 35 min Working on making a docker for G4Brems v1.0.0 UPDATE: 10:18 am got the branch release-v1.0.0 all ready, now I'm going to look at docker.
 - 8/14 11:18 am 1.25 hrs Looking into getting started with docker. It's gonna be complex to get a geant4 app into docker... Maybe I try with a simpler app first, and then go into Geant4. My plan moving forward is to play around with ubuntu and figure out how to download Geant4 using it. Then, I will be able to create a dockerfile with the same commands.
-- 8/14 1:27 pm Let's keep working on G4-Brems and see what is going on with the Hit.print() function. 
+- 8/14 1:27 pm 2 hrs Let's keep working on G4-Brems and see what is going on with the Hit.print() function. 
