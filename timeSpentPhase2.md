@@ -88,5 +88,5 @@ started: 7/30/2023
 - [ ] Make a docker for G4Brems v1.0.0
 - [ ] Put out a G4Brems v1.0.0 vid
 
-- 8/14 9:45 am Working on making a docker for G4Brems v1.0.0
+- 8/14 9:45 am Working on making a docker for G4Brems v1.0.0 UPDATE: 10:18 am got the branch release-v1.0.0 all ready, now I'm going to look at docker.
 
