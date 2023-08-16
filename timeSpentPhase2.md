@@ -92,4 +92,5 @@ started: 7/30/2023
 - 8/14 11:18 am 1.25 hrs Looking into getting started with docker. It's gonna be complex to get a geant4 app into docker... Maybe I try with a simpler app first, and then go into Geant4. My plan moving forward is to play around with ubuntu and figure out how to download Geant4 using it. Then, I will be able to create a dockerfile with the same commands. **PS. we can use the vscode WSL extension to help us out with this!**
 - 8/14 1:27 pm 2 hrs Let's keep working on G4-Brems and see what is going on with the Hit.print() function. 
 - 8/14 5:05 pm 35 min Implimenting eventaction class so we can keep track of how much energy deposited in each step 5:20 switching gears and learning about docker with openGL.
-- 8/15 10:08 1.25 hr Let's do a simple docker project.
+- 8/15 10:08 1.25 hr Let's do a simple docker project. UPDATE: spent the time messing with WSL to see if I could get Geant4 downloaded, succeeded in downloading conda and that's it. I still need to add it to path before using it. 
+- 8/15 7:35 pm working on G4-Brems getting those hits registered. 
