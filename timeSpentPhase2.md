@@ -95,3 +95,4 @@ started: 7/30/2023
 - 8/15 10:08 1.25 hr Let's do a simple docker project. UPDATE: spent the time messing with WSL to see if I could get Geant4 downloaded, succeeded in downloading conda and that's it. I still need to add it to path before using it. 
 - 8/15 8:00 pm 1 hr working on G4-Brems getting those hits registered. Update: I went with a different method, using event action instead! it seems to work great!
 - 8/15 9:50 pm 35 min Let's work on the releases of G4-Brems. I gotta write some notes on Release 1.0.0 and come up with release 1.1.0 as well. UPDATE: I had semantic versioning all wrong lol but I did create release notes for the first release of Geant4, release 0.1.0-alpha1
+- 8/16 9:50 am Working on G4-Brems release 1 video
