@@ -94,3 +94,4 @@ started: 7/30/2023
 - 8/14 5:05 pm 35 min Implimenting eventaction class so we can keep track of how much energy deposited in each step 5:20 switching gears and learning about docker with openGL.
 - 8/15 10:08 1.25 hr Let's do a simple docker project. UPDATE: spent the time messing with WSL to see if I could get Geant4 downloaded, succeeded in downloading conda and that's it. I still need to add it to path before using it. 
 - 8/15 8:00 pm 1 hr working on G4-Brems getting those hits registered. Update: I went with a different method, using event action instead! it seems to work great!
+- 8/15 9:08 pm Let's work on the releases of G4-Brems. I gotta write some notes on Release 1.0.0 and come up with release 1.1.0 as well. 
