@@ -27,6 +27,7 @@ This project will be developed primarily in [Geant4](https://geant4.web.cern.ch/
 
 - [Simple explanation of LINAC machines](https://www.radiologyinfo.org/en/info/linac)
 - [Types of LINACs used for radiation oncology](https://www.oncologysystems.com/resources/linear-accelerator-guides)
+- [How a radiation treatment works](https://www.youtube.com/watch?v=_moypMx05Fw&t=15s)
 
 # Future Work
 
