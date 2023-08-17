@@ -98,3 +98,4 @@ started: 7/30/2023
 - 8/16 9:50 am 1 hr Working on G4-Brems release v0.1.0-alpha1 recording
 - 8/16 11:11 am 1 hr editing video
 - 8/16 12:30 pm 3 hrs finished video editing and learning more about radiotherapy
+- 8/17 8:00 am working on installing Geant4 in wsl and docker.
