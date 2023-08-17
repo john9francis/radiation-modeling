@@ -77,7 +77,7 @@ started: 7/30/2023
 # Week 13 8/14-8/20
 
 **G4 Brems**
-- [ ] Get accurate hits displaying in console
+- [x] Get accurate hits displaying in console
 - [ ] Possibly get some graphs started for the hits
 
 **C++**
@@ -86,7 +86,7 @@ started: 7/30/2023
 
 **G4 Brems v1.0.0**
 - [ ] Make a docker for G4Brems v1.0.0
-- [ ] Put out a G4Brems v1.0.0 vid
+- [x] Put out a G4Brems v1.0.0 vid
 
 - 8/14 9:45 am 35 min Working on making a docker for G4Brems v1.0.0 UPDATE: 10:18 am got the branch release-v1.0.0 all ready, now I'm going to look at docker.
 - 8/14 11:18 am 1.25 hrs Looking into getting started with docker. It's gonna be complex to get a geant4 app into docker... Maybe I try with a simpler app first, and then go into Geant4. My plan moving forward is to play around with ubuntu and figure out how to download Geant4 using it. Then, I will be able to create a dockerfile with the same commands. **PS. we can use the vscode WSL extension to help us out with this!**
@@ -99,4 +99,4 @@ started: 7/30/2023
 - 8/16 11:11 am 1 hr editing video
 - 8/16 12:30 pm 3 hrs finished video editing and learning more about radiotherapy
 - 8/17 8:00 am 2 hrs working on installing Geant4 in wsl and docker. UPDATE: I got all the prereqs installed in WSL, so now I just have to run a Geant4 project.
-- 8/17 11:15 am Continuing to figure out how to run a Geant4 project
+- 8/17 11:15 am 45 min Continuing to figure out how to run a Geant4 project
