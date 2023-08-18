@@ -35,8 +35,6 @@ started: 7/30/2023
 - 8/4 9:00 pm 30 min Testing for pointers and filming video
 
 
-- ========================================
-
 # Week 12 8/7-8/13
 
 **C++**
@@ -88,6 +86,8 @@ started: 7/30/2023
 - [ ] Make a docker for G4Brems v1.0.0
 - [x] Put out a G4Brems v1.0.0 vid
 
+- ====================================================================
+
 - 8/14 9:45 am 35 min Working on making a docker for G4Brems v1.0.0 UPDATE: 10:18 am got the branch release-v1.0.0 all ready, now I'm going to look at docker.
 - 8/14 11:18 am 1.25 hrs Looking into getting started with docker. It's gonna be complex to get a geant4 app into docker... Maybe I try with a simpler app first, and then go into Geant4. My plan moving forward is to play around with ubuntu and figure out how to download Geant4 using it. Then, I will be able to create a dockerfile with the same commands. **PS. we can use the vscode WSL extension to help us out with this!**
 - 8/14 1:27 pm 2 hrs Let's keep working on G4-Brems and see what is going on with the Hit.print() function. 
@@ -101,3 +101,4 @@ started: 7/30/2023
 - 8/17 8:00 am 2 hrs working on installing Geant4 in wsl and docker. UPDATE: I got all the prereqs installed in WSL, so now I just have to run a Geant4 project.
 - 8/17 11:15 am 45 min Continuing to figure out how to run a Geant4 project
 - 8/18 9:20 am 1 hr Cleaning up G4-Brems code UPDATE: 20 minutes in we got all the unnecessary classes deleted, and now we're working on getting units on that energy. UPDATE: 40 mins in we created a new branch for release v0.2.0-alpha1 where the energy is displaying on the console with units. Now I'm going to try and find the correct dimensions of the tungsten target, collimator, etc. FINAL UPDATE: I am getting some good info on the dimensions of all the little parts, the target, collimator, etc. But I need more. If I want this to be super accurate, I need some concrete data.
+- 8/18 12:55 Looking more into measurements
