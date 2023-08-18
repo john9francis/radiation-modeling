@@ -100,3 +100,4 @@ started: 7/30/2023
 - 8/16 12:30 pm 3 hrs finished video editing and learning more about radiotherapy
 - 8/17 8:00 am 2 hrs working on installing Geant4 in wsl and docker. UPDATE: I got all the prereqs installed in WSL, so now I just have to run a Geant4 project.
 - 8/17 11:15 am 45 min Continuing to figure out how to run a Geant4 project
+- 8/18 9:20 am Cleaning up G4-Brems code
