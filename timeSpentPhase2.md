@@ -101,4 +101,4 @@ started: 7/30/2023
 - 8/17 8:00 am 2 hrs working on installing Geant4 in wsl and docker. UPDATE: I got all the prereqs installed in WSL, so now I just have to run a Geant4 project.
 - 8/17 11:15 am 45 min Continuing to figure out how to run a Geant4 project
 - 8/18 9:20 am 1 hr Cleaning up G4-Brems code UPDATE: 20 minutes in we got all the unnecessary classes deleted, and now we're working on getting units on that energy. UPDATE: 40 mins in we created a new branch for release v0.2.0-alpha1 where the energy is displaying on the console with units. Now I'm going to try and find the correct dimensions of the tungsten target, collimator, etc. FINAL UPDATE: I am getting some good info on the dimensions of all the little parts, the target, collimator, etc. But I need more. If I want this to be super accurate, I need some concrete data.
-- 8/18 12:55 Looking more into measurements
+- 8/18 12:55 1.5 hrs Looking more into measurements, and cleaning up more G4-Brems. Now we can display the energy and the position, but it's still weird with multithreading... We need a way to keep one specific particle with all of it's OWN attributes.
