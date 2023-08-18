@@ -100,4 +100,4 @@ started: 7/30/2023
 - 8/16 12:30 pm 3 hrs finished video editing and learning more about radiotherapy
 - 8/17 8:00 am 2 hrs working on installing Geant4 in wsl and docker. UPDATE: I got all the prereqs installed in WSL, so now I just have to run a Geant4 project.
 - 8/17 11:15 am 45 min Continuing to figure out how to run a Geant4 project
-- 8/18 9:20 am Cleaning up G4-Brems code UPDATE: 20 minutes in we got all the unnecessary classes deleted, and now we're working on getting units on that energy
+- 8/18 9:20 am Cleaning up G4-Brems code UPDATE: 20 minutes in we got all the unnecessary classes deleted, and now we're working on getting units on that energy. UPDATE: 40 mins in we created a new branch for release v0.2.0-alpha1 where the energy is displaying on the console with units. Now I'm going to try and find the correct dimensions of the tungsten target, collimator, etc. 
