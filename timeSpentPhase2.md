@@ -106,3 +106,4 @@ started: 7/30/2023
 - 8/18 5:53 pm 25 min Let's try and run that Geant4 app in Linux now. UPDATE: Still workin' on it
 - 8/18 6:55 pm still trying to build Geant4 on Linux
 - 8/18 11:30 pm 1 hr making slow and steady progress building geant4 on linux
+- 8/19 11:00 am 1 hr trying to get Geant4 Hello World to work and it still ain't workin.
