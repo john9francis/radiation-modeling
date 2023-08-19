@@ -105,3 +105,4 @@ started: 7/30/2023
 - 8/18 2:40 pm 35 min Let's switch gears and try and find a CMakeLists file that works for Linux with the conda Geant4 environment. UPDATE: it's currently installing dependencies, it's gonna take awhile.
 - 8/18 5:53 pm 25 min Let's try and run that Geant4 app in Linux now. UPDATE: Still workin' on it
 - 8/18 6:55 pm still trying to build Geant4 on Linux
+- 8/18 11:30 pm 1 hr making slow and steady progress building geant4 on linux
