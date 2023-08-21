@@ -118,5 +118,8 @@ started: 7/30/2023
 - [ ] Get Geant4 running on WSL
 - [ ] geant4 on linux vid
 
+**Other**
+- [ ] Email prof. Kelley my progress
 
-- 8/21 11:11 am planning week
+
+- 8/21 11:11 am planning week and emailing bro kelley, and getting each particle it's own data in G4-Brems
