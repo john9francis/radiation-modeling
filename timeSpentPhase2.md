@@ -123,3 +123,4 @@ started: 7/30/2023
 
 
 - 8/21 11:11 am 1 hr planning week and emailing bro kelley, and researching accumulables in Geant4
+- 8/21 12:45 am Working on getting hits into runaction 
