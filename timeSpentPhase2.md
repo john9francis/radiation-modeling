@@ -122,4 +122,4 @@ started: 7/30/2023
 - [x] Email prof. Kelley my progress
 
 
-- 8/21 11:11 am planning week and emailing bro kelley, and getting each particle it's own data in G4-Brems
+- 8/21 11:11 am 1 hr planning week and emailing bro kelley, and researching accumulables in Geant4
