@@ -123,4 +123,4 @@ started: 7/30/2023
 
 
 - 8/21 11:11 am 1 hr planning week and emailing bro kelley, and researching accumulables in Geant4
-- 8/21 12:45 am Working on getting hits into runaction 
+- 8/21 12:45 am 1.5 Working on getting hits into runaction. UPDATE: I used G4VHit and G4THitsCollection to create a hit in the eventaction class and then save it to the hitscollection in the runaction class. It works!
