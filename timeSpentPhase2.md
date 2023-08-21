@@ -108,3 +108,15 @@ started: 7/30/2023
 - 8/19 11:00 am 1 hr trying to get Geant4 Hello World to work and it still ain't workin.
 - ====================================================================
 
+# Week 14 8/21-8/27
+
+**G4 Brems**
+- [ ] Power through and finish!!!
+- [ ] Put out 0.2.0 vid!
+
+**Docker**
+- [ ] Get Geant4 running on WSL
+- [ ] geant4 on linux vid
+
+
+- 8/21 11:11 am planning week
