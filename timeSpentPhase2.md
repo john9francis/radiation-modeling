@@ -113,6 +113,7 @@ started: 7/30/2023
 **G4 Brems**
 - [ ] Power through and finish!!!
 - [ ] Put out 0.2.0 vid!
+- [ ] now put out 0.3.0 vid!
 
 **Docker**
 - [ ] Get Geant4 running on WSL
