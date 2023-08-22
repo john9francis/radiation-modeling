@@ -126,3 +126,4 @@ started: 7/30/2023
 - 8/21 11:11 am 1 hr planning week and emailing bro kelley, and researching accumulables in Geant4
 - 8/21 12:45 pm 1.5 hrs Working on getting hits into runaction. UPDATE: I used G4VHit and G4THitsCollection to create a hit in the eventaction class and then save it to the hitscollection in the runaction class. It works!
 - 8/21 2:30 pm .5 hr Gotta create release notes for 0.2.0 and 0.3.0! UPDATE: I ran into a bug. The 0.2.0 branch won't configure with cmake...?
+- 8/21 7:41 pm Let's debug why cmake isn't working and also finish getting geant4 WSL
