@@ -129,3 +129,4 @@ started: 7/30/2023
 - 8/21 2:30 pm .5 hr Gotta create release notes for 0.2.0 and 0.3.0! UPDATE: I ran into a bug. The 0.2.0 branch won't configure with cmake...?
 - 8/21 7:41 pm 1.5 Let's debug why cmake isn't working and also finish getting geant4 WSL. UPDATE: found out that the cmake bug was about path-length limit! I had a really really long path to get to the source code. UPDATE 2: We got Geant4 running on WSL!!! I have all the notes recorded in g4-docker repo. I have some debugging to do with G4-Hello-World
 - 8/22 10:27 am 1 hr Working on geant4 on linux tutorial
+- 8/22 1:12 pm making G4-Brems v0.2.0 video
