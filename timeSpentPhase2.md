@@ -112,7 +112,7 @@ started: 7/30/2023
 
 **G4 Brems**
 - [ ] Power through and finish!!!
-- [ ] Put out 0.2.0 vid!
+- [x] Put out 0.2.0 vid!
 - [ ] now put out 0.3.0 vid!
 
 **Docker**
@@ -131,4 +131,4 @@ started: 7/30/2023
 - 8/22 10:27 am 1 hr Working on geant4 on linux tutorial
 - 8/22 1:12 pm 2 hrs making G4-Brems v0.2.0 video
 - 8/22 7:00 pm 2 hrs finishing up editing v0.2.0 video
-- 8/23 8:00 am Posting video, making thumbnail, and deciding what to do next
+- 8/23 8:00 am 1 hr Posting video and responding to question from another person working on Geant4
