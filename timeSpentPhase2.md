@@ -133,4 +133,4 @@ started: 7/30/2023
 - 8/22 7:00 pm 2 hrs finishing up editing v0.2.0 video
 - 8/23 8:00 am 1 hr Posting video and responding to question from another person working on Geant4
 - 8/23 9:00 am 1 hr deciding what to do next, and debugging G4-Hello-World
-- 8/23 11:40 am debugging G4-Hello-World and making it work on linux and mac
+- 8/23 11:40 am .5 hr debugging G4-Hello-World and making it work on linux and mac UPDATE: I got it configured for mac and linux, now just need to finish the geant4 installation with linux instructions.
