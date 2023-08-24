@@ -138,4 +138,4 @@ started: 7/30/2023
 - 8/23 5:48 pm .25 hr Working on G4-Brems v0.3.0 release. I decided to adjust the organization a little bit and try and merge with main branch. We will see what happens.
 - 8/23 8:04 pm 1.75 hrs Working on v0.3.0 and getting it ready UPDATE: Not only is v0.3.0 (basically) ready (besides some useless "print" code in EventAction) v0.3.0 is pretty much ready! also, I completely finished G4-Hello-World debugging! Next step: migrate all the G4-Hello-World cmake settings into G4-Brems. Also my next video to get out will be how to install Geant4 on Linux, featuring G4-Hello-World.
 - 8/24 7:27 am 2 hrs Finished g4 Linux install instructions
-- 8/24 10:15 am Working on Geant4 dockerfile
+- 8/24 10:15 am 1.5 hrs Working on Geant4 dockerfile
