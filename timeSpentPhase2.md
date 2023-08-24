@@ -135,4 +135,4 @@ started: 7/30/2023
 - 8/23 9:00 am 1 hr deciding what to do next, and debugging G4-Hello-World
 - 8/23 11:40 am .5 hr debugging G4-Hello-World and making it work on linux and mac UPDATE: I got it configured for mac and linux, now just need to finish the geant4 installation with linux instructions.
 - 8/23 12:15 am .75 hr Trying to impliment an average function with RunAction to average the energies (G4-Brems)
-- 8/23 5:48 pm Working on G4-Brems v0.3.0 release
+- 8/23 5:48 pm Working on G4-Brems v0.3.0 release. I decided to adjust the organization a little bit and try and merge with main branch. We will see what happens. 
