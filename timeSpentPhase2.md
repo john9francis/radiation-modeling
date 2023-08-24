@@ -136,4 +136,4 @@ started: 7/30/2023
 - 8/23 11:40 am .5 hr debugging G4-Hello-World and making it work on linux and mac UPDATE: I got it configured for mac and linux, now just need to finish the geant4 installation with linux instructions.
 - 8/23 12:15 am .75 hr Trying to impliment an average function with RunAction to average the energies (G4-Brems)
 - 8/23 5:48 pm .25 hr Working on G4-Brems v0.3.0 release. I decided to adjust the organization a little bit and try and merge with main branch. We will see what happens.
-- 8/23 8:04 pm Working on v0.3.0 and getting it ready
+- 8/23 8:04 pm 2 hrs Working on v0.3.0 and getting it ready UPDATE: Not only is v0.3.0 (basically) ready (besides some useless "print" code in EventAction) v0.3.0 is pretty much ready! also, I completely finished G4-Hello-World debugging! Next step: migrate all the G4-Hello-World cmake settings into G4-Brems. Also my next video to get out will be how to install Geant4 on Linux, featuring G4-Hello-World.
