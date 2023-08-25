@@ -141,4 +141,4 @@ started: 7/30/2023
 - 8/24 10:15 am 1.5 hrs Working on Geant4 dockerfile
 - 8/24 12:00 pm .5 hr building my new dockerfile
 - 8/25 8:15 am 2 hrs working on my dockerfile
-- 8/25 1:07 pm Working on dockerfile
+- 8/25 1:07 pm 1.5 hrs Working on dockerfile
