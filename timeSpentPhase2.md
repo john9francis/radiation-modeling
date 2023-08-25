@@ -140,3 +140,4 @@ started: 7/30/2023
 - 8/24 7:27 am 2 hrs Finished g4 Linux install instructions
 - 8/24 10:15 am 1.5 hrs Working on Geant4 dockerfile
 - 8/24 12:00 pm .5 hr building my new dockerfile
+- 8/25 8:15 am working on my dockerfile
