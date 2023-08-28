@@ -162,3 +162,4 @@ started: 7/30/2023
 
 - 8/28 8:18 am 30 min planning the week
 - 8/28 10:08 am 1 hr struggling with G4-docker and putting the geant4 on linux installation tutorial on Radiation Modeling repo
+- 8/28 11:28 am Making Geant4 on Linux vid
