@@ -148,4 +148,16 @@ started: 7/30/2023
 
 # Week 15 8/28-9/3
 
--8/28 8:08 am planning the week and making the geant4 for linux video
+**G4 Brems**
+- Put out 0.3.0 video
+- Work on analysis
+
+**Geant4**
+- Geant4 on Linux video
+- Finish up G4-Docker
+
+**Research**
+- Solve the math behind bremsstrahlung
+- Get some really good photon spectrum data
+
+- 8/28 8:08 am planning the week and making the geant4 for linux video
