@@ -151,13 +151,6 @@ And make sure to checkout the correct branch to make sure this works.
 ```sh
 git checkout remotes/origin/v0.1.1
 ```
-```sh
-wget https://github.com/john9francis/G4-Hello-World/archive/refs/tags/G4-Hello-World-v0.1.1.zip
-```
-Then you can unzip this file by running, 
-```sh
-unzip G4-Hello-World-v0.1.1.zip
-```
 
 Inside the G4-Hello-World dir you should see the following files:
 ```sh
