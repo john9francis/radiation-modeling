@@ -160,4 +160,5 @@ started: 7/30/2023
 - [ ] Solve the math behind bremsstrahlung
 - [ ] Get some really good photon spectrum data
 
-- 8/28 8:18 am planning the week and making the geant4 for linux video
+- 8/28 8:18 am 30 min planning the week
+- 8/28 10:08 am putting the geant4 on linux installation tutorial on Radiation Modeling repo
