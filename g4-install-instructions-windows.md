@@ -5,7 +5,7 @@
 
 This is a very simple tutorial on how I installed Geant4 (from the source code) on my Windows 11 laptop. I recommend watching [my YouTube tutorial](https://youtu.be/w7k9PK1Ipv8) where I walk through each of these steps on my own computer.
 
-Also, this is the most basic install and compilation of Geant4, without a visualization driver. If you want a good visualization driver option, go to my tutorial: [installing Geant4 with the Qt visualization driver.](Geant4-Qt-install-instructions.md)
+Also, this is the most basic install and compilation of Geant4, without a visualization driver. If you want a good visualization driver option, go to my tutorial: [installing Geant4 with the Qt visualization driver.](g4-install-instructions-qt.md)
 
 There are three steps for installing Geant4 on windows:
 * [Step 1: Install prerequisites](#step-1-install-all-the-prerequisites)
@@ -70,7 +70,7 @@ In the CMake GUI, there is an option called, "CMAKE_INSTALL_PREFIX" with a certa
 ```
 C:/Program Files (x84)
 ```
- Once we compile Geant4, it will create a folder in this directory with some important files. I reccommend changing this directory to be in the same folder you have been working in this whole time, keeping everything consistent. I put mine in a folder called "program_files" in my Geant4 folder (where I'm keeping everything organized)
+Once we compile Geant4, it will create a folder in this directory with some important files. I reccommend changing this directory to be in the same folder you have been working in this whole time, keeping everything consistent. I put mine in a folder called "program_files" in my Geant4 folder (where I'm keeping everything organized)
  ```
 C:/Users/my-user-name/Geant4/program_files
  ```

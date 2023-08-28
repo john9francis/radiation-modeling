@@ -3,8 +3,9 @@
 [home](README.md)
 
 ## My own Geant4 notes
-- [Installing Geant4](Geant4-install-instructions.md)
-- [Installing Geant4 with Qt visualization](Geant4-Qt-install-instructions.md)
+- [Installing Geant4 on Windows](g4-install-instructions-windows.md)
+- [Installing Geant4 with Qt visualization](g4-install-instructions-qt.md)
+- [Installing Geant4 on Linux](g4-install-instructions-linux.md)
 - [Info about Geant4 built-in examples](Geant4-examples-notes.md)
 
 ## Helpful documentation:
