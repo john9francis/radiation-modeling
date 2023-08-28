@@ -133,7 +133,24 @@ These dependencies are really important. For example, we have mesa drivers in ou
 If you want more information about these dependencies, you can look at my [notes](notes.md).
 
 # Getting a test Geant4 app
-In this tutorial we are going to test our installation by running, "Geant4-Hello-World." To get Geant4-Hello-World, first navigate to a directory that you want to store the source code in, like "desktop" or something. Then you can get the Geant4-Hello-World by running,
+In this tutorial we are going to test our installation by running, "Geant4-Hello-World." To get Geant4-Hello-World, first navigate to a directory that you want to store the source code in, like "desktop" or something.
+
+Then, we need to make sure we have git installed. Try
+```sh
+git --version
+```
+and if you don't have git installed, install with 
+```sh
+apt install git
+```
+Now to get the correct version of G4-Hello-World, run: 
+```sh
+git clone https://github.com/john9francis/G4-Hello-World.git
+```
+And make sure to checkout the correct branch to make sure this works.
+```sh
+git checkout remotes/origin/v0.1.1
+```
 ```sh
 wget https://github.com/john9francis/G4-Hello-World/archive/refs/tags/G4-Hello-World-v0.1.1.zip
 ```
