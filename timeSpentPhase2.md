@@ -13,6 +13,8 @@ started: 7/30/2023
 - [Week 11](#week-11-731-86)
 - [Week 12](#week-12-87-813)
 - [Week 13](#week-13-814-820)
+- [Week 14](#week-14-821-827)
+- [Week 15](#week-15-828-93)
 
 
 # Week 11 7/31-8/6
@@ -106,7 +108,6 @@ started: 7/30/2023
 - 8/18 6:55 pm still trying to build Geant4 on Linux
 - 8/18 11:30 pm 1 hr making slow and steady progress building geant4 on linux
 - 8/19 11:00 am 1 hr trying to get Geant4 Hello World to work and it still ain't workin.
-- ====================================================================
 
 # Week 14 8/21-8/27
 
@@ -143,5 +144,8 @@ started: 7/30/2023
 - 8/25 8:15 am 2 hrs working on my dockerfile
 - 8/25 1:07 pm 1.5 hrs Working on dockerfile
 
+- ====================================================================
+
+# Week 15 8/28-9/3
 
 -8/28 8:08 am planning the week and making the geant4 for linux video
