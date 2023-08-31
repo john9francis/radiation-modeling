@@ -149,7 +149,7 @@ started: 7/30/2023
 # Week 15 8/28-9/3
 
 **G4 Brems**
-- [ ] Put out 0.3.0 video
+- [x] Put out 0.3.0 video
 - [ ] Work on analysis
 
 **Geant4**
@@ -170,3 +170,5 @@ started: 7/30/2023
 - 8/30 10:45 am .75 hr recording g4-brems v0.3.0 video
 - 8/30 6:32 pm .75 hr Editing g4-brems v0.3.0 video
 - 8/30 7:50 2 hrs Editing video and posting it!
+
+- Tomorrow: mess around with Cern's ROOT!
