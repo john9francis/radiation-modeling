@@ -168,4 +168,4 @@ started: 7/30/2023
 - 8/29 2:54 pm 1 hr trying to figure out analysis for G4-Brems, ended up building CERN's ROOT from source.
 - 8/29 4:08 pm .25 hr I'm going to try and install the root executable instead. UPDATE it works and root works. tomorrow I'm gonna learn how to use it.
 - 8/30 10:45 am .75 hr recording g4-brems v0.3.0 video
-- 8/30 6:32 pm Editing g4-brems v0.3.0 video
+- 8/30 6:32 pm .75 hr Editing g4-brems v0.3.0 video
