@@ -170,4 +170,5 @@ started: 7/30/2023
 - 8/30 10:45 am .75 hr recording g4-brems v0.3.0 video
 - 8/30 6:32 pm .75 hr Editing g4-brems v0.3.0 video
 - 8/30 7:50 2 hrs Editing video and posting it!
-- 8/31 11:34 am 1.5 hr learning how to use ROOT! Update: I learned the basics, and i found out that Geant4 produces .root files that display your graphs on a browser. 
+- 8/31 11:34 am 1.5 hr learning how to use ROOT! Update: I learned the basics, and i found out that Geant4 produces .root files that display your graphs on a browser.
+- 8/31 4:52 pm Learning more about root
