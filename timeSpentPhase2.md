@@ -173,4 +173,4 @@ started: 7/30/2023
 - 8/31 11:34 am 1.5 hr learning how to use ROOT! Update: I learned the basics, and i found out that Geant4 produces .root files that display your graphs on a browser.
 - 8/31 4:52 pm .25 hr Learning more about root
 - 8/31 9:28 pm .5 hr Planning the next projects and messing around more with Root
-- 9/1 8:43 am going through more root tutorials
+- 9/1 8:43 am 1 hr going through more root tutorials UPDATE: figured out how to make plots in Root! Next step is I am REALLY itching to get Geant4 docker up and running, AND a geant4 root docker as well. Because I am just building up the dependencies right now. 
