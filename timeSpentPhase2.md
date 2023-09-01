@@ -174,4 +174,4 @@ started: 7/30/2023
 - 8/31 4:52 pm .25 hr Learning more about root
 - 8/31 9:28 pm .5 hr Planning the next projects and messing around more with Root
 - 9/1 8:43 am 1 hr going through more root tutorials UPDATE: figured out how to make plots in Root! Next step is I am REALLY itching to get Geant4 docker up and running, AND a geant4 root docker as well. Because I am just building up the dependencies right now.
-- 9/1 10:16 am working on saving all the particle data as a CSV G4-Brems
+- 9/1 10:16 am 1 hr working on saving all the particle data as a CSV G4-Brems. I almost have it, but I need to populate the file I think.
