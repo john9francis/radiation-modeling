@@ -144,13 +144,11 @@ started: 7/30/2023
 - 8/25 8:15 am 2 hrs working on my dockerfile
 - 8/25 1:07 pm 1.5 hrs Working on dockerfile
 
-- ====================================================================
-
 # Week 15 8/28-9/3
 
 **G4 Brems**
 - [x] Put out 0.3.0 video
-- [ ] Work on analysis
+- [x] Work on analysis
 
 **Geant4**
 - [ ] ~Geant4 on Linux video~
@@ -177,3 +175,5 @@ started: 7/30/2023
 - 9/1 10:16 am 1 hr working on saving all the particle data as a CSV G4-Brems. I almost have it, but I need to populate the file I think.
 - 9/1 11:20 am 1.25 hr Trying to get my data to save to a file. I feel like I'm making progress but it's still not working.
 - 9/2 10:33 am 1 hr debugging why the analysis won't save a file?
+
+- ==================================
