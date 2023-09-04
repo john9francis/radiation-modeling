@@ -15,6 +15,7 @@ started: 7/30/2023
 - [Week 13](#week-13-814-820)
 - [Week 14](#week-14-821-827)
 - [Week 15](#week-15-828-93)
+- [Week 16](#week-16-94-910)
 
 
 # Week 11 7/31-8/6
@@ -181,9 +182,9 @@ started: 7/30/2023
 # Week 16 9/4-9/10
 
 **G4 Brems**
-- Finish up analysis!
+- [ ] Finish up analysis!
 
 **Other**
-- Finish G4 Docker
+- [ ] Finish G4 Docker
 
-- 9/4 8:04 am Planning the week and working on G4-Docker
+- 9/4 8:04 am Planning the week and getting the csv file saving on G4-Brems
