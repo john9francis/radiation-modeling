@@ -177,3 +177,13 @@ started: 7/30/2023
 - 9/2 10:33 am 1 hr debugging why the analysis won't save a file?
 
 - ==================================
+
+# Week 16 9/4-9/10
+
+**G4 Brems**
+- Finish up analysis!
+
+**Other**
+- Finish G4 Docker
+
+- 9/4 8:04 am Planning the week and working on G4-Docker
