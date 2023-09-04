@@ -188,4 +188,5 @@ started: 7/30/2023
 **Other**
 - [ ] Finish G4 Docker
 
-- 9/4 8:04 am 1.25 hr Planning the week and getting the csv file saving on G4-Brems. UPDATE: I got analysis working!!! thanks to some help from B4a. Next steps are: learning how to use the root viewer, and possibly switching it up so I get the histograms booked from eventaction instead of the hitscollection. 
+- 9/4 8:04 am 1.25 hr Planning the week and getting the csv file saving on G4-Brems. UPDATE: I got analysis working!!! thanks to some help from B4a. Next steps are: learning how to use the root viewer, and possibly switching it up so I get the histograms booked from eventaction instead of the hitscollection.
+- 9/4 10:02 am Simplifying code a bit
