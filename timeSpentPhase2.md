@@ -182,7 +182,7 @@ started: 7/30/2023
 # Week 16 9/4-9/10
 
 **G4 Brems**
-- [ ] Finish up analysis!
+- [x] Finish up analysis!
 - [ ] Look into other options to make the code simpler: saving the ntuples in eventaction, or even using the 'RecordEvent' function in runaction instead of a Hit class
 
 **Other**
