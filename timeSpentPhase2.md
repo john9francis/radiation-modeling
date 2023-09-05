@@ -183,7 +183,7 @@ started: 7/30/2023
 
 **G4 Brems**
 - [x] Finish up analysis!
-- [ ] Look into other options to make the code simpler: saving the ntuples in eventaction, or even using the 'RecordEvent' function in runaction instead of a Hit class
+- [x] Look into other options to make the code simpler: saving the ntuples in eventaction, or even using the 'RecordEvent' function in runaction instead of a Hit class
 
 **Other**
 - [ ] Finish G4 Docker
@@ -192,3 +192,4 @@ started: 7/30/2023
 - 9/4 10:02 am 1.5 hr Simplifying code a bit
 - 9/4 2:03 pm .5 hr learning about root and learning more about geant4 on linux 
 - 9/4 8:17 pm .5 hr Writing up the release notes for 0.4.0 G4-Brems
+- 9/4 9:00 pm .5 hr Finishing up 0.4.0 release notes
