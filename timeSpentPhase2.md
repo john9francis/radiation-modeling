@@ -193,3 +193,4 @@ started: 7/30/2023
 - 9/4 2:03 pm .5 hr learning about root and learning more about geant4 on linux 
 - 9/4 8:17 pm .5 hr Writing up the release notes for 0.4.0 G4-Brems
 - 9/4 9:00 pm .5 hr Finishing up 0.4.0 release notes
+- 9/5 2:52 pm Seeing if I can get G4-Brems running on docker?
