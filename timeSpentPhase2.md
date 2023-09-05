@@ -194,4 +194,4 @@ started: 7/30/2023
 - 9/4 8:17 pm .5 hr Writing up the release notes for 0.4.0 G4-Brems
 - 9/4 9:00 pm .5 hr Finishing up 0.4.0 release notes
 - 9/5 2:52 pm 1.75 hr Seeing if I can get G4-Brems running on docker? UPDATE: WSL broken
-- 9/5 4:45 pm testing G4 Brems with the dockerfile and fixing WSL UPDATE: Wsl is fixed, but G4 Brems doesn't really work with docker... yet. I have 2 options now. Either build it with cmake with docker, OR, build it in WSL and give THOSE binaries to the dockerfile.
+- 9/5 4:45 pm 1 hr testing G4 Brems with the dockerfile and fixing WSL UPDATE: Wsl is fixed, but G4 Brems doesn't really work with docker... yet. I have 2 options now. Either build it with cmake with docker, OR, build it in WSL and give THOSE binaries to the dockerfile.
