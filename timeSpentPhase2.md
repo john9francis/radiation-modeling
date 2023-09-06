@@ -195,4 +195,4 @@ started: 7/30/2023
 - 9/4 9:00 pm .5 hr Finishing up 0.4.0 release notes
 - 9/5 2:52 pm 1.75 hr Seeing if I can get G4-Brems running on docker? UPDATE: WSL broken
 - 9/5 4:45 pm 1 hr testing G4 Brems with the dockerfile and fixing WSL UPDATE: Wsl is fixed, but G4 Brems doesn't really work with docker... yet. I have 2 options now. Either build it with cmake with docker, OR, build it in WSL and give THOSE binaries to the dockerfile.
-- 9/6 8:39 am working on the dockerfile for G4-Brems
+- 9/6 8:39 am 1.25 hr working on the dockerfile for G4-Brems UPDATE: It built with cmake and everything (FINALLY) and it runs but exits super fast. The 2 workaround are: 1. do more research about running a qt gui in docker, or 2. just build the executable in WSL and then try to run THAT with docker??? that might work? 
