@@ -203,3 +203,5 @@ started: 7/30/2023
 - 9/6 11:32 am .5 hr prepping for g4-brems v040 vid
 - 9/6 12:20 pm 1 hr recording g4-brems v0.4.0 vid
 - 9/6 2:45 pm editing G4-Brems v0.4.0 vid
+
+
