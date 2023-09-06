@@ -201,3 +201,4 @@ started: 7/30/2023
 - 9/5 4:45 pm 1 hr testing G4 Brems with the dockerfile and fixing WSL UPDATE: Wsl is fixed, but G4 Brems doesn't really work with docker... yet. I have 2 options now. Either build it with cmake with docker, OR, build it in WSL and give THOSE binaries to the dockerfile.
 - 9/6 8:39 am 1.5 hr working on the dockerfile for G4-Brems UPDATE: It built with cmake and everything (FINALLY) and it runs but exits super fast. The 2 workaround are: 1. do more research about running a qt gui in docker, or 2. just build the executable in WSL and then try to run THAT with docker??? that might work?
 - 9/6 11:32 am .5 hr prepping for g4-brems v040 vid
+- 9/6 12:20 pm recording g4-brems v0.4.0 vid
