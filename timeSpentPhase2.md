@@ -181,9 +181,13 @@ started: 7/30/2023
 
 # Week 16 9/4-9/10
 
-**G4 Brems**
+**G4 Brems v040**
 - [x] Finish up analysis!
 - [x] Look into other options to make the code simpler: saving the ntuples in eventaction, or even using the 'RecordEvent' function in runaction instead of a Hit class
+
+**G4 Brems v050**
+- [ ] Decide on what histograms I want to make, and make them.
+- [ ] Migrate the new CMakeLists.txt file from G4-Hello-World over
 
 **Other**
 - [ ] Finish G4 Docker
