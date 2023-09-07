@@ -204,5 +204,6 @@ started: 7/30/2023
 - 9/6 12:20 pm 1 hr recording g4-brems v0.4.0 vid
 - 9/6 2:45 pm 1.25 hr editing G4-Brems v0.4.0 vid
 - 9/7 9:10 am 1 hr editing vid
+- 9/7 10:37 am making thumbnail and uploading vid
 
 
