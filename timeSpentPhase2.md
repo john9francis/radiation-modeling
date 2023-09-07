@@ -184,6 +184,7 @@ started: 7/30/2023
 **G4 Brems v040**
 - [x] Finish up analysis!
 - [x] Look into other options to make the code simpler: saving the ntuples in eventaction, or even using the 'RecordEvent' function in runaction instead of a Hit class
+- [ ] cross reference data with other articles to prove accuracy 
 
 **G4 Brems v050**
 - [ ] Decide on what histograms I want to make, and make them.
@@ -204,6 +205,6 @@ started: 7/30/2023
 - 9/6 12:20 pm 1 hr recording g4-brems v0.4.0 vid
 - 9/6 2:45 pm 1.25 hr editing G4-Brems v0.4.0 vid
 - 9/7 9:10 am 1 hr editing vid
-- 9/7 10:37 am .75 hr making thumbnail and uploading vid
+- 9/7 10:37 am 1 hr making thumbnail and uploading vid
 
 
