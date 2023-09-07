@@ -206,5 +206,5 @@ started: 7/30/2023
 - 9/6 2:45 pm 1.25 hr editing G4-Brems v0.4.0 vid
 - 9/7 9:10 am 1 hr editing vid
 - 9/7 10:37 am 1 hr making thumbnail and uploading vid
-
+- 9/7 2:41 pm finding references for g4_brems and running accurate_run 
 
