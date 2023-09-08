@@ -208,5 +208,5 @@ started: 7/30/2023
 - 9/7 10:37 am 1 hr making thumbnail and uploading vid
 - 9/7 2:41 pm .5 hr finding references for g4_brems and running accurate_run. UPDATE: reading research articles is soul sucking
 - 9/7 3:17 pm .25 hr reading another article
-- 9/8 9:20 am deciding what to do next
+- 9/8 9:20 am 1.25 hr deciding what to do next, and fixing some issues with g4 brems
 
