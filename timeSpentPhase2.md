@@ -218,6 +218,7 @@ started: 7/30/2023
 - [ ] Create really good documentation about G4-Brems including sources
 - [ ] Create a project proposal (figure out where I want to take this project)
 - [ ] Finish up phase 2 and write a summary
+- [ ] Post a video about G4 Brems accuracy release
 
 **Other**
 - [ ] Meet with brother kelley about my project
