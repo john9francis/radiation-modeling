@@ -16,6 +16,7 @@ started: 7/30/2023
 - [Week 14](#week-14-821-827)
 - [Week 15](#week-15-828-93)
 - [Week 16](#week-16-94-910)
+- [Week 17](#week-17-911-917)
 
 
 # Week 11 7/31-8/6
@@ -210,3 +211,15 @@ started: 7/30/2023
 - 9/7 3:17 pm .25 hr reading another article
 - 9/8 9:20 am 1.25 hr deciding what to do next, and fixing some issues with g4 brems
 
+# Week 17 9/11-9/17
+
+**G4 Brems**
+- [ ] Make it so the file doesn't close upon ending the run. That way, I can simulate a lot more particles and keep adding them to the same file
+- [ ] Create really good documentation about G4-Brems including sources
+- [ ] Create a project proposal (figure out where I want to take this project)
+- [ ] Finish up phase 2 and write a summary
+
+**Other**
+- [ ] Meet with brother kelley about my project
+
+- 9/11 10:37 am working on the 'accuracy release' of G4-Brems
