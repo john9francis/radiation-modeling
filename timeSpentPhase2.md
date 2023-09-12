@@ -224,3 +224,4 @@ started: 7/30/2023
 - [ ] Meet with brother kelley about my project
 
 - 9/11 10:37 am .75 hr Working on testing randomness of G4-Brems
+- 9/11 8:02 pm Working on randomizing simulations and testing mac files
