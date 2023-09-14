@@ -227,4 +227,4 @@ started: 7/30/2023
 - 9/11 8:02 pm 1.75 hrs Working on randomizing simulations and testing mac files. UPDATE: I randomized the simulations, and wrote the first 2 sections of my G4-Brems research paper.
 - 9/13 9:20 am 1.25 hrs working on testing mac files and how long each one takes
 - 9/13 11:03 am .25 hr testing how it works to run multiple mac files at once
-- 9/13 8:00 pm giving electron energies a gaussian distribution, and giving specific commands to open and close file so I can run multiple simulations before closing the file.
+- 9/13 8:00 pm 1.5 hrs giving electron energies a gaussian distribution, and giving specific commands to open and close file so I can run multiple simulations before closing the file. UPDATE: it's ready for an accurate run. I'm gonna do it tonight.
