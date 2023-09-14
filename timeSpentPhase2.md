@@ -214,7 +214,7 @@ started: 7/30/2023
 # Week 17 9/11-9/17
 
 **G4 Brems**
-- [ ] Make it so the file doesn't close upon ending the run. That way, I can simulate a lot more particles and keep adding them to the same file
+- [x] Make it so the file doesn't close upon ending the run. That way, I can simulate a lot more particles and keep adding them to the same file
 - [ ] Create really good documentation about G4-Brems including sources
 - [ ] Create a project proposal (figure out where I want to take this project)
 - [ ] Finish up phase 2 and write a summary
@@ -228,3 +228,4 @@ started: 7/30/2023
 - 9/13 9:20 am 1.25 hrs working on testing mac files and how long each one takes
 - 9/13 11:03 am .25 hr testing how it works to run multiple mac files at once
 - 9/13 8:00 pm 1.5 hrs giving electron energies a gaussian distribution, and giving specific commands to open and close file so I can run multiple simulations before closing the file. UPDATE: it's ready for an accurate run. I'm gonna do it tonight.
+- 9/14 8:15 am creating accurate data, comparing that data to reality, and coming up with project proposal
