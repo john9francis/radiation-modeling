@@ -231,3 +231,4 @@ started: 7/30/2023
 - 9/14 8:15 am 1.25 hr creating accurate data, comparing that data to reality, and coming up with project proposal
 - 9/14 2:00 pm .25 hr meeting with bro kelley and discussing my project
 - 9/14 9:00 pm 2 hrs working on project proposal for research class UPDATE: finished rough draft
+- 9/15  revising project proposal and 
