@@ -216,7 +216,7 @@ started: 7/30/2023
 **G4 Brems**
 - [x] Make it so the file doesn't close upon ending the run. That way, I can simulate a lot more particles and keep adding them to the same file
 - [ ] Create really good documentation about G4-Brems including sources
-- [ ] Create a project proposal (figure out where I want to take this project)
+- [x] Create a project proposal (figure out where I want to take this project)
 - [ ] Finish up phase 2 and write a summary
 - [ ] Post a video about G4 Brems accuracy release
 
@@ -231,4 +231,4 @@ started: 7/30/2023
 - 9/14 8:15 am 1.25 hr creating accurate data, comparing that data to reality, and coming up with project proposal
 - 9/14 2:00 pm .25 hr meeting with bro kelley and discussing my project
 - 9/14 9:00 pm 2 hrs working on project proposal for research class UPDATE: finished rough draft
-- 9/15 9:12 pm revising project proposal
+- 9/15 9:12 pm 1.5 hrs revising project proposal
