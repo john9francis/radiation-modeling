@@ -221,7 +221,7 @@ started: 7/30/2023
 - [ ] Post a video about G4 Brems accuracy release
 
 **Other**
-- [ ] Meet with brother kelley about my project
+- [x] Meet with brother kelley about my project
 
 - 9/11 10:37 am .75 hr Working on testing randomness of G4-Brems
 - 9/11 8:02 pm 1.75 hrs Working on randomizing simulations and testing mac files. UPDATE: I randomized the simulations, and wrote the first 2 sections of my G4-Brems research paper.
@@ -229,3 +229,4 @@ started: 7/30/2023
 - 9/13 11:03 am .25 hr testing how it works to run multiple mac files at once
 - 9/13 8:00 pm 1.5 hrs giving electron energies a gaussian distribution, and giving specific commands to open and close file so I can run multiple simulations before closing the file. UPDATE: it's ready for an accurate run. I'm gonna do it tonight.
 - 9/14 8:15 am 1.25 hr creating accurate data, comparing that data to reality, and coming up with project proposal
+- 9/14 2:00 pm .25 hr meeting with bro kelley and discussing my project
