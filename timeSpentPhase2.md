@@ -232,4 +232,4 @@ started: 7/30/2023
 - 9/14 2:00 pm .25 hr meeting with bro kelley and discussing my project
 - 9/14 9:00 pm 2 hrs working on project proposal for research class UPDATE: finished rough draft
 - 9/15 9:12 pm 1.5 hrs revising project proposal
-- 9/15 8:57 pm release notes for G4-Brems 0.5.0
+- 9/15 8:57 pm 1 hr release notes for G4-Brems 0.5.0
