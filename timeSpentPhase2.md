@@ -233,4 +233,4 @@ started: 7/30/2023
 - 9/14 9:00 pm 2 hrs working on project proposal for research class UPDATE: finished rough draft
 - 9/15 9:12 pm 1.5 hrs revising project proposal
 - 9/15 8:57 pm 1 hr release notes for G4-Brems 0.5.0
-- 9/16 9:00 am .75 hr writing release notes for G4-Brems 050
+- 9/16 9:00 am 1.25 hr writing release notes for G4-Brems 050 and planning for next week
