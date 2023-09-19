@@ -17,6 +17,7 @@ started: 7/30/2023
 - [Week 15](#week-15-828-93)
 - [Week 16](#week-16-94-910)
 - [Week 17](#week-17-911-917)
+- [Week 18](#week-18-918-924)
 
 
 # Week 11 7/31-8/6
@@ -177,9 +178,7 @@ started: 7/30/2023
 - 9/1 10:16 am 1 hr working on saving all the particle data as a CSV G4-Brems. I almost have it, but I need to populate the file I think.
 - 9/1 11:20 am 1.25 hr Trying to get my data to save to a file. I feel like I'm making progress but it's still not working.
 - 9/2 10:33 am 1 hr debugging why the analysis won't save a file?
-
-- ==================================
-
+- 
 # Week 16 9/4-9/10
 
 **G4 Brems v040**
@@ -234,3 +233,7 @@ started: 7/30/2023
 - 9/15 9:12 pm 1.5 hrs revising project proposal
 - 9/15 8:57 pm 1 hr release notes for G4-Brems 0.5.0
 - 9/16 9:00 am 1.25 hr writing release notes for G4-Brems 050 and planning for next week
+
+# Week 18 9/18-9/24
+
+
