@@ -248,4 +248,4 @@ started: 7/30/2023
 - [ ] Start on Geant4 1DCRT? maybe come up with catchy name
 
 - 9/18 7:30 1.5 hr Working on dockerizing and cmakeizing G4-Brems. UPDATE: cmakeized it, but it's gonna be really hard to dockerize. I did about 1 hr of research into connecting docker to my systems graphics, it's gonna be really really hard. I think i'll just focus on generating data, or making it into just an executable.
-- 9/19 8:45 am planning and working on the extra histograms I want in Geant4
+- 9/19 8:45 am 1.75 hrs planning and working on the extra histograms I want in Geant4. UPDATE: I got some more sources about the analytical spectrum of bremsstrahlung. I am almost done understanding it. I think I'm going to start next on comparing g4 brems to the data from these articles. 
