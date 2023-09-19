@@ -247,4 +247,4 @@ started: 7/30/2023
 **Other**
 - [ ] Start on Geant4 1DCRT? maybe come up with catchy name
 
-- 9/18 Working on dockerizing and cmakeizing G4-Brems
+- 9/18 7:30 1.5 hr Working on dockerizing and cmakeizing G4-Brems. UPDATE: cmakeized it, but it's gonna be really hard to dockerize. I did about 1 hr of research into connecting docker to my systems graphics, it's gonna be really really hard. I think i'll just focus on generating data, or making it into just an executable. 
