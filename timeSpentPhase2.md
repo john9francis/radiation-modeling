@@ -236,4 +236,15 @@ started: 7/30/2023
 
 # Week 18 9/18-9/24
 
+**G4 Brems**
+- [ ] Finish up! what does that mean exactly?:
+- [ ] Make a video of the accuracy update
+- [ ] 1. Make sure I have all the histograms I want
+- [ ] 2. Write a paper talking about G4 Brems
+- [ ] 3. Make sure cmakelists.txt is right and hopefully get set up on docker!
+- [ ] Make a video of the release 1.0.0!
 
+**Other**
+- [ ] Start on Geant4 1DCRT? maybe come up with catchy name
+
+- 9/18 Working on dockerizing and cmakeizing G4-Brems
