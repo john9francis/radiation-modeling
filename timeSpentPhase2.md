@@ -255,3 +255,4 @@ started: 7/30/2023
 - 9/22 7:55 pm 2.5 hrs making video of G4 brems v050, testing g4-brems on docker, and planning the next step, G41dcrt.
 - 9/23 9:20 am 1 hr researching why energy spectrum skews at higher energies. UPDATE: I didn't figure it out, but I did add a new executable to g4-brems called G4_Brems_terminal that runs interactive mode. It works super good in docker.
 - 9/23 10:35 am .25 hr planning my 'dockerizing geant4' video
+- 9/23 3:00 pm .25 hr submitting progress and emailing bro. kelley
