@@ -254,3 +254,4 @@ started: 7/30/2023
 - 9/22 7:40 am 3 hrs doing my experiment to see what happens the higher we get in energy UPDATE: i came up with graphs from 5-40 MeV, I need to talk to brother Kelley about them. Now I'm gonna work on dockerizing G4_Brems UPDATE2: I pushed my first tag to docker hub! I also put instructions in the github repo for how to use the docker image.
 - 9/22 7:55 pm 2.5 hrs making video of G4 brems v050, testing g4-brems on docker, and planning the next step, G41dcrt.
 - 9/23 9:20 am 1 hr researching why energy spectrum skews at higher energies. UPDATE: I didn't figure it out, but I did add a new executable to g4-brems called G4_Brems_terminal that runs interactive mode. It works super good in docker.
+- 9/23 10:35 am planning my 'dockerizing geant4' video
