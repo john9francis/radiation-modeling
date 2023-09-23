@@ -253,4 +253,4 @@ started: 7/30/2023
 - 9/20 9:30 am 2 hrs Learning more about how clinical linac's work. UPDATE: They should just work with simple bremsstrahlung... so why is my data wrong? I've been running some tests, and I founds something weird... the higher the energy, the weirder the photon distribution gets. I'm going to do an experiment tonight where I run simulations from like 1 to 100 MeV  or something and compare the results.
 - 9/22 7:40 am 3 hrs doing my experiment to see what happens the higher we get in energy UPDATE: i came up with graphs from 5-40 MeV, I need to talk to brother Kelley about them. Now I'm gonna work on dockerizing G4_Brems UPDATE2: I pushed my first tag to docker hub! I also put instructions in the github repo for how to use the docker image.
 - 9/22 7:55 pm 2 hrs making video of G4 brems v050
-- 9/22 9:55 pm testing g4-brems on docker and planning the next step, G41dcrt.
+- 9/22 9:55 pm .25 hr testing g4-brems on docker and planning the next step, G41dcrt.
