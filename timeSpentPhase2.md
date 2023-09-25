@@ -261,4 +261,15 @@ started: 7/30/2023
 
 # Week 19 9/25-10/1
 
+**G4 Brems**
+- [ ] Figure out if my model is accurate? Maybe compare it to similar Geant4 examples
+- [ ] Make some more histograms (finally)
+
+**G4 1DCRT**
+- [ ] Figure out how to include g4 brems in the new g41dcrt project? modularly hopefully
+- [ ] Start with G4 1DCRT
+
+**Docker**
+- [ ] Get visualization working in docker either with HepRapp or something else
+
 - 9/25 12:50 pm 1 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes. Also looked into several different options for physics lists.
