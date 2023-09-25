@@ -260,4 +260,4 @@ started: 7/30/2023
 
 # Week 19 9/25-10/1
 
-- 9/25 12:50 pm .5 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes.
+- 9/25 12:50 pm Testing if g4-brems takes into account relativistic contributions. the answer is yes.
