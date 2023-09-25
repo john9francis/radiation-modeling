@@ -256,3 +256,8 @@ started: 7/30/2023
 - 9/23 9:20 am 1 hr researching why energy spectrum skews at higher energies. UPDATE: I didn't figure it out, but I did add a new executable to g4-brems called G4_Brems_terminal that runs interactive mode. It works super good in docker.
 - 9/23 10:35 am .25 hr planning my 'dockerizing geant4' video
 - 9/23 3:00 pm .25 hr submitting progress and emailing bro. kelley
+
+
+# Week 19 9/25-10/1
+
+- 9/25 12:50 pm .5 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes.
