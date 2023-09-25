@@ -18,6 +18,7 @@ started: 7/30/2023
 - [Week 16](#week-16-94-910)
 - [Week 17](#week-17-911-917)
 - [Week 18](#week-18-918-924)
+- [Week 19](#week-19-925-101)
 
 
 # Week 11 7/31-8/6
@@ -260,4 +261,4 @@ started: 7/30/2023
 
 # Week 19 9/25-10/1
 
-- 9/25 12:50 pm Testing if g4-brems takes into account relativistic contributions. the answer is yes.
+- 9/25 12:50 pm 1 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes. Also looked into several different options for physics lists.
