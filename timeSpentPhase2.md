@@ -272,6 +272,7 @@ started: 7/30/2023
 **Docker**
 - [ ] Get visualization working in docker either with HepRapp or something else
 - [ ] Get cmake to build both "g4 brems" and "g4 brems terminal" at the same time
+- [ ] Get rid of "install" prefix, I don't need it
 
 - 9/25 12:50 pm 1 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes. Also looked into several different options for physics lists.
 - 9/25 11:05 pm Testing all the different em standard physics lists
