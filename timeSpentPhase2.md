@@ -276,4 +276,4 @@ started: 7/30/2023
 - [ ] Figure out how to cmake from command line on windows
 
 - 9/25 12:50 pm 1 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes. Also looked into several different options for physics lists.
-- 9/25 11:05 pm Testing all the different em standard physics lists
+- 9/25 11:05 pm 1.5 hr Testing all the different em standard physics lists
