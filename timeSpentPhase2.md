@@ -269,10 +269,11 @@ started: 7/30/2023
 - [ ] Figure out how to include g4 brems in the new g41dcrt project? modularly hopefully
 - [ ] Start with G4 1DCRT
 
-**Docker**
+**Docker/Cmake**
 - [ ] Get visualization working in docker either with HepRapp or something else
 - [ ] Get cmake to build both "g4 brems" and "g4 brems terminal" at the same time
 - [ ] Get rid of "install" prefix, I don't need it
+- [ ] Figure out how to cmake from command line on windows
 
 - 9/25 12:50 pm 1 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes. Also looked into several different options for physics lists.
 - 9/25 11:05 pm Testing all the different em standard physics lists
