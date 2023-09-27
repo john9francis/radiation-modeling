@@ -278,3 +278,4 @@ started: 7/30/2023
 - 9/25 12:50 pm 1 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes. Also looked into several different options for physics lists.
 - 9/25 11:05 pm 1.5 hr Testing all the different em standard physics lists
 - 9/26 8:19 am 1.25 hrs testing physics lists and researching different visualization
+- 9/27 3:00 pm 1 hr talking to bro Oliphant about bremsstrahlung and reading from the textbook he let me borrow
