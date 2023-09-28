@@ -279,4 +279,4 @@ started: 7/30/2023
 - 9/25 11:05 pm 1.5 hr Testing all the different em standard physics lists
 - 9/26 8:19 am 1.25 hrs testing physics lists and researching different visualization
 - 9/27 3:00 pm 1 hr talking to bro Oliphant about bremsstrahlung and reading from the textbook he let me borrow
-- 9/28 8:33 am coming up with analytical bremsstrahlung
+- 9/28 8:33 am 1 hr coming up with analytical bremsstrahlung UPDATE: investigated kulenkampff's law, and got halfway through kramers
