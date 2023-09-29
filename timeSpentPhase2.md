@@ -287,4 +287,4 @@ To do tomorrow:
 - [ ] test angle dependence just for fun
 - [ ] Write a paper to finish off g4-brems!
 
-- 9/29 7:52 am checking units of intensity
+- 9/29 7:52 am checking units of intensity, and overhauling cmakelists
