@@ -288,4 +288,5 @@ To do tomorrow:
 - [ ] Write a paper to finish off g4-brems!
 
 - 9/29 7:52 am 1.25 hr checking units of intensity, and overhauling cmakelists
-- 9/30 9:03 am readjusting g4 brems detector 
+- 9/30 9:03 am .25 hr readjusting g4 brems detector
+- 9/30 10:23 am creating more data with the new setup
