@@ -271,8 +271,8 @@ started: 7/30/2023
 
 **Docker/Cmake**
 - [ ] Get visualization working in docker either with HepRapp or something else
-- [ ] Get cmake to build both "g4 brems" and "g4 brems terminal" at the same time
-- [ ] Get rid of "install" prefix, I don't need it
+- [x] Get cmake to build both "g4 brems" and "g4 brems terminal" at the same time
+- [x] Get rid of "install" prefix, I don't need it
 - [ ] Figure out how to cmake from command line on windows
 
 - 9/25 12:50 pm 1 hr Testing if g4-brems takes into account relativistic contributions. the answer is yes. Also looked into several different options for physics lists.
@@ -283,7 +283,7 @@ started: 7/30/2023
 - 9/28 10:37 pm 1 hr continuing the testing of kramers law, confirmed accuracy for 5-10 mev... actually, that's all I need for now!!!
 
 To do tomorrow:
-- [ ] Shift the detector in g4-brems to right next to the target
+- [x] Shift the detector in g4-brems to right next to the target
 - [ ] test angle dependence just for fun
 - [ ] Write a paper to finish off g4-brems!
 
