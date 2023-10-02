@@ -19,6 +19,7 @@ started: 7/30/2023
 - [Week 17](#week-17-911-917)
 - [Week 18](#week-18-918-924)
 - [Week 19](#week-19-925-101)
+- [Week 20](#week-20-102-108)
 
 
 # Week 11 7/31-8/6
@@ -290,4 +291,10 @@ To do tomorrow:
 - 9/29 7:52 am 1.25 hr checking units of intensity, and overhauling cmakelists
 - 9/30 9:03 am .25 hr readjusting g4 brems detector
 - 9/30 10:23 am 1.5 hr creating more data with the new setup
-- 9/30 7:35 pm 3 hrs writing the g4-brems essay, then messing with g4-brems. I tried filtering the particles and saving only the gammas or only the electrons. It turns out that I think that energy graph I was seeing was mostly electrons. But when I did only the gammas, it looked like characteristic x-rays. In other words, only very specific energies were shown. It was super interesting, it looked like a quantum effect was going on. Then I tried to impliment where the program creates both graphs at once, and it didn't quite work. 
+- 9/30 7:35 pm 3 hrs writing the g4-brems essay, then messing with g4-brems. I tried filtering the particles and saving only the gammas or only the electrons. It turns out that I think that energy graph I was seeing was mostly electrons. But when I did only the gammas, it looked like characteristic x-rays. In other words, only very specific energies were shown. It was super interesting, it looked like a quantum effect was going on. Then I tried to impliment where the program creates both graphs at once, and it didn't quite work.
+
+
+# Week 20 10/2-10/8
+- [ ] Make the detector catch ALL the bremsstrahlung
+- [ ] Filter the particles by type
+- [ ] Get some energy distributions
