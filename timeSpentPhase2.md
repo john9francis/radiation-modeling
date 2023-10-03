@@ -298,3 +298,5 @@ To do tomorrow:
 - [ ] Make the detector catch ALL the bremsstrahlung
 - [ ] Filter the particles by type
 - [ ] Get some energy distributions
+
+- 10/3 1:44 pm working on a new detector that catches ALL the bremsstrahlung
