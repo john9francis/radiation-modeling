@@ -300,6 +300,7 @@ To do tomorrow:
 - [x] Get some energy distributions
 - [ ] Get an accurate photon energy distribution
 - [ ] Test my calorimeter detector
+- [ ] Re-impliment hits into g4-brems! so that each photon will create it's own hit. (this is gonna be hard...)
 
 - 10/3 1:44 pm 2.5 hrs working on a new detector that catches ALL the bremsstrahlung. Also testing out different physics lists and running simulations to compare. Also made sure that each one is relativistic, and found out that yes they are. Next step is to run simulations filtering out particles like only displaying the electrons or only the photons.
 - 10/4 7:05 pm 2.5 hrs testing the following simulations: em_Standard with all particles, only electrons, only photons, and only positrons. Got some graphs of all those interactions from 4-9 MeV.
