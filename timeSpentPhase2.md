@@ -301,10 +301,11 @@ To do tomorrow:
 - [ ] Get an accurate photon energy distribution
 - [ ] Test my calorimeter detector
 - [ ] Re-impliment hits into g4-brems! so that each photon will create it's own hit. (this is gonna be hard...)
-- [ ] Study physics lists, and look into creating my own or getting a high-accuracy bremsstrahlung one
+- [x] Study physics lists, and look into creating my own or getting a high-accuracy bremsstrahlung one
+- [ ] Impliment my own version of G4eBremsstrahlung that only uses the RelModel.
 
 - 10/3 1:44 pm 2.5 hrs working on a new detector that catches ALL the bremsstrahlung. Also testing out different physics lists and running simulations to compare. Also made sure that each one is relativistic, and found out that yes they are. Next step is to run simulations filtering out particles like only displaying the electrons or only the photons.
 - 10/4 7:05 pm 2.5 hrs testing the following simulations: em_Standard with all particles, only electrons, only photons, and only positrons. Got some graphs of all those interactions from 4-9 MeV.
 - 10/5 2:00 pm .75 hrs discussing with Br. Kelley about my data, and making plans going forward how to debug.
 - 10/5 11:37 pm 1 hr testing the different physics lists with filtering out everything except gammas. UPDATE: I need to figure out a much more accurate physics list with more bins for bremsstrahlung.
-- 10/6 10:32 pm learning about the nitty gritty of how physics lists work in Geant4
+- 10/6 10:32 pm 2 hrs learning about the nitty gritty of how physics lists work in Geant4
