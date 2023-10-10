@@ -20,6 +20,7 @@ started: 7/30/2023
 - [Week 18](#week-18-918-924)
 - [Week 19](#week-19-925-101)
 - [Week 20](#week-20-102-108)
+- [Week 21](#week-21-109-1015)
 
 
 # Week 11 7/31-8/6
@@ -309,4 +310,9 @@ To do tomorrow:
 - 10/5 2:00 pm .75 hrs discussing with Br. Kelley about my data, and making plans going forward how to debug.
 - 10/5 11:37 pm 1 hr testing the different physics lists with filtering out everything except gammas. UPDATE: I need to figure out a much more accurate physics list with more bins for bremsstrahlung.
 - 10/6 10:32 pm 2 hrs learning about the nitty gritty of how physics lists work in Geant4
-- 10/7 9:09 pm 3 hrs making a test calorimeter geant4 project. UPDATE: Running into an issue where it can't find the particle in the particle table, so it's trying to give the gun a nullptr. 
+- 10/7 9:09 pm 3 hrs making a test calorimeter geant4 project. UPDATE: Running into an issue where it can't find the particle in the particle table, so it's trying to give the gun a nullptr.
+
+# Week 21 10/9-10/15
+- [ ] Test G4-Brems in docker
+
+- 10/9 10:00 am .25 hr learning about x-servers and geant4
