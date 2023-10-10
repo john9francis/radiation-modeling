@@ -316,4 +316,4 @@ To do tomorrow:
 - [ ] Test G4-Brems in docker
 
 - 10/9 10:00 am .25 hr learning about x-servers and geant4
-- 10/10 9:09 am testing g4-brems in docker
+- 10/10 9:09 am 1.75 hr testing g4-brems in docker and working on TC. Update: Got TC working and created an automated script to build, which is a game changer. Next step is getting TC done to make sure the calorimeter works fine.
