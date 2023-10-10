@@ -316,3 +316,4 @@ To do tomorrow:
 - [ ] Test G4-Brems in docker
 
 - 10/9 10:00 am .25 hr learning about x-servers and geant4
+- 10/9 8:16 pm testing g4-brems in docker
