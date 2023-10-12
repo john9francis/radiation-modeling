@@ -33,7 +33,7 @@ FROM geant4/geant4
 
 Now, if we open our directory inside this container, we will have Geant4 all linked up and ready to go. 
 
-## How to open a directory inside of a container VSCODE
+## How to open a directory inside of a container VSCode
 To open a directory inside a docker container in VSCode, we can do the following:
 1. Download the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension for VSCode
 2. Make sure docker desktop is running in the background
@@ -75,7 +75,7 @@ Let's get our simple dockerfile attached,
 ```
 FROM geant4/geant4
 ```
-And open this project in our docker container by following the steps above.
+And open this project in our docker container by following the steps [above](#How-to-open-a-directory-inside-of-a-container-VSCODE).
 
 
 ```
