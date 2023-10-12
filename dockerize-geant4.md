@@ -107,7 +107,19 @@ Aborted
 ```
 This error is unfortunately because the official Geant4 docker image does not contain the Geant4 [datasets](https://geant4.web.cern.ch/download/). So if we want this project to work, we are going to need to get the Geant4 datasets in our docker image.*
 
-\* We can add the datasets to our docker image. For now, we are going to put them in the same image, and it will just take a bit longer to build. However, by the [end](#docker-compose) of this tutorial, we will split them back up into separate images so we get the benefit of good performance and lightweight containers. 
+\* Here we are going to add the datasets to our docker image. For now, we are going to put them in the same image, and it will just take a bit longer to build. However, by the [end](#docker-compose) of this tutorial, we will split them back up into separate images so we get the benefit of good performance and lightweight containers. 
+
+So to get the Geant4 installation along with the datasets into our image, we are going to utilize a tool that someone created for us. I have found this "geant4-runtime" docker image to be a useful one to use:
+```
+FROM koichimurakamik6/geant4-runtime
+```
+Personally, mine didn't quite work because there was one variable messed up. But that was fixed by adding this line:
+```
+FROM koichimurakamik6/geant4-runtime
+
+# setting this variable that geant4 can't find
+ENV LD_LIBRARY_PATH=/opt/geant4/lib:$LD_LIBRARY_PATH
+```
 
 # Visualization
 
