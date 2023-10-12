@@ -320,4 +320,4 @@ To do tomorrow:
 - 10/9 10:00 am .25 hr learning about x-servers and geant4
 - 10/10 9:09 am 2 hr testing g4-brems in docker and working on TC. Update: Got TC working and created an automated script to build, which is a game changer. Next step is getting TC done to make sure the calorimeter works fine.
 - 10/11 9:02 am .75 hr consulting the geant4 forum about my eBremsstrahlung issue. Created an issue for it.
-- 10/11 8:41 pm Starting tutorial for how to dockerize geant4, and researching more into G4eBremsstrahlung
+- 10/11 8:41 pm 1 hr Researched bremsstrahlung and got some dope resources
