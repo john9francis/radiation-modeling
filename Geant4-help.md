@@ -7,6 +7,7 @@
 - [Installing Geant4 with Qt visualization](g4-install-instructions-qt.md)
 - [Installing Geant4 on Linux](g4-install-instructions-linux.md)
 - [Info about Geant4 built-in examples](Geant4-examples-notes.md)
+- [Using Geant4 with docker](dockerize-geant4.md)
 
 ## Helpful documentation:
 - [Geant4 guide for application developers](https://geant4-userdoc.web.cern.ch/UsersGuides/ForApplicationDeveloper/html/index.html)
