@@ -30,6 +30,17 @@ Let's create a dockerfile in our geant4 project, and add the following line in i
 FROM geant4/geant4
 ```
 
+Now, if we open our directory inside this container, we will have Geant4 all linked up and ready to go. 
+
+To open a directory inside a docker container in VSCode, we can do the following:\
+1. Download the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension for VSCode
+2. Make sure docker desktop is running in the background
+3. Open our Geant4 project directory in VSCode
+4. Click on the green arrows button in the bottom left hand corner:
+
+![Picture of the green arrows button in VSCode]()
+
+
 # Datasets
 
 # Visualization
