@@ -7,6 +7,7 @@
 Contents:
 - [Intro](#intro)
 - [Basic Geant4 environment](#basic-geant4-environment)
+- [Open a directory inside a container in VSCode](#How-to-open-a-directory-inside-of-a-container-VSCODE)
 - [Datasets](#datasets)
 - [Visualization](#visualization)
 - [Docker compose](#docker-compose)
@@ -32,7 +33,8 @@ FROM geant4/geant4
 
 Now, if we open our directory inside this container, we will have Geant4 all linked up and ready to go. 
 
-To open a directory inside a docker container in VSCode, we can do the following:\
+## How to open a directory inside of a container VSCODE
+To open a directory inside a docker container in VSCode, we can do the following:
 1. Download the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension for VSCode
 2. Make sure docker desktop is running in the background
 3. Open our Geant4 project directory in VSCode
@@ -64,11 +66,33 @@ Now, we should see "Hello World" displayed on the console.
 ```bash
 Hello World
 ```
-This means that the project is all successfully compiled, configured, and built with Geant4. 
-
+This means that the project is all successfully compiled, configured, and built with Geant4. However, we aren't done yet. Notice that if you try just running `./Hello_World` without the second argument, `test.mac`, you get an error. This is because the Geant4 gui can't quite work with docker right now. For more info, see [Visualization](#visualization). Furthermore, if we have a Geant4 project with any sort of physics modeling, we likely use some datasets. Well, the Geant4 docker image doesn't include these datasets, which we will see in the next section.
 
 # Datasets
+Let's try running an actual Geant4 physics simulation in docker now. We will use my own project, [Test Calorimeter](https://github.com/john9francis/G4-Test-Calorimeter).
 
+Let's get our simple dockerfile attached, 
+```
+FROM geant4/geant4
+```
+And open this project in our docker container by following the steps above.
+
+
+```
+-------- EEEE ------- G4Exception-START -------- EEEE -------
+*** G4Exception : PART70000
+      issued by : G4NuclideTable
+G4ENSDFSTATEDATA environment variable must be set
+*** Fatal Exception *** core dump ***
+ **** Track information is not available at this moment
+ **** Step information is not available at this moment
+
+-------- EEEE -------- G4Exception-END --------- EEEE -------
+
+
+*** G4Exception: Aborting execution ***
+Aborted
+```
 # Visualization
 
 # Docker compose
