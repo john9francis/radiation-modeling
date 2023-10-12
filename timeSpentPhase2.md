@@ -322,3 +322,4 @@ To do tomorrow:
 - 10/11 9:02 am .75 hr consulting the geant4 forum about my eBremsstrahlung issue. Created an issue for it.
 - 10/11 8:41 pm 1 hr Researched bremsstrahlung and got some dope resources
 - 10/11 11:15 pm 1.25 hrs working on instructions to dockerize geant4 UPDATE: I got as far as I have personally tried... Next step will be experimenting with visualization as well as root data analysis.
+- 10/12 9:30 am researching more about physics lists to see if I can create my own
