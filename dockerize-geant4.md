@@ -77,6 +77,18 @@ FROM geant4/geant4
 ```
 And open this project in our docker container by following the steps [above](#How-to-open-a-directory-inside-of-a-container-VSCODE).
 
+We build our project with cmake:
+```
+mkdir docker_build
+cd docker_build
+cmake ..
+make
+```
+Now, let's run a simulation of Test Calorimeter by running this command in our bash:
+```
+./Test_Calorimeter init.mac
+```
+We should see the following error:
 
 ```
 -------- EEEE ------- G4Exception-START -------- EEEE -------
@@ -93,6 +105,10 @@ G4ENSDFSTATEDATA environment variable must be set
 *** G4Exception: Aborting execution ***
 Aborted
 ```
+This error is unfortunately because the official Geant4 docker image does not contain the Geant4 [datasets]. So if we want this project to work, we are going to need to get the Geant4 datasets in our docker image.*
+
+\* We can add the datasets to our docker image. For now, we are going to put them in the same image, and it will just take a bit longer to build. However, by the [end](#docker-compose) of this tutorial, we will split them back up into separate images so we get the benefit of good performance and lightweight containers. 
+
 # Visualization
 
 # Docker compose
