@@ -321,4 +321,4 @@ To do tomorrow:
 - 10/10 9:09 am 2 hr testing g4-brems in docker and working on TC. Update: Got TC working and created an automated script to build, which is a game changer. Next step is getting TC done to make sure the calorimeter works fine.
 - 10/11 9:02 am .75 hr consulting the geant4 forum about my eBremsstrahlung issue. Created an issue for it.
 - 10/11 8:41 pm 1 hr Researched bremsstrahlung and got some dope resources
-- 10/11 11:15 pm working on instructions to dockerize geant4
+- 10/11 11:15 pm 1.25 hrs working on instructions to dockerize geant4 UPDATE: I got as far as I have personally tried... Next step will be experimenting with visualization as well as root data analysis.
