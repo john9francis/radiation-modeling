@@ -10,6 +10,7 @@ Contents:
 - [Open a directory inside a container in VSCode](#How-to-open-a-directory-inside-of-a-container-VSCODE)
 - [Datasets](#datasets)
 - [Visualization](#visualization)
+- [Data Analysis](#data-analysis)
 - [Docker compose](#docker-compose)
 
 # Intro
