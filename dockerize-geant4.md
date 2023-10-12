@@ -120,7 +120,17 @@ FROM koichimurakamik6/geant4-runtime
 # setting this variable that geant4 can't find
 ENV LD_LIBRARY_PATH=/opt/geant4/lib:$LD_LIBRARY_PATH
 ```
+Now let's try rebuilding our project. This can easily be done by deleting the `docker_build` directory, reopening our directory in the docker container, and repeating the steps we did before:
+```
+mkdir docker_build
+cd docker_build
+cmake ..
+make
+```
+Then, when we run `./Test_Calorimeter init.mac`, we see evidence that Geant4 is set up correctly. We see outputs of the physics list initializing and everything. So with this setup, we can run physics simulations that use the Geant4 datasets. 
 
 # Visualization
+
+# Data Analysis
 
 # Docker compose
