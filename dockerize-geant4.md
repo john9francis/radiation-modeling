@@ -44,6 +44,28 @@ To open a directory inside a docker container in VSCode, we can do the following
 
 ![Picture of menu button, "Reopen in container"](reopen_in_container.png)
 
+6. This should automatically create a docker image using the dockerfile we have created, and then start a docker container and open the current directory in this container.
+
+Congratulations, you now have the Geant4 environment activated in your directory. 
+
+To test for this particular project, we can open a terminal in our VSCode window. It should have bash automatically activated. We can then compile the project by running the following commands:
+```bash
+mkdir docker_build
+cd docker_build
+cmake ..
+make
+```
+
+Now we have our geant4 project compiled. To do a test run, we run this command:
+```bash
+./Hello_World test.mac
+```
+Now, we should see "Hello World" displayed on the console.
+```bash
+Hello World
+```
+This means that the project is all successfully compiled, configured, and built with Geant4. 
+
 
 # Datasets
 
