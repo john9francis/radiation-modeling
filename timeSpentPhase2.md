@@ -313,8 +313,11 @@ To do tomorrow:
 - 10/7 9:09 pm 3 hrs making a test calorimeter geant4 project. UPDATE: Running into an issue where it can't find the particle in the particle table, so it's trying to give the gun a nullptr.
 
 # Week 21 10/9-10/15
-- [ ] Test G4-Brems in docker
+- [x] Test G4-Brems in docker
+- [ ] Figure out that weird thing with the datasets
+- [ ] dockerize g4 brems?
 
 - 10/9 10:00 am .25 hr learning about x-servers and geant4
 - 10/10 9:09 am 2 hr testing g4-brems in docker and working on TC. Update: Got TC working and created an automated script to build, which is a game changer. Next step is getting TC done to make sure the calorimeter works fine.
 - 10/11 9:02 am .75 hr consulting the geant4 forum about my eBremsstrahlung issue. Created an issue for it.
+- 10/11 8:41 pm Starting tutorial for how to dockerize geant4, and researching more into G4eBremsstrahlung
