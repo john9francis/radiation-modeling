@@ -25,7 +25,7 @@ To use Geant4 in docker, VSCode makes it super simple. Let's say we have a simpl
 
 Let's create a dockerfile in our geant4 project, and add the following line in it:
 
-```docker
+```Docker
 # dockerfile
 FROM geant4/geant4
 ```
