@@ -38,7 +38,7 @@ To open a directory inside a docker container in VSCode, we can do the following
 3. Open our Geant4 project directory in VSCode
 4. Click on the green arrows button in the bottom left hand corner:
 
-![Picture of the green arrows button in VSCode]()
+![Picture of the green arrows button in VSCode](green_arrows.png)
 
 
 # Datasets
