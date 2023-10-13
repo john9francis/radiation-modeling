@@ -314,7 +314,8 @@ To do tomorrow:
 
 # Week 21 10/9-10/15
 - [x] Test G4-Brems in docker
-- [ ] Figure out that weird thing with the datasets
+- [x] Figure out that weird thing with the datasets: It's not the datasets issue, in fact they do the best job in modeling.
+- [ ] Finish TestCalorimeter
 - [ ] dockerize g4 brems?
 
 - 10/9 10:00 am .25 hr learning about x-servers and geant4
@@ -323,4 +324,4 @@ To do tomorrow:
 - 10/11 8:41 pm 1 hr Researched bremsstrahlung and got some dope resources
 - 10/11 11:15 pm 1.25 hrs working on instructions to dockerize geant4 UPDATE: I got as far as I have personally tried... Next step will be experimenting with visualization as well as root data analysis.
 - 10/12 9:30 am 1.25 hr researching more about physics lists to see if I can create my own. UPDATE: I found out that in EmTest18 example I can create a good looking bremsstrahlung graph... So I just need to modify G4-Brems to be similar to this one. 
-- 10/13 6:57 am looking at how testEm18 works
+- 10/13 6:57 am 1.5 hr looking at how testEm18 works. Update: it was a really good study session of TestEM18. I learned a lot, and next on my list is to finish up TestCalorimeter with a sensitive detector. 
