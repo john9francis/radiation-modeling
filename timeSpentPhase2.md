@@ -323,3 +323,4 @@ To do tomorrow:
 - 10/11 8:41 pm 1 hr Researched bremsstrahlung and got some dope resources
 - 10/11 11:15 pm 1.25 hrs working on instructions to dockerize geant4 UPDATE: I got as far as I have personally tried... Next step will be experimenting with visualization as well as root data analysis.
 - 10/12 9:30 am 1.25 hr researching more about physics lists to see if I can create my own. UPDATE: I found out that in EmTest18 example I can create a good looking bremsstrahlung graph... So I just need to modify G4-Brems to be similar to this one. 
+- 10/13 6:57 am looking at how testEm18 works
