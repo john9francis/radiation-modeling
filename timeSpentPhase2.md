@@ -328,7 +328,7 @@ To do tomorrow:
 - 10/13 6:57 am 1.5 hr looking at how testEm18 works. Update: it was a really good study session of TestEM18. I learned a lot, and next on my list is to finish up TestCalorimeter with a sensitive detector.
 - 10/13 7:37 pm 2.25 hrs working on Test Calorimeter. Update: I got the energy to print to the console!
 
-# Week 21 10/16-10/22
+# Week 22 10/16-10/22
 - [ ] Finish TC v010 and make video
 - [ ] Track secondary particles in G4-Brems like TestEM 18
 
