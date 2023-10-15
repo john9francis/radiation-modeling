@@ -315,7 +315,7 @@ To do tomorrow:
 # Week 21 10/9-10/15
 - [x] Test G4-Brems in docker
 - [x] Figure out that weird thing with the datasets: It's not the datasets issue, in fact they do the best job in modeling.
-- [ ] Finish TestCalorimeter
+- [x] Finish TestCalorimeter
 - [ ] dockerize g4 brems?
 
 - 10/9 10:00 am .25 hr learning about x-servers and geant4
