@@ -331,4 +331,4 @@ To do tomorrow:
 # Week 22 10/16-10/22
 - [ ] Finish TC v010 and make video
 - [ ] Track secondary particles in G4-Brems like TestEM 18
-
+- [ ] Get visualization working in docker 
