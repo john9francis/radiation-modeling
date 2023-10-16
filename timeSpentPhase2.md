@@ -332,3 +332,4 @@ To do tomorrow:
 - [ ] Finish TC v010 and make video
 - [ ] Track secondary particles in G4-Brems like TestEM 18
 - [ ] Get visualization working in docker 
+- [ ] Put out first tutorial for dockerized geant4
