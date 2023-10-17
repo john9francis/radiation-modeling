@@ -333,3 +333,5 @@ To do tomorrow:
 - [ ] Track secondary particles in G4-Brems like TestEM 18
 - [ ] Get visualization working in docker 
 - [ ] Put out first tutorial for dockerized geant4
+
+- 10/16 10:20 pm Working on Docker geant4 instructions
