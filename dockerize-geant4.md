@@ -79,6 +79,11 @@ docker run my-image:0.1.0
 ```
 This opens a container, creating an environment that we configured in `my-image`.
 
+It's also helpful to use the `-it` option to make our app interactive:
+```
+docker run =it my-image:0.1.0
+```
+
 # Basic Geant4 environment
 
 First, we can run Geant4 in a container without needing to install it locally. If you have seen my [Geant4 installation tutorial](g4-install-instructions-windows.md), you can already see the benefit of this. We're talking about minutes of setup instead of hours, not to mention saved memory on your computer. 
