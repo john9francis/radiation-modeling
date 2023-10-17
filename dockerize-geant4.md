@@ -24,7 +24,7 @@ In this article, I will be going over how I dockerize my personal Geant4 applica
 
 If you're brand new to docker, here's a crash course to get you started.
 
-Docker is an environment that runs lightweight virtual machines, basically mini operating systems with files and dependencies. For example, if you wanted to run a python script, you would first need to install python. Then if you want to install any libraries, let's say pandas or matplotlib, you would have to install those as well. Someone else using your program would need to install the same things if they wanted it to work on their computer. In docker, we can install and configure python, pandas, and matplotlib, as well as your program, that way the person simply opens the docker environment, and your program works. 
+Docker is an environment that runs lightweight "containers", basically mini operating systems with files and dependencies. For example, if you wanted to run a python script, you would first need to install python. Then if you want to install any libraries, let's say pandas or matplotlib, you would have to install those as well. Someone else using your program would need to install the same things if they wanted it to work on their computer. In docker, we can install and configure python, pandas, and matplotlib, as well as your program, that way the person simply opens the docker environment, and your program works. 
 
 For docker to work, we need three things: the docker daemon, a docker image, and a docker container. 
 
@@ -200,3 +200,6 @@ Then, when we run `./Test_Calorimeter init.mac`, we see evidence that Geant4 is 
 # Data Analysis
 
 # Docker compose
+
+# Useful websites:
+- [Docker vs VMs](https://cloudacademy.com/blog/docker-vs-virtual-machines-differences-you-should-know/)
