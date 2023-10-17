@@ -203,3 +203,4 @@ Then, when we run `./Test_Calorimeter init.mac`, we see evidence that Geant4 is 
 
 # Useful websites:
 - [Docker vs VMs](https://cloudacademy.com/blog/docker-vs-virtual-machines-differences-you-should-know/)
+- [VSCode download](https://code.visualstudio.com/)
