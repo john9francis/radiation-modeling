@@ -334,4 +334,4 @@ To do tomorrow:
 - [ ] Get visualization working in docker 
 - [ ] Put out first tutorial for dockerized geant4
 
-- 10/16 10:20 pm Working on Docker geant4 instructions
+- 10/16 10:20 pm 1 hr Working on Docker geant4 instructions
