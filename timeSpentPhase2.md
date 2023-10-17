@@ -335,3 +335,4 @@ To do tomorrow:
 - [ ] Put out first tutorial for dockerized geant4
 
 - 10/16 10:20 pm 1 hr Working on Docker geant4 instructions
+- 10/17 5:38 pm making the g4docker video recording
