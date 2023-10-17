@@ -6,6 +6,7 @@
 
 Contents:
 - [Intro](#intro)
+- [Docker beginners tutorial](#docker-beginners-tutorial)
 - [Basic Geant4 environment](#basic-geant4-environment)
 - [Open a directory inside a container in VSCode](#How-to-open-a-directory-inside-of-a-container-VSCODE)
 - [Datasets](#datasets)
@@ -18,6 +19,65 @@ Contents:
 Docker is an incredibly useful tool for cross-platform application development. It can be used to develop using Geant4 without installing Geant4 locally on your machine. It can also be used to standardize your Geant4 application so that anyone with docker can run it on their machine. These two benefits can greatly improve Geant4 application development and distribution.
 
 In this article, I will be going over how I dockerize my personal Geant4 applications. I am coming from a Windows 11 environment, but the principles should apply to any operating system. 
+
+# Docker beginners tutorial
+
+If you're brand new to docker, here's a crash course to get you started.
+
+Docker is an environment that runs lightweight virtual machines, basically mini operating systems with files and dependencies. For example, if you wanted to run a python script, you would first need to install python. Then if you want to install any libraries, let's say pandas or matplotlib, you would have to install those as well. Someone else using your program would need to install the same things if they wanted it to work on their computer. In docker, we can install and configure python, pandas, and matplotlib, as well as your program, that way the person simply opens the docker environment, and your program works. 
+
+For docker to work, we need three things: the docker daemon, a docker image, and a docker container. 
+
+**Daemon**
+The docker daemon is the runtime for docker. In windows and mac, it would be in the form of tha application "docker desktop." It needs to be running in order to build a docker image, run a docker container, or do anything else with docker.
+
+**Image**
+A docker image is the instructions for the environment. To create a docker image, we create a file called, "dockerfile." then when we run the "build" command, our dockerfile gets "compiled" into a docker image. When we are ready to run our environment, we need to give it our docker image so it knows what to do. For our python example, the docker image would say to download python, download pandas, download matplotlib, and put them all in the correct directories so that the program can find them when it's time to run. 
+
+Docker images can be built off of eachother. For example, to download python in our docker image we might need some instructions in our dockerfile similar to the following:
+```
+# Dockerfile
+
+# Use a base image (e.g., Debian) as a starting point
+FROM debian:bullseye
+
+# Update the package repository and install necessary tools
+RUN apt-get update -y && apt-get install -y \
+    wget \
+    build-essential
+
+# Download and install Python
+RUN wget https://www.python.org/ftp/python/3.8.12/Python-3.8.12.tgz
+RUN tar xvf Python-3.8.12.tgz
+RUN cd Python-3.8.12 && ./configure && make && make install
+```
+In the first line we see the `FROM` keyword. This is basically building off of a previously created image. In this case it is a linux environment. Then, we proceed to download python by installing it from python.org. 
+
+An alternative way would be to build off of python's official docker image. We can replace the entire previous dockerfile by this one:
+```
+FROM python:latest
+```
+This is really nice, because instead of having to build our entire environment from scratch, we can build off of work that's already been done. 
+
+**Container**
+Once we have a docker image built, we want to run it. To do so, we create a docker container. A container is a tiny virtual machine that runs a docker image. So we run a container, specifying our image, and we have our isolated environment running. 
+
+In our python example, it creates a miniature linux operating system and installs python. Now if we want to run our python program, we make sure we are inside the docker container and we are good to go.
+
+**Useful docker commands**
+To build a docker image, we navigate to the directory of our Dockerfile, and run:
+```
+docker build .
+```
+Another common option is to give our docker image a name. This has many benefits, one of which is we can share our dockerfile and publish it to docker hub. That way anyone else with docker can use our docker image and run our application. To name or "tag" our image, we run:
+```
+docker build -t my-image:0.1.0 .
+```
+To run a docker container, we run this command: 
+```
+docker run my-image:0.1.0
+```
+This opens a container, creating an environment that we configured in `my-image`.
 
 # Basic Geant4 environment
 
