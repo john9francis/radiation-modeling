@@ -336,3 +336,4 @@ To do tomorrow:
 
 - 10/16 10:20 pm 1 hr Working on Docker geant4 instructions
 - 10/17 5:38 pm 1.75 hr making the g4docker video recording
+- 10/17 7:45 pm editing g4docker video
