@@ -3,6 +3,7 @@
 - Author: John Francis
 - Date: 10/11/2023
 - Development environment: Windows 11, docker 24.0.5, VSCode
+- [Video Version of this tutorial](https://youtu.be/JvbS0WVTP9g)
 
 Contents:
 - [Intro](#intro)
