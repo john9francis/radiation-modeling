@@ -335,5 +335,5 @@ To do tomorrow:
 - [ ] Put out first tutorial for dockerized geant4
 
 - 10/16 10:20 pm 1 hr Working on Docker geant4 instructions
-- 10/17 5:38 pm 1.75 hr making the g4docker video recording
-- 10/17 7:45 pm editing g4docker video
+- 10/17 5:38 pm 1.5 hr making the g4docker video recording
+- 10/17 7:45 pm 3 hrs editing and publishing g4docker video
