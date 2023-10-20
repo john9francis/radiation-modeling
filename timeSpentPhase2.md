@@ -329,7 +329,8 @@ To do tomorrow:
 - 10/13 7:37 pm 2.25 hrs working on Test Calorimeter. Update: I got the energy to print to the console!
 
 # Week 22 10/16-10/22
-- [ ] Finish TC v010 and make video
+- [x] Finish TC v010
+- [ ] make TC video
 - [ ] Track secondary particles in G4-Brems like TestEM 18
 - [ ] Get visualization working in docker 
 - [x] Put out first tutorial for dockerized geant4
@@ -338,4 +339,4 @@ To do tomorrow:
 - 10/17 5:38 pm 1.5 hr making the g4docker video recording
 - 10/17 7:45 pm 3 hrs editing and publishing g4docker video
 - 10/18 8:31 pm .5 hrs starting to track the secondary particles in g4 brems. UPDATE: got what I wanted from testem18, basically the track object has the particle's kinetic energy!
-- 10/19 10:50 pm logging total kinetic energy in TC, and working on G4-Brems
+- 10/19 10:50 pm 2.5 hrs logging total kinetic energy in TC. UPDATE: I polished up TC pretty well. it's ready for the first release and detects particles perfectly. Next step is to apply this knowledge to G4-Brems, and also figure out analysis and better visualization
