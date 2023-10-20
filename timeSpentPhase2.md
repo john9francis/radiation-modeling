@@ -338,3 +338,4 @@ To do tomorrow:
 - 10/17 5:38 pm 1.5 hr making the g4docker video recording
 - 10/17 7:45 pm 3 hrs editing and publishing g4docker video
 - 10/18 8:31 pm .5 hrs starting to track the secondary particles in g4 brems. UPDATE: got what I wanted from testem18, basically the track object has the particle's kinetic energy!
+- 10/19 10:50 pm logging total kinetic energy in TC, and working on G4-Brems
