@@ -341,3 +341,4 @@ To do tomorrow:
 - 10/18 8:31 pm .5 hrs starting to track the secondary particles in g4 brems. UPDATE: got what I wanted from testem18, basically the track object has the particle's kinetic energy!
 - 10/19 10:50 pm 2.5 hrs logging total kinetic energy in TC. UPDATE: I polished up TC pretty well. it's ready for the first release and detects particles perfectly. Next step is to apply this knowledge to G4-Brems, and also figure out analysis and better visualization
 - 10/20 10:23 .75 hr am working on G4-Brems and displaying with HepRep.
+- 10/20 2:00 .25 hr trying to get g4Brems detecting only the first secondary to be produced.
