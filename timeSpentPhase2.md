@@ -332,7 +332,7 @@ To do tomorrow:
 - [x] Finish TC v010
 - [ ] make TC video
 - [ ] Track secondary particles in G4-Brems like TestEM 18
-- [ ] Get visualization working in docker 
+- [x] Get visualization working in docker: I figured out HepRep, but it's still a little buggy 
 - [x] Put out first tutorial for dockerized geant4
 
 - 10/16 10:20 pm 1 hr Working on Docker geant4 instructions
@@ -342,3 +342,4 @@ To do tomorrow:
 - 10/19 10:50 pm 2.5 hrs logging total kinetic energy in TC. UPDATE: I polished up TC pretty well. it's ready for the first release and detects particles perfectly. Next step is to apply this knowledge to G4-Brems, and also figure out analysis and better visualization
 - 10/20 10:23 .75 hr am working on G4-Brems and displaying with HepRep.
 - 10/20 2:00 .25 hr trying to get g4Brems detecting only the first secondary to be produced.
+- 10/21 5:00 .75 hr trying to track only the first secondary in g4brems
