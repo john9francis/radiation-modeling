@@ -343,3 +343,4 @@ To do tomorrow:
 - 10/20 10:23 .75 hr am working on G4-Brems and displaying with HepRep.
 - 10/20 2:00 .25 hr trying to get g4Brems detecting only the first secondary to be produced.
 - 10/21 5:00 .75 hr trying to track only the first secondary in g4brems
+- 10/21 11:03 pm working on g4-brems trying to get those secondaries tracked
