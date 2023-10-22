@@ -344,3 +344,12 @@ To do tomorrow:
 - 10/20 2:00 .25 hr trying to get g4Brems detecting only the first secondary to be produced.
 - 10/21 5:00 .75 hr trying to track only the first secondary in g4brems
 - 10/21 11:03 pm working on g4-brems trying to get those secondaries tracked
+
+# Week 23 10/23-10/29
+- [ ] Make TC video
+- [ ] Prove that G4-Brems is accurate using analytical data
+- [ ] Clean up G4-Brems code
+- [ ] Create documentation for G4-Brems
+- [ ] Release G4-Brems on GitHub
+- [ ] Release G4-Brems on Docker
+- [ ] Start on LinacBeam
