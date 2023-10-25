@@ -355,4 +355,4 @@ To do tomorrow:
 - [ ] Release G4-Brems on Docker
 - [ ] Start on LinacBeam
 
-- 10/24 7:37 pm cleaning up G4-Brems code
+- 10/24 7:37 pm 2 hrs cleaning up G4-Brems code
