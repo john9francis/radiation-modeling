@@ -356,3 +356,4 @@ To do tomorrow:
 - [ ] Start on LinacBeam
 
 - 10/24 7:37 pm 2 hrs cleaning up G4-Brems code
+- 10/25 8:30 pm making TC video
