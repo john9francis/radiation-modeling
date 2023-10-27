@@ -347,9 +347,9 @@ To do tomorrow:
 - 10/21 11:03 pm 1.25 hr working on g4-brems trying to get those secondaries tracked update: It works!!!
 
 # Week 23 10/23-10/29
-- [ ] Make TC video
+- [x] Make TC video
 - [ ] Prove that G4-Brems is accurate using analytical data
-- [ ] Clean up G4-Brems code
+- [x] Clean up G4-Brems code
 - [ ] Create documentation for G4-Brems
 - [ ] Release G4-Brems on GitHub
 - [ ] Release G4-Brems on Docker
@@ -359,4 +359,4 @@ To do tomorrow:
 - 10/25 8:30 pm 1 hr recording TC video
 - 10/26 6:29 pm 1.5 hr cleaning up g4-brems code and prepping release. UPDATE: Created a release, now just to make a video about it
 - 10/26 10:23 pm 1.5 hrs editing TC video
-- 10/27 10:06 am editing TC video and posting it
+- 10/27 10:06 am 1 hr finishing TC video
