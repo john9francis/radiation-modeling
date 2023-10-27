@@ -359,3 +359,4 @@ To do tomorrow:
 - 10/25 8:30 pm 1 hr recording TC video
 - 10/26 6:29 pm 1.5 hr cleaning up g4-brems code and prepping release. UPDATE: Created a release, now just to make a video about it
 - 10/26 10:23 pm 1.5 hrs editing TC video
+- 10/27 10:06 am editing TC video and posting it
