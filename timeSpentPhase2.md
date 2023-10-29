@@ -361,3 +361,4 @@ To do tomorrow:
 - 10/26 10:23 pm 1.5 hrs editing TC video
 - 10/27 10:06 am 1 hr finishing TC video
 - 10/28 8:45 am .75 hr posting TC video
+- 10/28 7:10 pm proving that g4-brems is accurate
