@@ -16,3 +16,4 @@ Goals:
 
 - 10/30 1:00 pm .25 hr running a test on G4-Brems, and emailing professors
 - 10/30 5:20 pm 1.25 hr planning phase 3 and looking at the geant4 claimed bremsstrahlung spectrum, trying to graph their analytical data.
+- 10/31 9:16 am looking at the g4-app video I started, and starting g4-linac beam.
