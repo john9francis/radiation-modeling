@@ -18,3 +18,4 @@ Goals:
 - 10/30 5:20 pm 1.25 hr planning phase 3 and looking at the geant4 claimed bremsstrahlung spectrum, trying to graph their analytical data.
 - 10/31 9:16 am .5 hrs looking at the g4-app video I started, and prepping for g4-medical-linac
 - 10/31 10:40 am 1.25 hrs recording the beginnings of g4-medical-linac
+- 10/31 3:00 pm prepping and talking to brother kelley about next steps, also messing with g4-brems more
