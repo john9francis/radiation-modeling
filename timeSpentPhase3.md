@@ -19,4 +19,4 @@ Goals:
 - 10/31 9:16 am .5 hr looking at the g4-app video I started, and prepping for g4-medical-linac
 - 10/31 10:40 am 1.25 hr recording the beginnings of g4-medical-linac
 - 10/31 3:00 pm 1.5 hr prepping and talking to brother kelley about next steps, also messing with g4-brems more
-- 11/2 4:50 pm working on g4 med linac and learning about geant4 with python
+- 11/2 4:50 pm 2.15 hr working on g4 med linac and learning about geant4 with python. UPDATE: I almost got g4 med linac going but there's a bug with the visualization
