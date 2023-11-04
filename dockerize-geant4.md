@@ -82,7 +82,7 @@ This opens a container, creating an environment that we configured in `my-image`
 
 It's also helpful to use the `-it` option to make our app interactive:
 ```
-docker run =it my-image:0.1.0
+docker run -it my-image:0.1.0
 ```
 
 # Basic Geant4 environment
