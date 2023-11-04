@@ -23,3 +23,4 @@ Goals:
 - 11/2 9:39 pm 2 hr trying to see if I can get geant4 with python. UPDATE: I'm almost done with the whole basic program in python
 - 11/4 9:59 am .5 hr working on g4 python, I can't get it to work, I think it might be an issue with the docker image. 
 - 11/4 1:01 pm 1.5 hr working on g4 python docker image
+- 11/4 3:45 pm pushing my first g4 python image to docker hub
