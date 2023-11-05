@@ -24,4 +24,4 @@ Goals:
 - 11/4 9:59 am .5 hr working on g4 python, I can't get it to work, I think it might be an issue with the docker image. 
 - 11/4 1:01 pm 1.5 hr working on g4 python docker image
 - 11/4 3:45 pm .75 hr pushing my first g4 python image to docker hub
-- 11/4 5:47 pm trying again to push my image to docker, and testing it
+- 11/4 5:47 pm 1 hr trying again to push my image to docker, and testing it
