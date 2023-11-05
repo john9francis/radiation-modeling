@@ -25,4 +25,4 @@ Goals:
 - 11/4 1:01 pm 1.5 hr working on g4 python docker image
 - 11/4 3:45 pm .75 hr pushing my first g4 python image to docker hub
 - 11/4 5:47 pm 1 hr trying again to push my image to docker, and testing it
-- 11/4 10:50 pm finishing up g4-brems
+- 11/4 10:50 pm 1 hr finishing up g4-brems. UPDATE: It's basically done for now, I got the absolute and relative energies being recorded.
