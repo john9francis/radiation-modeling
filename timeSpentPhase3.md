@@ -6,6 +6,7 @@ Goal:
 
 Contents
 - [Week 1](#week-1-1030-115)
+- [Week 2](#week-2-116-1112)
 
 # Week 1: 10/30-11/5
 Goals:
@@ -28,6 +29,6 @@ Goals:
 - 11/4 10:50 pm 1 hr finishing up g4-brems. UPDATE: It's basically done for now, I got the absolute and relative energies being recorded.
 
 
-week 2
+# Week 2: 11/6-11/12
 
-- 11/6 5:36 pm working on g4 med linac 
+- 11/6 5:36 pm .75 hr working on g4 med linac 
