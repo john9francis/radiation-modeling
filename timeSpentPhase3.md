@@ -12,7 +12,7 @@ Contents
 Goals:
 - [ ] Put out G4 Brems v060 vid
 - [ ] Prove the accuracy of G4-Brems using the claimed bremsstrahlung process in the g4 documentation, for the cross sections. Basically I need to analytically make the graph using mathematica or something
-- [ ] Make the g4-linac beam video
+- [x] Make the g4-linac beam video
 - [ ] Make documentation for g4-brems
 
 - 10/30 1:00 pm .25 hr running a test on G4-Brems, and emailing professors
@@ -30,5 +30,10 @@ Goals:
 
 
 # Week 2: 11/6-11/12
+Goals:
+- [ ] Put out G4 Brems vid and documentation
+- [ ] Get the basic functionality of med linac done
+- [ ] Put out first med linac video
 
 - 11/6 5:36 pm .75 hr working on g4 med linac. Note: I'm going to start where I left off on G4-Brems
+- 11/6 8:29 pm working on med linac
