@@ -26,3 +26,8 @@ Goals:
 - 11/4 3:45 pm .75 hr pushing my first g4 python image to docker hub
 - 11/4 5:47 pm 1 hr trying again to push my image to docker, and testing it
 - 11/4 10:50 pm 1 hr finishing up g4-brems. UPDATE: It's basically done for now, I got the absolute and relative energies being recorded.
+
+
+week 2
+
+- 11/6 5:36 pm working on g4 med linac 
