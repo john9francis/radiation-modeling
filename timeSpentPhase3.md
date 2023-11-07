@@ -31,4 +31,4 @@ Goals:
 
 # Week 2: 11/6-11/12
 
-- 11/6 5:36 pm .75 hr working on g4 med linac 
+- 11/6 5:36 pm .75 hr working on g4 med linac. Note: I'm going to start where I left off on G4-Brems
