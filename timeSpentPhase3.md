@@ -37,4 +37,4 @@ Goals:
 
 - 11/6 5:36 pm .75 hr working on g4 med linac. Note: I'm going to start where I left off on G4-Brems
 - 11/6 8:29 pm 1 hr working on med linac
-- 11/8 12:35 pm 10 min setting up first detector in med linac
+- 11/8 12:35 pm setting up first detector in med linac
