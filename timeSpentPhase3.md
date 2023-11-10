@@ -39,4 +39,4 @@ Goals:
 - 11/6 8:29 pm 1 hr working on med linac
 - 11/8 12:35 pm .25 hr setting up first detector in med linac
 - 11/10 11:05 am 1 hr working on the g4-brems release UPDATE: Finished release 0.6.1, time to make the video
-- 11/10 12:05 pm working on med linac
+- 11/10 12:05 pm .25 hr working on med linac
