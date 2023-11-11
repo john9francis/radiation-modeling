@@ -41,3 +41,4 @@ Goals:
 - 11/10 11:05 am 1 hr working on the g4-brems release UPDATE: Finished release 0.6.1, time to make the video
 - 11/10 12:05 pm .25 hr working on med linac
 - 11/10 8:35 pm 1 hr working on med linac. UPDATE: I got the gun all contained in one volume, now just to get the primarygeneratoraction to start shooting particles from there. Also I need to allow for rotation in the med linac head.
+- 11/10 10:44 pm getting the medical linac beam head movable
