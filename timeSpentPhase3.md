@@ -31,8 +31,9 @@ Goals:
 
 # Week 2: 11/6-11/12
 Goals:
-- [ ] Put out G4 Brems vid and documentation
-- [ ] Get the basic functionality of med linac done
+- [ ] Put out G4 Brems vid
+- [ ] G4Brems documentation
+- [x] Get the basic functionality of med linac done
 - [ ] Put out first med linac video
 
 - 11/6 5:36 pm .75 hr working on g4 med linac. Note: I'm going to start where I left off on G4-Brems
@@ -41,4 +42,4 @@ Goals:
 - 11/10 11:05 am 1 hr working on the g4-brems release UPDATE: Finished release 0.6.1, time to make the video
 - 11/10 12:05 pm .25 hr working on med linac
 - 11/10 8:35 pm 1 hr working on med linac. UPDATE: I got the gun all contained in one volume, now just to get the primarygeneratoraction to start shooting particles from there. Also I need to allow for rotation in the med linac head.
-- 11/10 10:44 pm getting the medical linac beam head movable
+- 11/10 10:44 pm 2 hrs getting the medical linac beam head movable. UPDATE: Now the head can move and rotate, and the beam moves and rotates accordingly. I also created the release notes for medical linac v0.1.0 and tomorrow I will make the video.
