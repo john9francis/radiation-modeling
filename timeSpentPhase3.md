@@ -47,4 +47,4 @@ Goals:
 - 11/11 12:25 pm 1 hr recording g4-brems video
 - 11/11 2:11 pm 1 hr recording med-linac video
 - 11/11 3:24 pm 1.75 hr editing g4 brems video
-- 11/11 5:35 pm Posting g4-brems video
+- 11/11 5:35 pm 1 Posting g4-brems video
