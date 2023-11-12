@@ -31,7 +31,7 @@ Goals:
 
 # Week 2: 11/6-11/12
 Goals:
-- [ ] Put out G4 Brems vid
+- [x] Put out G4 Brems vid
 - [ ] G4Brems documentation
 - [x] Get the basic functionality of med linac done
 - [x] record videos
