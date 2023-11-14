@@ -7,6 +7,7 @@ Goal:
 Contents
 - [Week 1](#week-1-1030-115)
 - [Week 2](#week-2-116-1112)
+- [Week 3](#week-3-1113-1119)
 
 # Week 1: 10/30-11/5
 Goals:
