@@ -48,3 +48,11 @@ Goals:
 - 11/11 2:11 pm 1 hr recording med-linac video
 - 11/11 3:24 pm 1.75 hr editing g4 brems video
 - 11/11 5:35 pm 1 Posting g4-brems video
+
+# Week 3: 11/13-11/19
+- [ ] Get that G4 Brems graph from b. Oliphant's book, and return it!
+- [ ] Edit and post g4 med linac video
+- [ ] Get a PDD graph
+- [ ] Get a beam profile
+
+- 11/14 9:07 am editing med linac and researching beam profile and pdd articles
