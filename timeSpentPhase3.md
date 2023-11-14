@@ -55,5 +55,6 @@ Goals:
 - [ ] Edit and post g4 med linac video
 - [ ] Get a PDD graph
 - [ ] Get a beam profile
+- [ ] Get a lead box around linac head and a flattening filter
 
 - 11/14 9:07 am editing med linac and researching beam profile and pdd articles
