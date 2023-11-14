@@ -57,4 +57,4 @@ Goals:
 - [ ] Get a beam profile
 - [ ] Get a lead box around linac head and a flattening filter
 
-- 11/14 9:07 am editing med linac and researching beam profile and pdd articles
+- 11/14 9:07 am editing med linac and researching beam profile and pdd articles UPDATE: Got 3 articles read and their graphs saved, I just need to analyze them.
