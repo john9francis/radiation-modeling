@@ -36,7 +36,7 @@ Goals:
 - [ ] G4Brems documentation
 - [x] Get the basic functionality of med linac done
 - [x] record videos
-- [ ] Put out first med linac video
+- [x] Put out first med linac video
 
 - 11/6 5:36 pm .75 hr working on g4 med linac. Note: I'm going to start where I left off on G4-Brems
 - 11/6 8:29 pm 1 hr working on med linac
@@ -58,4 +58,4 @@ Goals:
 - [ ] Get a lead box around linac head and a flattening filter
 
 - 11/14 9:07 am 1.75 hr editing med linac and researching beam profile and pdd articles UPDATE: Got 3 articles read and their graphs saved, I just need to analyze them. Also edited the entire part 1 of my med linac videos.
-- 11/14 7:53 pm going over b. oliphant's article one last time to see if I can get relative energies. Then editing med linac
+- 11/14 7:53 pm 2.5 hr going over b. oliphant's article one last time to see if I can get relative energies. Then editing med linac. UPDATE: I posted med linac v010 video, (Just the demo not the code) and then I coded in a lead protector around my linac head.
