@@ -64,4 +64,4 @@ Goals:
 - 11/15 5:15 pm 1 hr reading more about PDD and trying to quickly create a pdd graph. UPDATE: Got the phantom to be a sensitiveDetector, and started registering hits.
 - 11/15 7:20 pm .5 hr Making a big hitsCollection For the entire run on med linac UPDATE: I decided to not do that, instead using analysis and skipping the hitscollecting. But at least I have a hitsCollection for each event.
 - 11/16 12:47 am .75 hr getting that H3 made in med linac. update: it's made, but doesn't display anything.
-- 11/16 8:40 am seeing if I can figure out the histogram, or maybe just create a H2
+- 11/16 8:40 am 2 hrs seeing if I can figure out the histogram, or maybe just create a H2
