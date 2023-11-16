@@ -52,11 +52,14 @@ Goals:
 
 # Week 3: 11/13-11/19
 - [ ] Get that G4 Brems graph from b. Oliphant's book, and return it!
-- [ ] Edit and post g4 med linac video
+- [x] Edit and post g4 med linac video
+- [ ] Edit and post g4 med linac pt 2 video
 - [ ] Get a PDD graph
 - [ ] Get a beam profile
-- [ ] Get a lead box around linac head and a flattening filter
+- [x] Get a lead box around linac head
+- [ ] and a flattening filter
 
 - 11/14 9:07 am 1.75 hr editing med linac and researching beam profile and pdd articles UPDATE: Got 3 articles read and their graphs saved, I just need to analyze them. Also edited the entire part 1 of my med linac videos.
 - 11/14 7:53 pm 2.5 hr going over b. oliphant's article one last time to see if I can get relative energies. Then editing med linac. UPDATE: I posted med linac v010 video, (Just the demo not the code) and then I coded in a lead protector around my linac head.
 - 11/15 5:15 pm 1 hr reading more about PDD and trying to quickly create a pdd graph. UPDATE: Got the phantom to be a sensitiveDetector, and started registering hits.
+- 11/15 7:20 pm Making a big hitsCollection For the entire run on med linac
