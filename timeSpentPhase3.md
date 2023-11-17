@@ -66,4 +66,4 @@ Goals:
 - 11/16 12:47 am .75 hr getting that H3 made in med linac. update: it's made, but doesn't display anything.
 - 11/16 8:40 am 2 hrs seeing if I can figure out the histogram, or maybe just create a H2
 - 11/16 1:53 pm .5 hr looking at the presentation I have to do for the conference, and talking to b. kelley about it.
-- 11/17 10:45 pm signing up for RCW conference
+- 11/17 10:45 pm .25 hr signing up for RCW conference
