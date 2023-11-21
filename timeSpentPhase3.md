@@ -8,6 +8,7 @@ Contents
 - [Week 1](#week-1-1030-115)
 - [Week 2](#week-2-116-1112)
 - [Week 3](#week-3-1113-1119)
+- [Week 4](#week-4-1120-1126)
 
 # Week 1: 10/30-11/5
 Goals:
@@ -68,3 +69,11 @@ Goals:
 - 11/16 1:53 pm .5 hr looking at the presentation I have to do for the conference, and talking to b. kelley about it.
 - 11/17 10:45 pm .25 hr signing up for RCW conference
 - 11/18 7:54 pm 1.5 hrs working on the med linac PDD graph and visualization
+
+# Week 4: 11/20-11/26
+- [ ] Get pdd graph
+- [ ] beam profile
+- [ ] heat map
+- [ ] flattening filter
+
+- 11/21 9:03 am working on pdd graph
