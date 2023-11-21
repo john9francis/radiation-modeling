@@ -76,4 +76,4 @@ Goals:
 - [ ] heat map
 - [ ] flattening filter
 
-- 11/21 9:03 am working on pdd graph
+- 11/21 9:03 am 2 hrs working on pdd graph. update: I changed the whole thing around so it's using steppingAction and runAction instead of SD, but the only issue now is getting the depth relative to the detector instead of absolute position in the world
