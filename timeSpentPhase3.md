@@ -78,4 +78,3 @@ Goals:
 
 - 11/21 9:03 am 2 hrs working on pdd graph. update: I changed the whole thing around so it's using steppingAction and runAction instead of SD, but the only issue now is getting the depth relative to the detector instead of absolute position in the world
 - 11/24 10:30 am 1.75 hrs researching geant4 some more and how to have a universal geant4 app, also messing around with the PDD graph in med linac
-- 11/25 10:00 am editing med linac 010 video (the code)
