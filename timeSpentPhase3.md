@@ -85,3 +85,4 @@ Goals:
 - [ ] Get a heat map at the end of the run
 
 - 11/27 9:27 am .5 hr planning how to get a heat map
+- 11/29 5:20 pm making a heat map
