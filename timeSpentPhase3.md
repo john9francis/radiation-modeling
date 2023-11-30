@@ -87,4 +87,4 @@ Goals:
 - 11/27 9:27 am .5 hr planning how to get a heat map
 - 11/29 5:20 pm .75 hr making a heat map, it's not that great but it's there
 - 11/29 10:45 pm .75 hrs researching heat maps in geant4
-- 11/30 9:11 am trying to figure out the heat map
+- 11/30 9:11 am 1 hr trying to figure out the heat map. update: I added g4DNA to the program and got the heatmaps downloaded and looking good.
