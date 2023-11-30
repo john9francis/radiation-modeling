@@ -88,4 +88,4 @@ Goals:
 - 11/29 5:20 pm .75 hr making a heat map, it's not that great but it's there
 - 11/29 10:45 pm .75 hrs researching heat maps in geant4
 - 11/30 9:11 am 1 hr trying to figure out the heat map. update: I added g4DNA to the program and got the heatmaps downloaded and looking good.
-- 11/30 12:45 pm seeing if I can move geometry at runtime
+- 11/30 12:45 pm seeing if I can move geometry at runtime. UPDATE: Instead, I tried to get the PDD graph good. If I want to accomplish this, I will need to go through and find the max value, and divide all other values by that value. 
