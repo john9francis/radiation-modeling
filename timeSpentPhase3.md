@@ -89,4 +89,5 @@ Goals:
 - 11/29 10:45 pm .75 hrs researching heat maps in geant4
 - 11/30 9:11 am 1 hr trying to figure out the heat map. update: I added g4DNA to the program and got the heatmaps downloaded and looking good.
 - 11/30 12:45 pm .75 hr seeing if I can move geometry at runtime. UPDATE: Instead, I tried to get the PDD graph good. If I want to accomplish this, I will need to go through and find the max value, and divide all other values by that value.
-- 12/1 10:51 pm prepping for the RCW conf and seeing if I can crunch out a movable linac head
+- 12/1 10:51 pm 1.5 hrs prepping for the RCW conf and seeing if I can crunch out a movable linac head
+- 12/2 12:45 am trying to get the detectormessenger set up
