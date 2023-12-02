@@ -91,4 +91,4 @@ Goals:
 - 11/30 12:45 pm .75 hr seeing if I can move geometry at runtime. UPDATE: Instead, I tried to get the PDD graph good. If I want to accomplish this, I will need to go through and find the max value, and divide all other values by that value.
 - 12/1 10:51 pm 1.5 hrs prepping for the RCW conf and seeing if I can crunch out a movable linac head
 - 12/2 12:45 am .75 hr trying to get the detectormessenger set up. update: it's not working as expected.
-- 12/2 9:49 am figuring out that detector messenger
+- 12/2 9:49 am 1.5 hrs figuring out that detector messenger. UPDATE: I got the linac head to move at runtime! insane.
