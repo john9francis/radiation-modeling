@@ -96,4 +96,4 @@ Goals:
 # Week 6: 12/4-12/10
 
 
-- 12/3 12:09 am Getting the linac head to rotate
+- 12/3 12:09 am 1.75 hr Getting the linac head to rotate
