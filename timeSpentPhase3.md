@@ -92,3 +92,8 @@ Goals:
 - 12/1 10:51 pm 1.5 hrs prepping for the RCW conf and seeing if I can crunch out a movable linac head
 - 12/2 12:45 am .75 hr trying to get the detectormessenger set up. update: it's not working as expected.
 - 12/2 9:49 am 1.5 hrs figuring out that detector messenger. UPDATE: I got the linac head to move at runtime! insane.
+
+# Week 6: 12/4-12/10
+
+
+- 12/3 12:09 am Getting the linac head to rotate
