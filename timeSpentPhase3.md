@@ -94,6 +94,7 @@ Goals:
 - 12/2 9:49 am 1.5 hrs figuring out that detector messenger. UPDATE: I got the linac head to move at runtime! insane.
 
 # Week 6: 12/4-12/10
-
+- [ ] Present at RCW conference
 
 - 12/3 12:09 am 1.75 hr Getting the linac head to rotate
+- 12/4 9:33 am Getting the beam to start at the right place each time
