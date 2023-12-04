@@ -97,4 +97,4 @@ Goals:
 - [ ] Present at RCW conference
 
 - 12/3 12:09 am 1.75 hr Getting the linac head to rotate
-- 12/4 9:33 am Getting the beam to start at the right place each time
+- 12/4 9:33 am 2 hrs Getting the beam to start at the right place each time
