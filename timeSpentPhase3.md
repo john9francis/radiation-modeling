@@ -99,3 +99,4 @@ Goals:
 - 12/3 12:09 am 1.75 hr Getting the linac head to rotate
 - 12/4 9:33 am 2 hrs Getting the beam to start at the right place each time
 - 12/4 12:45 pm .75 hr debugging visualization with the rotating linac head
+- 12/4 11:25 pm working on the presentation for RCW
