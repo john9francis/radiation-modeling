@@ -102,3 +102,4 @@ Goals:
 - 12/4 11:25 pm 2.25 hr working on the presentation for RCW and trying to debug the rotation of the linac head
 - 12/5 12:58 pm 1 hr debugging med linac by putting variables on the heap instead of stack.
 - 12/5 9:19 pm 1.75 hr testing med linac to see where my memory leak is happening UPDATE: There's no memory leak, but it does still crash for some reason
+- 12/6 12:00 am 2 hours finishing up my RCW presentation
