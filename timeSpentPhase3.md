@@ -81,7 +81,7 @@ Goals:
 - 11/24 10:30 am 1.75 hrs researching geant4 some more and how to have a universal geant4 app, also messing around with the PDD graph in med linac
 
 # Week 5: 11/27-12/3
-- [ ] Get to a point where I can present for the RCW conference
+- [x] Get to a point where I can present for the RCW conference
 - [x] Get a heat map at the end of the run
 
 - 11/27 9:27 am .5 hr planning how to get a heat map
@@ -103,3 +103,4 @@ Goals:
 - 12/5 12:58 pm 1 hr debugging med linac by putting variables on the heap instead of stack.
 - 12/5 9:19 pm 1.75 hr testing med linac to see where my memory leak is happening UPDATE: There's no memory leak, but it does still crash for some reason
 - 12/6 12:00 am 2 hours finishing up my RCW presentation
+- 12/6 10:00 am .5 hrs practicing RCW presentation
