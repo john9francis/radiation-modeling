@@ -94,7 +94,7 @@ Goals:
 - 12/2 9:49 am 1.5 hrs figuring out that detector messenger. UPDATE: I got the linac head to move at runtime! insane.
 
 # Week 6: 12/4-12/10
-- [ ] Present at RCW conference
+- [x] Present at RCW conference
 
 - 12/3 12:09 am 1.75 hr Getting the linac head to rotate
 - 12/4 9:33 am 2 hrs Getting the beam to start at the right place each time
@@ -104,3 +104,4 @@ Goals:
 - 12/5 9:19 pm 1.75 hr testing med linac to see where my memory leak is happening UPDATE: There's no memory leak, but it does still crash for some reason
 - 12/6 12:00 am 2 hours finishing up my RCW presentation
 - 12/6 10:00 am .5 hrs practicing RCW presentation
+- 12/6 4:30 pm 1.5 hrs presenting and sending b. Oliphant some of my videos
