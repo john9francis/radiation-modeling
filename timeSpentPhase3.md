@@ -105,4 +105,4 @@ Goals:
 - 12/6 12:00 am 2 hours finishing up my RCW presentation
 - 12/6 10:00 am .5 hrs practicing RCW presentation
 - 12/6 4:30 pm 1.5 hrs presenting and sending b. Oliphant some of my videos
-- 12/7 8:44 pm editing RCW presentation
+- 12/7 8:44 pm 1.25 hrs editing RCW presentation and posting it
