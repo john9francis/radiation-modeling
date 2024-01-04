@@ -16,8 +16,9 @@
 # Week 2: 12/31-1/6
 
 **Goals:**
-- [ ] Research memory allocation
+- [x] Research memory allocation
 - [ ] Make the C++ memory allocation article
 - [ ] Make the C++ memory allocation video
 
-- 1/4 10:27 am researching memory allocation in C++ and working on the pointers website
+- 1/4 10:27 am 1 hr researching memory allocation in C++ and working on the pointers website
+- Next: Overhaul g4-med-linac
