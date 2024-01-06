@@ -21,5 +21,4 @@
 - [ ] Make the C++ memory allocation video
 
 - 1/4 10:27 am 1 hr researching memory allocation in C++ and working on the pointers website
-- 1/5 8:17 pm cleaning up med-linac
-- Next: Overhaul g4-med-linac
+- 1/5 8:17 pm 1.5 hr cleaning up med-linac UPDATE: Severely improved the singleton with memory safe stuff. Also got the detector construction to start the particle gun in the correct spot.
