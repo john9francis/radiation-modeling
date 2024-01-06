@@ -21,4 +21,5 @@
 - [ ] Make the C++ memory allocation video
 
 - 1/4 10:27 am 1 hr researching memory allocation in C++ and working on the pointers website
+- 1/5 8:17 pm cleaning up med-linac
 - Next: Overhaul g4-med-linac
