@@ -22,3 +22,4 @@
 
 - 1/4 10:27 am 1 hr researching memory allocation in C++ and working on the pointers website
 - 1/5 8:17 pm 1.5 hr cleaning up med-linac UPDATE: Severely improved the singleton with memory safe stuff. Also got the detector construction to start the particle gun in the correct spot.
+- 1/6 9:33 am looking into using a messenger without a singleton
