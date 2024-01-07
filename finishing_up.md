@@ -22,4 +22,5 @@
 
 - 1/4 10:27 am 1 hr researching memory allocation in C++ and working on the pointers website
 - 1/5 8:17 pm 1.5 hr cleaning up med-linac UPDATE: Severely improved the singleton with memory safe stuff. Also got the detector construction to start the particle gun in the correct spot.
-- 1/6 9:33 am 2 hrs looking into using a messenger without a singleton. UPDATE: I made a new branch for messenger without singleton. detector construction handles the moving around. it seems to work super good! I might push it to main. 
+- 1/6 9:33 am 2 hrs looking into using a messenger without a singleton. UPDATE: I made a new branch for messenger without singleton. detector construction handles the moving around. it seems to work super good! I might push it to main.
+- 1/6 8:31 pm working on moving the linac head all around
