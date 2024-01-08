@@ -25,6 +25,8 @@
 - 1/6 9:33 am 2 hrs looking into using a messenger without a singleton. UPDATE: I made a new branch for messenger without singleton. detector construction handles the moving around. it seems to work super good! I might push it to main.
 - 1/6 8:31 pm 2 hrs working on moving the linac head all around. update: got it working! next step is to allow small shifts with commands, then I can start simulations of it rotating around. I also need to fix up the github repo... it's a mess.
 
+- ===================================================================================
+
 # Week 3: 1/7-1/13
 
 **Goals:**
@@ -34,3 +36,5 @@
 - [ ] put out that code video
 - [ ] clean up the github repo
 - [ ] After all that the next step would be to set up some analysis runs with ui commands.
+
+- 1/8 6:23 am trying to find and post the first med linac code video
