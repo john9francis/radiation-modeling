@@ -39,3 +39,4 @@
 - [ ] After all that the next step would be to set up some analysis runs with ui commands.
 
 - 1/8 6:23 am 1 hr trying to find and post the first med linac code video UPDATE: Edited about half of the med_linac v010 video, and optimized this new release of med_linac so that it sends vectors and matrices to the primaryGenAction instead of physical volumes.
+- 1/8 11:33 am working on small shifts in x y z and theta phi and psi in med_linac, and editing the v010 code video some more.
