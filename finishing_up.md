@@ -3,6 +3,7 @@
 # Contents
 - [Week 1](#week-1-1224-1230)
 - [Week 2](#week-2-1231-16)
+- [Week 3](#week-3-17-113)
 
 # Week 1: 12/24-12/30
 
