@@ -40,4 +40,4 @@
 
 - 1/8 6:23 am 1 hr trying to find and post the first med linac code video UPDATE: Edited about half of the med_linac v010 video, and optimized this new release of med_linac so that it sends vectors and matrices to the primaryGenAction instead of physical volumes.
 - 1/8 11:33 am 1.5 hr working on small shifts in x y z and theta phi and psi in med_linac. UPDATE: Shifting the angles may be harder than we thought...
-- 1/9 7:35 am making my 1 minute presentation for thesis and researching Geant4 DNA
+- 1/9 7:35 am 1.5 hr making my 1 minute presentation for thesis and researching Geant4 DNA UPDATE: Also worked on g4-med-linac for awhile trying to get a little demo going for class
