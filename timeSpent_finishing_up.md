@@ -31,7 +31,7 @@
 # Week 3: 1/7-1/13
 
 **Goals:**
-- [ ] Get the small movements done in med linac detector messenger
+- [x] Get the small movements done in med linac detector messenger
 - [ ] Put out first med linac code video
 - [ ] Put out video for release 2 of med linac
 - [ ] put out that code video
