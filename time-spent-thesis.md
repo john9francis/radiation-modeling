@@ -12,9 +12,9 @@ Contents:
 # Week 2: 1/14-1/20
 
 Goals:
-- Clean up med linac repo
-- make mac file for PDD
-- make mac file for heat map
+- [ ] Clean up med linac repo
+- [ ] make mac file for PDD
+- [ ] make mac file for heat map
 
 - 1/15 10:15 am 1 hr working on the 1 pg. version of my thesis
 - UPDATE: I cloned g4-medical-linac main branch in a separate folder. in my original g4-medical-linac folder I have the branch that works. I CANT DO GIT PULL because the remote branch is messed up. I just need to work on cleaning my main branch and making it look like my local copy.
