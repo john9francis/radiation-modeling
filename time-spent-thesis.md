@@ -1,5 +1,9 @@
 # Time spent on my thesis ( and finishing up )
 
+Contents:
+[Week 1](#week-1-17-113)
+[Week 2](#week-2-114-120)
+
 # Week 1: 1/7-1/13
 
 - 2 hrs planning and outlining
