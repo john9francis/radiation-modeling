@@ -44,4 +44,4 @@
 - 1/13 8:15 .75 hrs creating a release for med linac and starting on the mac files UPDATE: I'm frusturated because my merge of messenger-without-singleton to main affected both the main and messenger-without-singleton branches. Now they're both broken. I realized you should only create a branch if you're not going to change things from the main branch.
 
 
-**This file is continued [here](time-spend-thesis.md)**
+**This file is continued [here](time-spent-thesis.md)**
