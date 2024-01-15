@@ -1,8 +1,8 @@
 # Time spent on my thesis ( and finishing up )
 
 Contents:
-[Week 1](#week-1-17-113)
-[Week 2](#week-2-114-120)
+- [Week 1](#week-1-17-113)
+- [Week 2](#week-2-114-120)
 
 # Week 1: 1/7-1/13
 
@@ -10,6 +10,11 @@ Contents:
 - 1/12 .5 hr recruiting thesis committee members 
 
 # Week 2: 1/14-1/20
+
+Goals:
+- Clean up med linac repo
+- make mac file for PDD
+- make mac file for heat map
 
 - 1/15 10:15 am 1 hr working on the 1 pg. version of my thesis
 - UPDATE: I cloned g4-medical-linac main branch in a separate folder. in my original g4-medical-linac folder I have the branch that works. I CANT DO GIT PULL because the remote branch is messed up. I just need to work on cleaning my main branch and making it look like my local copy.
