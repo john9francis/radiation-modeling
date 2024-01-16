@@ -12,7 +12,7 @@ Contents:
 # Week 2: 1/14-1/20
 
 Goals:
-- [ ] Clean up med linac repo
+- [x] Clean up med linac repo
 - [ ] make mac file for PDD
 - [ ] make mac file for heat map
 
