@@ -25,7 +25,7 @@ Goals:
 - [x] Clean up med linac repo
 - [x] make mac file for PDD
 - [ ] make mac file for beam profile
-- [ ] make mac file for heat map
+- [x] make mac file for heat map
 - [ ] finish up
 - [ ] compile static
 - [ ] Get 5 references of why my project is worth spending money on
@@ -38,4 +38,4 @@ Goals:
 - 1/15 6:41 pm .5 hr making the release and adding a radiation shield on the med linac
 - 1/15 7:28 pm 1.25 hr trying to make an analysis mac file. UPDATE: I got the pdd file done and it's pretty good!
 - 1/16 12:45 pm 1.5 hr in thesis class
-- 1/16 6:57 pm working on the heat map
+- 1/16 6:57 pm 1.25 hr working on the heat map. UPDATE: Got results for the heat map, beam profile, and pdd, although it's a little weird. I suspect mess ups with the x y and z direction in phantomSD.cc file. 
