@@ -38,3 +38,4 @@ Goals:
 - 1/15 6:41 pm .5 hr making the release and adding a radiation shield on the med linac
 - 1/15 7:28 pm 1.25 hr trying to make an analysis mac file. UPDATE: I got the pdd file done and it's pretty good!
 - 1/16 12:45 pm 1.5 hr in thesis class
+- 1/16 6:57 pm working on the heat map
