@@ -39,3 +39,4 @@ Goals:
 - 1/15 7:28 pm 1.25 hr trying to make an analysis mac file. UPDATE: I got the pdd file done and it's pretty good!
 - 1/16 12:45 pm 1.5 hr in thesis class
 - 1/16 6:57 pm 1.25 hr working on the heat map. UPDATE: Got results for the heat map, beam profile, and pdd, although it's a little weird. I suspect mess ups with the x y and z direction in phantomSD.cc file. 
+- 1/16 9:06 pm working on methods section of my thesis
