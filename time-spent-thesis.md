@@ -1,8 +1,18 @@
 # Time spent on my thesis ( and finishing up )
 
 Contents:
+- [Notes](#notes)
 - [Week 1](#week-1-17-113)
 - [Week 2](#week-2-114-120)
+
+# Notes
+Writing order: 
+1. Outline ☑️
+2. Methods
+3. Results
+4. Discussion
+5. Introduction
+6. Conclusion
 
 # Week 1: 1/7-1/13
 
@@ -18,9 +28,13 @@ Goals:
 - [ ] make mac file for heat map
 - [ ] finish up
 - [ ] compile static
+- [ ] Get 5 references of why my project is worth spending money on
+- [ ] Get 5 references of what work people have already done on the subject
+- [ ] Make a thesis repo
 
 - 1/15 10:15 am 1 hr working on the 1 pg. version of my thesis
 - UPDATE: I cloned g4-medical-linac main branch in a separate folder. in my original g4-medical-linac folder I have the branch that works. I CANT DO GIT PULL because the remote branch is messed up. I just need to work on cleaning my main branch and making it look like my local copy.
 - 1/15 5:11 pm .5 hr cleaning up main branch UPDATE: It's cleaned up. now I just have to figure out how to do PDD from the ui commands in a mac file.
 - 1/15 6:41 pm .5 hr making the release and adding a radiation shield on the med linac
 - 1/15 7:28 pm 1.25 hr trying to make an analysis mac file. UPDATE: I got the pdd file done and it's pretty good!
+- 1/16 12:45 pm 1.5 hr in thesis class
