@@ -26,7 +26,7 @@ Goals:
 - [x] make mac file for PDD
 - [x] make mac file for beam profile
 - [x] make mac file for heat map
-- [ ] finish up
+- [x] finish up
 - [ ] compile static
 - [ ] Get 5 references of why my project is worth spending money on
 - [x] Get 5 references of what work people have already done on the subject
@@ -41,4 +41,4 @@ Goals:
 - 1/16 6:57 pm 1.25 hr working on the heat map. UPDATE: Got results for the heat map, beam profile, and pdd, although it's a little weird. I suspect mess ups with the x y and z direction in phantomSD.cc file. 
 - 1/16 9:06 pm 1.75 hrs working on methods section of my thesis
 - 1/20 12:00 pm .25 hr collecting resources
-- 1/20 9:45 pm implementing the rotate method into medical linac and then static compiling it. 
+- 1/20 9:45 pm 1.5 hr implementing the rotate method into medical linac
