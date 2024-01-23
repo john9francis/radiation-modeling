@@ -53,5 +53,5 @@ Goals:
 
 - 1/23 9:00 am .5 hrs getting the rest of my sources
 - 1/23 12:45 pm 1 hr thesis class
-- 1/23 4:22 pm working on thesis methods section
-- NEXT: email brother kelley and ask his input
+- 1/23 4:22 pm .75 hr working on thesis methods section, and emailed brother kelley with methods section to see what he thinks.
+- NEXT: analyze my results
