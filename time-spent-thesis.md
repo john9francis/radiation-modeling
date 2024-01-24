@@ -4,6 +4,7 @@ Contents:
 - [Notes](#notes)
 - [Week 1](#week-1-17-113)
 - [Week 2](#week-2-114-120)
+- [Week 3](#week-3-121-127)
 
 # Notes
 Writing order: 
