@@ -50,6 +50,7 @@ Goals:
 - [ ] Dockerize med-linac
 - [ ] Make thesis repo for backups
 - [ ] Get colorful code in thesis
+- [ ] Make singleton to enable and disable analysis
 
 - 1/23 9:00 am .5 hrs getting the rest of my sources
 - 1/23 12:45 pm 1 hr thesis class
