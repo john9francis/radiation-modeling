@@ -57,3 +57,4 @@ Goals:
 - 1/23 12:45 pm 1 hr thesis class
 - 1/23 4:22 pm .75 hr working on thesis methods section, and emailed brother kelley with methods section to see what he thinks.
 - NEXT: analyze my results
+- 1/24 10:50 am making an analysis singleton
