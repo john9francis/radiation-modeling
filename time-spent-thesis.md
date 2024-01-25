@@ -59,4 +59,4 @@ Goals:
 - NEXT: analyze my results
 - 1/24 10:50 am 1.25 hrs making an analysis singleton
 - NEXT: Take advantage of the analysis manager's activation stuff instead of the singleton :( my singleton is a bit buggy. messenger is good though.
-- 1/25 11:22 switching over to geant4 analysis methods
+- 1/25 11:22 .5 hrs switching over to geant4 analysis methods
