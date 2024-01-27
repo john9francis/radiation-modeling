@@ -49,9 +49,9 @@ Goals:
 Goals:
 - [ ] Finish procedure section
 - [ ] Dockerize med-linac
-- [ ] Make thesis repo for backups
+- [x] Make thesis repo for backups
 - [ ] Get colorful code in thesis
-- [ ] Make singleton to enable and disable analysis
+- [x] Make singleton to enable and disable analysis NOTE: there's an easier way to do this
 
 - 1/23 9:00 am .5 hrs getting the rest of my sources
 - 1/23 12:45 pm 1 hr thesis class
@@ -61,3 +61,4 @@ Goals:
 - NEXT: Take advantage of the analysis manager's activation stuff instead of the singleton :( my singleton is a bit buggy. messenger is good though.
 - 1/25 11:22 .5 hrs switching over to geant4 analysis methods
 - 1/26 11:00 1 hr. working on thesis
+- 1/27 12:51 pm working on thesis
