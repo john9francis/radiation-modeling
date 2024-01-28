@@ -61,5 +61,5 @@ Goals:
 - NEXT: Take advantage of the analysis manager's activation stuff instead of the singleton :( my singleton is a bit buggy. messenger is good though.
 - 1/25 11:22 .5 hrs switching over to geant4 analysis methods
 - 1/26 11:00 1 hr. working on thesis
-- 1/27 12:51 1.25 hr pm working on thesis, moved all of procedure to background information
-- 1/27 6:48 pm working on thesis procedure
+- 1/27 12:51 pm 1.25 hr working on thesis, moved all of procedure to background information
+- 1/27 6:48 pm 1.25 hr working on thesis procedure, got as far as how bremsstrahlung is handled in geant4
