@@ -72,4 +72,4 @@ Goals:
 - [ ] Finish procedure
 - [ ] Analyze data
 
-- 1/29 9:18 pm working on procedure section
+- 1/29 9:18 pm 1.25 hr working on procedure section
