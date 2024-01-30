@@ -5,6 +5,7 @@ Contents:
 - [Week 1](#week-1-17-113)
 - [Week 2](#week-2-114-120)
 - [Week 3](#week-3-121-127)
+- [Week 4](#week-4-128-23)
 
 # Notes
 Writing order: 
@@ -63,3 +64,12 @@ Goals:
 - 1/26 11:00 1 hr. working on thesis
 - 1/27 12:51 pm 1.25 hr working on thesis, moved all of procedure to background information
 - 1/27 6:48 pm 1.25 hr working on thesis procedure, got as far as how bremsstrahlung is handled in geant4
+
+
+# Week 4: 1/28-2/3
+
+**Goals:**
+- [ ] Finish procedure
+- [ ] Analyze data
+
+- 1/29 9:18 pm working on procedure section
