@@ -75,3 +75,4 @@ Goals:
 - 1/29 9:18 pm 1.25 hr working on procedure section
 - 1/30 12:50 pm 2 hrs thesis class and working on pdd graph
 - 1/30 6:11 pm 1.25 hr seeing if I can normalize the PDD graph
+- 2/1 11:15 pm trying to make the pdd graph an H2 instead of H1
