@@ -76,3 +76,4 @@ Goals:
 - 1/30 12:50 pm 2 hrs thesis class and working on pdd graph
 - 1/30 6:11 pm 1.25 hr seeing if I can normalize the PDD graph
 - 2/1 11:15 pm trying to make the pdd graph an H2 instead of H1
+- Notes: First of all, the H2 didn't work. but I got the h1 working. I have some suuuuuper good results attained by adding a FF and testing out some copper and AL filters. I have a lot of results to talk about. The last thing I have to do is figure out how to do a really good PDD graph. I am thinking in run action creating a hitsCollection or at least a few variables that keep track of max dose, min depth, and max depth. Then scaling the graph accordingly. Just because for now the PDD graph measures position vs. energy, not depth vs. percent energy. NOTE: it's fine to keep it as energy instead of grays because it's a percent. But yeah, figuring out how to convert it to percent instead of absolute values is going to be tricky. 
