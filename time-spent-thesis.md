@@ -72,21 +72,21 @@ Goals:
 - [ ] Finish procedure
 - [ ] Analyze data
 
-- 1/29 9:18 pm 1.25 hr working on procedure section
-- 1/30 12:50 pm 2 hrs thesis class and working on pdd graph
-- 1/30 6:11 pm 1.25 hr seeing if I can normalize the PDD graph
-- 2/1 11:15 pm 1.5 hr trying to make the pdd graph an H2 instead of H1
+- 1/29 9:18 pm **1.25** hr working on procedure section
+- 1/30 12:50 pm **2 hrs** thesis class and working on pdd graph
+- 1/30 6:11 pm **1.25 hr** seeing if I can normalize the PDD graph
+- 2/1 11:15 pm **1.5 hr** trying to make the pdd graph an H2 instead of H1
 - Notes: First of all, the H2 didn't work. but I got the h1 working. I have some suuuuuper good results attained by adding a FF and testing out some copper and AL filters. I have a lot of results to talk about. The last thing I have to do is figure out how to do a really good PDD graph. I am thinking in run action creating a hitsCollection or at least a few variables that keep track of max dose, min depth, and max depth. Then scaling the graph accordingly. Just because for now the PDD graph measures position vs. energy, not depth vs. percent energy. NOTE: it's fine to keep it as energy instead of grays because it's a percent. But yeah, figuring out how to convert it to percent instead of absolute values is going to be tricky. 
 - Notes continued: I want to do runs with the copper, FF, and AL for my results. and I think I'll ask b. kelley about how to get the pdd to be normalized. right now I'm fixing my OGL error where it says error, can't find referenced memory 0x00000000000. A YouTube video showed me that running: `sfc /scannow` on an admin command prompt finds the issue and fixes it. Well, actually that didn't help. however here is a website for more help. https://www.partitionwizard.com/clone-disk/the-instruction-at-referenced-memory.html Luckily the batch mode still works which is a relief, especially since I am just getting results right now. Eventually I gotta figure this out though.
 - TODO: Scan for malware
 
-- 2/3 12:00 pm 2 hrs Switching from using a SD to using stepping action. This is simply because the SD couldn't access the run manager class. I should write about this in my thesis, the use for each one. Also, that 0x00000000000 error fixed somehow which is a relief. UPDATE: I have a new branch now tht only uses stepping action no SD. might merge.
+- 2/3 12:00 pm **2 hrs** Switching from using a SD to using stepping action. This is simply because the SD couldn't access the run manager class. I should write about this in my thesis, the use for each one. Also, that 0x00000000000 error fixed somehow which is a relief. UPDATE: I have a new branch now tht only uses stepping action no SD. might merge.
 - NOTES: 2 ideas moving forward.
 1. deal with using CSV files instead
 2. make my own analysis manager singleton... that might be the move honestly. could be fun too. would it take a super long time? yes it would.
 - This analysis manager class could plot to python or the geant4 root plotting. either way.
 3. Inherit from the g4 analysis manager and make my own method called "normalize" that would access some private member variables and just divide each bin by the height of the tallest bin.
-- 2/3 2:20 pm 1 hr looking into my analysis options. NOTE: I'm thinking of going with making my own analysis manager singleton and inheriting from G4ThreadLocalSingleton. here is the recommended implementation:
+- 2/3 2:20 pm **1 hr** looking into my analysis options. NOTE: I'm thinking of going with making my own analysis manager singleton and inheriting from G4ThreadLocalSingleton. here is the recommended implementation:
 
 ```cpp
 class G4Class
