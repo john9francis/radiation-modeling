@@ -85,4 +85,5 @@ Goals:
 1. deal with using CSV files instead
 2. make my own analysis manager singleton... that might be the move honestly. could be fun too. would it take a super long time? yes it would.
 - This analysis manager class could plot to python or the geant4 root plotting. either way.
-3. Inherit from the g4 analysis manager and make my own method called "normalize" that would access some private member variables and just divide each bin by the height of the tallest bin. 
+3. Inherit from the g4 analysis manager and make my own method called "normalize" that would access some private member variables and just divide each bin by the height of the tallest bin.
+- 2/3 2:20 pm looking into my analysis options
