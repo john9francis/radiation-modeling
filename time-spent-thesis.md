@@ -80,4 +80,9 @@ Goals:
 - Notes continued: I want to do runs with the copper, FF, and AL for my results. and I think I'll ask b. kelley about how to get the pdd to be normalized. right now I'm fixing my OGL error where it says error, can't find referenced memory 0x00000000000. A YouTube video showed me that running: `sfc /scannow` on an admin command prompt finds the issue and fixes it. Well, actually that didn't help. however here is a website for more help. https://www.partitionwizard.com/clone-disk/the-instruction-at-referenced-memory.html Luckily the batch mode still works which is a relief, especially since I am just getting results right now. Eventually I gotta figure this out though.
 - TODO: Scan for malware
 
-- 2/3 12:00 pm 2 hrs Switching from using a SD to using stepping action. This is simply because the SD couldn't access the run manager class. I should write about this in my thesis, the use for each one. Also, that 0x00000000000 error fixed somehow which is a relief. UPDATE: I have a new branch now tht only uses stepping action no SD. might merge. 
+- 2/3 12:00 pm 2 hrs Switching from using a SD to using stepping action. This is simply because the SD couldn't access the run manager class. I should write about this in my thesis, the use for each one. Also, that 0x00000000000 error fixed somehow which is a relief. UPDATE: I have a new branch now tht only uses stepping action no SD. might merge.
+- NOTES: 2 ideas moving forward.
+1. deal with using CSV files instead
+2. make my own analysis manager singleton... that might be the move honestly. could be fun too. would it take a super long time? yes it would.
+- This analysis manager class could plot to python or the geant4 root plotting. either way.
+3. Inherit from the g4 analysis manager and make my own method called "normalize" that would access some private member variables and just divide each bin by the height of the tallest bin. 
