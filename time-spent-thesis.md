@@ -108,3 +108,8 @@ class G4Class
 - Maybe for now I just accept the graphs I have and analyze them.
 - It's just hard to analyze them if I can't put them on top of graphs that actually exist.......
 - Yeah, I think this analysis thing would be a waste of time, but after thesis I want to make my own geant4 analysis tool that integrates with python. Could be a really fun project!
+
+NEXT STEPS:
+1. merge with main
+2. clean up code, delete SD
+3. be happy with my data
