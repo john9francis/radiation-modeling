@@ -86,4 +86,19 @@ Goals:
 2. make my own analysis manager singleton... that might be the move honestly. could be fun too. would it take a super long time? yes it would.
 - This analysis manager class could plot to python or the geant4 root plotting. either way.
 3. Inherit from the g4 analysis manager and make my own method called "normalize" that would access some private member variables and just divide each bin by the height of the tallest bin.
-- 2/3 2:20 pm looking into my analysis options
+- 2/3 2:20 pm looking into my analysis options. NOTE: I'm thinking of going with making my own analysis manager singleton and inheriting from G4ThreadLocalSingleton. here is the recommended implementation:
+
+```cpp
+class G4Class
+  {
+    friend class G4ThreadLocalSingleton<G4Class>;
+    private:
+      G4Class() { ... }
+    public:
+      static G4Class* GetInstance()
+      {
+        static G4ThreadLocalSingleton<G4Class> instance;
+        return instance.Instance();
+      }
+};
+```
