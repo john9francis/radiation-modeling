@@ -102,3 +102,9 @@ class G4Class
       }
 };
 ```
+- Question is though....... will this mess up everything like activating the H1's and stuff? I will have to be super careful to only add to the histogram if the histogram is active.
+- This could be fun as well integrating it with python and everything. Getting some reeeeally good analysis.
+- The problem is it's a time suck and I need to keep working on my thesis.
+- Maybe for now I just accept the graphs I have and analyze them.
+- It's just hard to analyze them if I can't put them on top of graphs that actually exist.......
+- Yeah, I think this analysis thing would be a waste of time, but after thesis I want to make my own geant4 analysis tool that integrates with python. Could be a really fun project!
