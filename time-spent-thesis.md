@@ -128,4 +128,6 @@ NEXT STEPS:
 - [ ] Continue procedure section
 
 - 2/5 6:00 pm .25 hr merging github repo and cleaning up
-- 2/5 9:00 pm making official runs of med linac
+- 2/5 9:00 pm 1.5 hrs cleaning code and getting ready
+- TO DO TONIGHT: GET THE OFFICIAL RUNS DONE
+- Decision time. Do I made linac head commands to change the material of the phantom? I think so. Then I will have mac files to do all the tests. 
