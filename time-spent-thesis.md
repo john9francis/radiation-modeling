@@ -113,3 +113,17 @@ NEXT STEPS:
 1. merge with main
 2. clean up code, delete SD
 3. be happy with my data
+
+
+
+# Week 4
+
+**Goals:**
+- [ ] Clean up med linac repo
+- [ ] Add Bremsstrahlung data in there.
+- [ ] Create some official runs
+- [ ] Create a release
+- [ ] Start on data section
+- [ ] Continue procedure section
+
+- 2/5 6:00 pm merging github repo and cleaning up
