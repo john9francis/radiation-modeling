@@ -138,7 +138,7 @@ NEXT STEPS:
 - Decision time. Do I made linac head commands to change the material of the phantom? I think so. Then I will have mac files to do all the tests.
 - ANOTHER decision: delete the hitscollection? and phantom hits? nah I'll just leave them. for now. IDK though because they are messy. 
 - so todo = make all positions absolute and not relative,
-- and make a function to change the material of the phantom
+- ~~and make a function to change the material of the phantom~~
 - Clean up code 100%
 - Make official thesis release
 - Make official runs!
