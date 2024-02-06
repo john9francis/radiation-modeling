@@ -130,7 +130,8 @@ NEXT STEPS:
 **TIME:**
 - 2/5 6:00 pm .25 hr merging github repo and cleaning up
 - 2/5 9:00 pm 1.5 hrs cleaning code and getting ready
-- 2/5 10:58 pm 2 hrs officially cleaning the repo and getting ready for outputs. NOTE: I'm running all outputs overnight. 
+- 2/5 10:58 pm 2 hrs officially cleaning the repo and getting ready for outputs. NOTE: I'm running all outputs overnight.
+- 2/6 12:45 pm compiling results and writing results section
 
 **NOTES:**
 
