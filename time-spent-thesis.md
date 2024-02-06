@@ -128,3 +128,4 @@ NEXT STEPS:
 - [ ] Continue procedure section
 
 - 2/5 6:00 pm .25 hr merging github repo and cleaning up
+- 2/5 9:00 pm making official runs of med linac
