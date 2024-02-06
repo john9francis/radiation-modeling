@@ -130,6 +130,7 @@ NEXT STEPS:
 **TIME:**
 - 2/5 6:00 pm .25 hr merging github repo and cleaning up
 - 2/5 9:00 pm 1.5 hrs cleaning code and getting ready
+- 2/5 10:58 pm officially cleaning the repo
 
 **NOTES:**
 
