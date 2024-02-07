@@ -148,4 +148,5 @@ NEXT STEPS:
 - Make official runs!
 
 2/7:
-- Added secondary collimator. NOTE: out of every 500 particles about 1 actually hits the phantom. 
+- Added secondary collimator. NOTE: out of every 500 particles about 1 actually hits the phantom.
+- Now I have runs with and without the secondary collimator. The heat map looks a lot better with the collimator, but PDD graph looks better without. I guess I could discuss that stuff, or just choose one. I think I'll check the accurate collimator heatMap runs and then decide. 
