@@ -134,6 +134,7 @@ NEXT STEPS:
 - 2/6 12:45 pm 1.25 hrs compiling results and writing results section
 - 2/6 10:00 pm .5 hr finishing up compiling those graphs
 - 2/7 10:06 am .75 hr rewriting procedure
+- 2/7 1:06 pm working on procedure
 
 **NOTES:**
 
