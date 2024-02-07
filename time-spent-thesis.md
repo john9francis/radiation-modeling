@@ -146,3 +146,6 @@ NEXT STEPS:
 - Clean up code 100%
 - Make official thesis release
 - Make official runs!
+
+2/7:
+- Added secondary collimator. NOTE: out of every 500 particles about 1 actually hits the phantom. 
