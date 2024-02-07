@@ -132,7 +132,7 @@ NEXT STEPS:
 - 2/5 9:00 pm 1.5 hrs cleaning code and getting ready
 - 2/5 10:58 pm 2 hrs officially cleaning the repo and getting ready for outputs. NOTE: I'm running all outputs overnight.
 - 2/6 12:45 pm 1.25 hrs compiling results and writing results section
-- 2/6 10:00 pm finishing up compiling those graphs
+- 2/6 10:00 pm .5 hr finishing up compiling those graphs
 
 **NOTES:**
 
