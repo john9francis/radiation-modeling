@@ -138,7 +138,7 @@ NEXT STEPS:
 - 2/7 5:30 pm .25 hr working on procedure
 - 2/8 4:52 pm .5 hr re-making the official data
 - 2/10 7:30 pm 1 hr working on results section
-- 2/10 9:41 pm working on results section
+- 2/10 9:41 pm 2 hrs working on results section
 
 **NOTES:**
 
