@@ -7,6 +7,7 @@ Contents:
 - [Week 3](#week-3-121-127)
 - [Week 4](#week-4-128-23)
 - [Week 5](#week-5-24-210)
+- [Week 6](#week-6-211-217)
 
 # Notes
 Writing order: 
@@ -155,3 +156,15 @@ NEXT STEPS:
 2/7:
 - Added secondary collimator. NOTE: out of every 500 particles about 1 actually hits the phantom.
 - Now I have runs with and without the secondary collimator. The heat map looks a lot better with the collimator, but PDD graph looks better without. I guess I could discuss that stuff, or just choose one. I think I'll check the accurate collimator heatMap runs and then decide. 
+
+
+
+# Week 6: 2/11-2/17
+
+**Goals:**
+- [ ] Rewrite procedure
+
+**Time:**
+
+
+**Notes:**
