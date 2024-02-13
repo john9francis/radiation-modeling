@@ -165,6 +165,6 @@ NEXT STEPS:
 - [ ] Rewrite procedure
 
 **Time:**
-- 2/12 9:48 pm working on results section
+- 2/12 9:48 pm 1 hr working on procedure section
 
 **Notes:**
