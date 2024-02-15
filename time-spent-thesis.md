@@ -169,6 +169,7 @@ NEXT STEPS:
 - 2/13 12:45 pm 1 hr in thesis class
 - 2/13 3:44 pm .25 hr working on background
 - 2/15 10:00 am 3 hrs meeting with b. Oliphant to discuss my results and trying different filters
+- 2/15 2:00 pm .5 hr getting started on a new project, radiation-shielding. This will help me understand what brems spectrum I need for med linac. 
 
 
 **Notes:**
