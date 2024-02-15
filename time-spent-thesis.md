@@ -168,6 +168,7 @@ NEXT STEPS:
 - 2/12 9:48 pm 1 hr working on procedure section
 - 2/13 12:45 pm 1 hr in thesis class
 - 2/13 3:44 pm .25 hr working on background
+- 2/15 10:00 am meeting with b. Oliphant to discuss my results
 
 
 **Notes:**
