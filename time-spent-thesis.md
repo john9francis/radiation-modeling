@@ -186,3 +186,9 @@ NEXT STEPS:
   2. Also add messengers to change how the energy is fired and a messenger to insert a radiation shield in the path.
   3. Also it would be nice to only draw the trajectories that make it to the phantom (for med linac)
   4. It would also be nice to have a distribution of how many particles per energy level. just record if the particle energy is from 0 to .1 mev or .1 to .2 mev etc. and record the number.
+ 
+- 2/16 Next steps;
+- 1. To explore what's going on with med linac, I can do the following graphs:
+  - 1. energy distribution of various different particles
+    2. or a pdd graph per particle
+    3. Basically separate the graphs I have per particle. 
