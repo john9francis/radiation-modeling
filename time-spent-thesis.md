@@ -178,4 +178,7 @@ NEXT STEPS:
 **Notes:**
 - 2/15 TO DO:
 - 1. Create a geant4 app that records pdd with one energy of photon. should be pretty easy. Then check and make sure my pdd looks good.
-  2. I can also test what is the best energy spectrum for a good pdd. 
+  2. I can also test what is the best energy spectrum for a good pdd.
+ 
+- 2/16 To do:
+- 1. Now I just need to curve fit the bremsstrahlung spectrum from med linac and add that distribution to radiation shielding app.
