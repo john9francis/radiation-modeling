@@ -175,6 +175,10 @@ NEXT STEPS:
 - 2/16 10:29 pm 1 hr getting a pdd graph integrated in my radiation shielding app
 - 2/17 12:00 am .5 hr made radiation shielding be able to generate an energy spectrum instead of just one value of energy.
 - 2/17 8:50 am .25 hr testing my hypothesis that the spreading out of the beam is what's contributing to the weird pdd graph. So I'm making the beam spread out in radiation shielding. UPDATE: The PDD graph looks perfect with radiation shielding.
+- 2/17 10:00 am adjusting med linac so we record energy spectrum of different particles
+
+
+
 
 **Notes:**
 - 2/15 TO DO:
