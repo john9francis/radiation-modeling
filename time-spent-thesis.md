@@ -173,7 +173,7 @@ NEXT STEPS:
 - 2/16 9:48 pm .5 hr developing radiation shielding app
 - 2/16 4:18 pm 1 hr developing radiation shielding app, got basic structure set up
 - 2/16 10:29 pm 1 hr getting a pdd graph integrated in my radiation shielding app
-
+- 2/17 12:00 am .5 hr made radiation shielding be able to generate an energy spectrum instead of just one value of energy. 
 
 **Notes:**
 - 2/15 TO DO:
