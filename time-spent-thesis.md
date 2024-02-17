@@ -191,4 +191,6 @@ NEXT STEPS:
 - 1. To explore what's going on with med linac, I can do the following graphs:
   - 1. energy distribution of various different particles
     2. or a pdd graph per particle
-    3. Basically separate the graphs I have per particle. 
+    3. Basically separate the graphs I have per particle.
+    4. NOTE: This will be SUPER useful info for my thesis. If I find that the electrons are what make the weirdness on the pdd graph, that will be super good to note on my thesis.
+    5. Finally, curve fit my pdd data so I can get a better one for the radiation shielding app.
