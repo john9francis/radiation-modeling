@@ -199,3 +199,6 @@ NEXT STEPS:
     3. Basically separate the graphs I have per particle.
     4. NOTE: This will be SUPER useful info for my thesis. If I find that the electrons are what make the weirdness on the pdd graph, that will be super good to note on my thesis.
     5. Finally, curve fit my pdd data so I can get a better one for the radiation shielding app.
+   
+- 2/17 Next steps:
+- 1. test different things that can block electrons but not photons
