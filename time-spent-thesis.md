@@ -8,6 +8,7 @@ Contents:
 - [Week 4](#week-4-128-23)
 - [Week 5](#week-5-24-210)
 - [Week 6](#week-6-211-217)
+- [Week 7](#week-7-218-224)
 
 # Notes
 Writing order: 
