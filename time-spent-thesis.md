@@ -211,4 +211,4 @@ NEXT STEPS:
 - [ ] Finish first draft of thesis
 
 **Time:**
-- 2/19 9:39 working on finishing up rad shield
+- 2/19 9:39 .5 hrs working on finishing up rad shield NOTE: Started the pga messenger
