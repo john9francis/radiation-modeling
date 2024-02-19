@@ -178,6 +178,14 @@ NEXT STEPS:
 - 2/17 10:00 am 1.5 hrs adjusting med linac so we record energy spectrum of different particles. Also fit the spectrum curves
 - 2/17 1:51 pm 1.5 hrs testing out radiation shielding with the photons and electrons
 
+# Week 7: 2/18-2/24
+
+**Goals:**
+- [ ] Finish first draft of thesis
+
+**Time:**
+- 2:19 working on 
+
 
 
 
