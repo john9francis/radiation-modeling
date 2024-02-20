@@ -213,4 +213,4 @@ NEXT STEPS:
 **Time:**
 - 2/19 9:39 .5 hrs working on finishing up rad shield NOTE: Started the pga messenger
 - 2/19 11:20 1 hr working on pga messenger
-- 2/19 4:41 pm working on pga messenger
+- 2/19 4:41 pm 2 hrs working on pga messenger
