@@ -215,3 +215,4 @@ NEXT STEPS:
 - 2/19 11:20 1 hr working on pga messenger
 - 2/19 4:41 pm 2 hrs working on pga messenger
 - 2/19 8:08 pm 2.75 hrs working on thesis until I got too tired
+- 2/22 2:54 pm grinding out results section
