@@ -216,9 +216,10 @@ NEXT STEPS:
 - 2/19 4:41 pm 2 hrs working on pga messenger
 - 2/19 8:08 pm 2.75 hrs working on thesis until I got too tired
 - 2/22 2:54 pm .5 hr grinding out results section
-- 2/23 8:30 pm 1.5 hrs working on procedure section
+- 2/23 8:30 pm 1.75 hrs working on procedure section
 
 **Notes:**
 - 2/23 : TODO:
 - Get an official thesis release 2 on my github
 - Same with radiation shielding!!!
+- Put a lead shield right after the secondary collimator. Perhaps the low energy particles we're seeing are coming out of the edges, and not out of the hole where the beam is supposed to come out?
