@@ -209,6 +209,7 @@ NEXT STEPS:
 
 **Goals:**
 - [ ] Finish first draft of thesis
+- [X] ALMOST DONE with first draft!
 
 **Time:**
 - 2/19 9:39 .5 hrs working on finishing up rad shield NOTE: Started the pga messenger
@@ -217,7 +218,7 @@ NEXT STEPS:
 - 2/19 8:08 pm 2.75 hrs working on thesis until I got too tired
 - 2/22 2:54 pm .5 hr grinding out results section
 - 2/23 8:30 pm 1.75 hrs working on procedure section
-- 2/24 10:22 pm working on results
+- 2/24 10:22 pm 2.5 hr working on results UPDATE: Got the FFF graphs input, and made significant work on the discussion section.
 
 **Notes:**
 - 2/23 : TODO:
