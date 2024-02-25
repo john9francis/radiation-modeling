@@ -217,6 +217,7 @@ NEXT STEPS:
 - 2/19 8:08 pm 2.75 hrs working on thesis until I got too tired
 - 2/22 2:54 pm .5 hr grinding out results section
 - 2/23 8:30 pm 1.75 hrs working on procedure section
+- 2/24 10:22 pm working on results
 
 **Notes:**
 - 2/23 : TODO:
