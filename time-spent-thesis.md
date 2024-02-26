@@ -225,3 +225,15 @@ NEXT STEPS:
 - Get an official thesis release 2 on my github
 - Same with radiation shielding!!!
 - Put a lead shield right after the secondary collimator. Perhaps the low energy particles we're seeing are coming out of the edges, and not out of the hole where the beam is supposed to come out?
+
+
+# Week 8: 2/25-3/2
+
+**Goals:**
+- [ ] Finish first draft
+- [ ] Give it to some people to read over
+
+**Time:**
+- 2/26 8:50 am working on procedure
+
+**Notes:**
