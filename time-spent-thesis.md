@@ -234,6 +234,6 @@ NEXT STEPS:
 - [ ] Give it to some people to read over
 
 **Time:**
-- 2/26 8:50 am working on procedure
+- 2/26 8:50 am 1.5 hrs working on procedure and background. Edited quite a bit and added some good stuff into background.
 
 **Notes:**
