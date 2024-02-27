@@ -236,5 +236,6 @@ NEXT STEPS:
 **Time:**
 - 2/26 8:50 am 1.75 hrs working on procedure and background. Edited quite a bit and added some good stuff into background.
 - 2/26 10:06 pm .25 hr Writing introduction
+- 2/27 12:52 pm thesis class
 
 **Notes:**
