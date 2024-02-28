@@ -237,6 +237,6 @@ NEXT STEPS:
 - 2/26 8:50 am 1.75 hrs working on procedure and background. Edited quite a bit and added some good stuff into background.
 - 2/26 10:06 pm .25 hr Writing introduction
 - 2/27 12:52 pm 3.25 hrs thesis class and finishing up thesis first draft.
-- 2/27 5:16 pm putting code in thesis 
+- 2/27 5:16 pm 1 hr putting code in thesis and printing it off!
 
 **Notes:**
