@@ -255,3 +255,4 @@ NEXT STEPS:
 **Time:**
 - 3/4 3:00 pm .5 hr talking with datwyler about changes
 - 3/5 8:25 am .25 hr working on introduction a little more
+- 3/5 12:54 pm thesis class and working on the intro
