@@ -9,6 +9,8 @@ Contents:
 - [Week 5](#week-5-24-210)
 - [Week 6](#week-6-211-217)
 - [Week 7](#week-7-218-224)
+- [Week 8](#week-8-225-32)
+- [Week 9](#week-9-33-39)
 
 # Notes
 Writing order: 
@@ -230,8 +232,8 @@ NEXT STEPS:
 # Week 8: 2/25-3/2
 
 **Goals:**
-- [ ] Finish first draft
-- [ ] Give it to some people to read over
+- [x] Finish first draft
+- [x] Give it to some people to read over
 
 **Time:**
 - 2/26 8:50 am 1.75 hrs working on procedure and background. Edited quite a bit and added some good stuff into background.
@@ -240,3 +242,16 @@ NEXT STEPS:
 - 2/27 5:16 pm 1 hr putting code in thesis and printing it off!
 
 **Notes:**
+
+
+# Week 9: 3/3-3/9
+**Goals:**
+- [ ] Implement datwyler's changes
+- [ ] implement keaton's changes
+- [ ] implement oliphant's changes
+- [ ] implement kelley's changes
+- [ ] meet with hansen and talk about it
+
+**Time:**
+- 3/4 3:00 pm .5 hr talking with datwyler about changes
+- 3/5 8:25 am working on introduction a little more
