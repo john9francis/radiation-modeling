@@ -256,3 +256,4 @@ NEXT STEPS:
 - 3/4 3:00 pm .5 hr talking with datwyler about changes
 - 3/5 8:25 am .25 hr working on introduction a little more
 - 3/5 12:54 pm 1 hr thesis class and working on the intro
+- 3/6 7:04 pm making the code look good in my thesis
