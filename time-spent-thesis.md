@@ -257,4 +257,5 @@ NEXT STEPS:
 - 3/5 8:25 am .25 hr working on introduction a little more
 - 3/5 12:54 pm 1 hr thesis class and working on the intro
 - 3/6 7:04 pm 2.25 hr making the code look good in my thesis and revising intro and procedure.
-- 3/7 2:00 pm .75 hr revising intro 
+- 3/7 2:00 pm .75 hr revising intro
+- 3/9 4:30 pm .25 hr revising a bit and sending it to my dad and Abram to look over
