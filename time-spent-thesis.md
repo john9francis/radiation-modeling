@@ -259,4 +259,4 @@ NEXT STEPS:
 - 3/6 7:04 pm 2.25 hr making the code look good in my thesis and revising intro and procedure.
 - 3/7 2:00 pm .75 hr revising intro
 - 3/9 4:30 pm .25 hr revising a bit and sending it to my dad and Abram to look over
-- 3/9 9:24 pm revising thesis, looking into combining graphs
+- 3/9 9:24 pm 2 hrs revising thesis, looking into combining graphs
