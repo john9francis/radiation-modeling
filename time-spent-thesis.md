@@ -267,4 +267,4 @@ NEXT STEPS:
 - [ ] Finish second draft
 
 **Time:**
-- 3/13 9:40 pm working on results section
+- 3/13 9:40 pm 1.5 hrs working on results section, made significant progress.
