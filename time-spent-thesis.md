@@ -260,3 +260,11 @@ NEXT STEPS:
 - 3/7 2:00 pm .75 hr revising intro
 - 3/9 4:30 pm .25 hr revising a bit and sending it to my dad and Abram to look over
 - 3/9 9:24 pm 2 hrs revising thesis, looking into combining graphs
+
+
+# Week 10: 3/10-3/16
+**Goals:**
+- [ ] Finish second draft
+
+**Time:**
+- 3/13 9:40 pm working on results section
