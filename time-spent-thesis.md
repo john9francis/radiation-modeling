@@ -268,3 +268,4 @@ NEXT STEPS:
 
 **Time:**
 - 3/13 9:40 pm 1.5 hrs working on results section, made significant progress.
+- 4/14 8:13 pm working on grammer and stuff
