@@ -269,3 +269,9 @@ NEXT STEPS:
 **Time:**
 - 3/13 9:40 pm 1.5 hrs working on results section, made significant progress.
 - 4/14 8:13 pm 1.5 hrs working on grammer and stuff. UPDATE: finished results and added license to source code. 
+
+
+
+# Week 11: 3/17-3/23
+
+- 3/18 1:35 pm working w/ hansen about thesis
