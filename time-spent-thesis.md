@@ -274,4 +274,4 @@ NEXT STEPS:
 
 # Week 11: 3/17-3/23
 
-- 3/18 1:35 pm working w/ hansen about thesis
+- 3/18 1:35 pm 1.5 hr working w/ hansen about thesis
