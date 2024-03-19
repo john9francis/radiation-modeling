@@ -265,6 +265,10 @@ NEXT STEPS:
 # Week 10: 3/10-3/16
 **Goals:**
 - [ ] Finish second draft
+- [ ] Rewrite discussion to include stuff about pure photon beam
+- [ ] Fix figures with word instead of paint
+- [ ] Make longer captions in the figures
+- [ ] Implement people's changes
 
 **Time:**
 - 3/13 9:40 pm 1.5 hrs working on results section, made significant progress.
@@ -275,3 +279,4 @@ NEXT STEPS:
 # Week 11: 3/17-3/23
 
 - 3/18 1:35 pm 1.5 hr working w/ hansen about thesis
+- 3/19 10:00 am 2 hrs making a pure photon beam straight from med linac. Time to revise thesis
