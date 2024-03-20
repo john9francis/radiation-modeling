@@ -281,4 +281,4 @@ NEXT STEPS:
 # Week 11: 3/17-3/23
 
 - 3/18 1:35 pm 1.5 hr working w/ hansen about thesis
-- 3/19 10:00 am 2 hrs making a pure photon beam straight from med linac. Time to revise thesis
+- 3/19 10:00 am 3 hrs making a pure photon beam straight from med linac. Time to revise thesis
