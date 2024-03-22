@@ -284,3 +284,4 @@ NEXT STEPS:
 - 3/19 10:00 am 3 hrs making a pure photon beam straight from med linac. Time to revise thesis
 - 3/19 10:00 pm 2 hrs working on procedure and introduction
 - 3/21 9:00 am 5.5 hrs meeting w. thesis advisor and working on results. next step is discussion, and then fix all the pictures!
+- 3/21 10:32 pm working on figures
