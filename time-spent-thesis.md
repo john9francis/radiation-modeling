@@ -276,6 +276,10 @@ NEXT STEPS:
 - 3/13 9:40 pm 1.5 hrs working on results section, made significant progress.
 - 3/14 8:13 pm 1.5 hrs working on grammer and stuff. UPDATE: finished results and added license to source code. 
 
+**To do:**
+- [ ] Figures
+- [ ] Discussion
+- [ ] Grammar
 
 
 # Week 11: 3/17-3/23
@@ -285,3 +289,4 @@ NEXT STEPS:
 - 3/19 10:00 pm 2 hrs working on procedure and introduction
 - 3/21 9:00 am 5.5 hrs meeting w. thesis advisor and working on results. next step is discussion, and then fix all the pictures!
 - 3/21 10:32 pm 1.75 hrs working on figures. I made one of my own figures and MAN is it a lot of work.
+- 3/22 9:35 am working on refurbishing all the figures
