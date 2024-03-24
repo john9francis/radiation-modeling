@@ -291,4 +291,4 @@ NEXT STEPS:
 - 3/21 10:32 pm 1.75 hrs working on figures. I made one of my own figures and MAN is it a lot of work.
 - 3/22 9:35 am 1.5 hrs working on refurbishing all the figures
 - 3/22 1:24 pm 3 hrs working on figures
-- 3/23 7:23 pm working on discussion
+- 3/23 7:23 pm 3.5 working on discussion
