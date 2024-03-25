@@ -277,8 +277,9 @@ NEXT STEPS:
 - 3/14 8:13 pm 1.5 hrs working on grammer and stuff. UPDATE: finished results and added license to source code. 
 
 **To do:**
-- [ ] Figures
-- [ ] Discussion
+- [x] Figures
+- [ ] Captions
+- [x] Discussion
 - [ ] Grammar
 
 
