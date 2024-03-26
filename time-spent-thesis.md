@@ -278,7 +278,7 @@ NEXT STEPS:
 
 **To do:**
 - [x] Figures
-- [ ] Captions
+- [x] Captions
 - [x] Discussion
 - [ ] Grammar
 
@@ -298,3 +298,5 @@ NEXT STEPS:
 
 - 3/25 6:50 pm .75 hr working on figure captions
 - 3/26 9:18 am 1.75 hrs working on figure captions
+- 3/26 12:45 pm 2 hrs thesis class, scheduling defense, and talking with professors
+- 3/26 3:56 pm working on grammer and sentence structure
