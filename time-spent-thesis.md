@@ -296,4 +296,5 @@ NEXT STEPS:
 
 # Week 12: 3/24-3/30
 
-- 3/25 6:50 pm .75 hr working on figure captians
+- 3/25 6:50 pm .75 hr working on figure captions
+- 3/26 9:18 am working on figure captions
