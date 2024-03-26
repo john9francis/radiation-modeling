@@ -293,3 +293,7 @@ NEXT STEPS:
 - 3/22 9:35 am 1.5 hrs working on refurbishing all the figures
 - 3/22 1:24 pm 3 hrs working on figures
 - 3/23 7:23 pm 3.5 working on discussion
+
+# Week 12: 3/24-3/30
+
+- 3/25 6:50 pm working on figure captians
