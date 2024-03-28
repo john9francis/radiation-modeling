@@ -300,4 +300,4 @@ NEXT STEPS:
 - 3/26 9:18 am 1.75 hrs working on figure captions
 - 3/26 12:45 pm 2 hrs thesis class, scheduling defense, and talking with professors
 - 3/26 3:56 pm 2 hrs working on grammer and sentence structure
-- 3/28 2:35 pm reading over for grammar
+- 3/28 2:35 pm .5 hr reading over for grammar
