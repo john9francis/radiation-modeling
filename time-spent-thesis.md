@@ -303,4 +303,4 @@ NEXT STEPS:
 - 3/28 2:35 pm .5 hr reading over for grammar
 - 3/29 12:00 am 1.25 hr revising
 - 3/30 1:15 pm 2 hrs revising
-- 3/30 8:07 pm working on presentation
+- 3/30 8:07 pm .5 hr working on presentation
