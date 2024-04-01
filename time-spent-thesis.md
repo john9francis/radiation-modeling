@@ -304,3 +304,7 @@ NEXT STEPS:
 - 3/29 12:00 am 1.25 hr revising
 - 3/30 1:15 pm 2 hrs revising
 - 3/30 8:07 pm .5 hr working on presentation
+
+# Week 13: 3/31-4/6
+
+- 4/1 9:30 am reading over thesis for capitalization and working on presentation
