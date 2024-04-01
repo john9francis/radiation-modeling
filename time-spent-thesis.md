@@ -307,4 +307,4 @@ NEXT STEPS:
 
 # Week 13: 3/31-4/6
 
-- 4/1 9:30 am reading over thesis for capitalization and working on presentation
+- 4/1 9:30 am .5 hr working on presentation
